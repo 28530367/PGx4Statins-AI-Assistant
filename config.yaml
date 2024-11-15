@@ -1,19 +1,12 @@
-openai:
-  api_key: xxxx
-  embedding_model_name: text-embedding-ada-002
-  chat_model_name: gpt-4
-  chat_search_type: mmr   # mmr or similarity
-  chat_search_k: 4        # number of best resources to pickup
-
 chromadb: # this is the settings for the vector database, persist_directory and collection_name are configurable
-  persist_directory: /path/to/chroma-db/persist
+  persist_directory: /media/disk2/HSW/PGx4Statins-AI-Assistant/chroma-db/persist
   chroma_db_impl: duckdb+parquet
   collection_name: slco1b1_collection
 
 data: # this is the settings for the data directory, directory is configurable
   directory:
-    - /path/to/data/slco1b1/csvs
-    - /path/to/data/slco1b1/pdfs
+    - /media/disk2/HSW/PGx4Statins-AI-Assistant/data/slco1b1/csvs
+    - /media/disk2/HSW/PGx4Statins-AI-Assistant/data/slco1b1/pdfs
 
 parse_pdf:
   chunk_size: 1000
@@ -22,3 +15,9 @@ parse_pdf:
   # this is the settings for the validation file, file is configurable
 validation_file:
   /path/to/data/llm_gt.csv
+
+ollama:
+  embedding_model_name: all-mpnet-base-v2
+  chat_model_name: llama3.1
+  chat_search_type: mmr   # mmr or similarity
+  chat_search_k: 4        # number of best resources to pickup

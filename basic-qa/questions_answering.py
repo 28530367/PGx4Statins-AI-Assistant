@@ -1,23 +1,25 @@
 # -*- coding:utf-8 -*-
 # Created by liwenw at 6/30/23
 
-from langchain.vectorstores.chroma import Chroma
-from langchain.chat_models import ChatOpenAI
-from langchain.embeddings.openai import OpenAIEmbeddings
-# from langchain.chains.qa_with_sources.retrieval import RetrievalQAWithSourcesChain
+from langchain_ollama import ChatOllama
+from langchain_chroma import Chroma
 from langchain.chains import RetrievalQAWithSourcesChain
 from dotenv import load_dotenv
 import os
 from chromadb.config import Settings
+import chromadb
 from langchain.prompts.chat import (
     ChatPromptTemplate,
     SystemMessagePromptTemplate,
     HumanMessagePromptTemplate,
 )
 
+
 from omegaconf import OmegaConf
 import argparse
 from templates import system_provider_template, human_provider_template, system_patient_template, human_patient_template
+
+from langchain_huggingface import HuggingFaceEmbeddings
 
 def create_parser():
     parser = argparse.ArgumentParser(description='demo how to use ai embeddings to question/answer.')
@@ -38,36 +40,32 @@ def main():
     yamlfile = args.yamlfile
     config = OmegaConf.load(yamlfile)
 
-    openai_api_key = os.getenv("OPENAI_API_KEY")
-    if openai_api_key is None:
-        openai_api_key = config.openai.api_key
-
     # Load environment variables
     load_dotenv()
 
-    model = ChatOpenAI(
-        openai_api_key=openai_api_key,
-        model_name=config.openai.chat_model_name,
+    model = ChatOllama(
+        model=config.ollama.chat_model_name,
         temperature=0.0,
-        verbose=True
+        # verbose=True
     )
 
-    embeddings = OpenAIEmbeddings()
+    model_name = "sentence-transformers/all-mpnet-base-v2"
+    model_kwargs = {'device': 'cpu'}
+    embeddings = HuggingFaceEmbeddings(model_name=model_name, model_kwargs=model_kwargs)
 
     collection_name = config.chromadb.collection_name
     persist_directory = config.chromadb.persist_directory
-    chroma_db_impl = config.chromadb.chroma_db_impl
+
+    persistent_client = chromadb.PersistentClient(path=persist_directory)
+    collection = persistent_client.get_or_create_collection(collection_name)
 
     vector_store = Chroma(collection_name=collection_name,
+                          client=persistent_client,
                           embedding_function=embeddings,
-                          client_settings=Settings(
-                              chroma_db_impl=chroma_db_impl,
-                              persist_directory=persist_directory
-                          ),
                           )
 
-    chat_search_type = config.openai.chat_search_type
-    chat_search_k = config.openai.chat_search_k
+    chat_search_type = config.ollama.chat_search_type
+    chat_search_k = config.ollama.chat_search_k
     retriever = vector_store.as_retriever(search_type=chat_search_type, search_kwargs={"k": chat_search_k})
 
     if args.role == "provider":
@@ -107,7 +105,7 @@ def main():
             break
 
         # Get answer
-        response = chain(question)
+        response = chain.invoke(question)
         answer = response["answer"]
         source = response["source_documents"]
 

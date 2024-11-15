@@ -2,18 +2,14 @@
 # Created by liwenw at 6/12/23
 
 import os
-import openai
-from langchain.document_loaders import CSVLoader
-from langchain.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import CSVLoader, PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from chromadb.config import Settings
 from chromadb.utils import embedding_functions
 import chromadb
 
 from omegaconf import OmegaConf
 import argparse
 from source_metadata_mapping import pick_metadata
-
 
 def create_parser():
     parser = argparse.ArgumentParser(description='demo how to use ai embeddings to chat.')
@@ -85,26 +81,12 @@ def main():
 
     # Create a new Chroma client with persistence enabled.
     persist_directory = config.chromadb.persist_directory
-    chroma_db_impl = config.chromadb.chroma_db_impl
-    chroma_client = chromadb.Client(Settings(
-        chroma_db_impl=chroma_db_impl,
-        persist_directory=persist_directory
-    ))
-    # Start from scratch
-    chroma_client.reset()
+    chroma_client =  chromadb.PersistentClient(path=persist_directory)
 
-    openai_api_key = os.getenv("OPENAI_API_KEY")
-    if openai_api_key is None:
-        openai_api_key = config.openai.api_key
-
-    # openai.api_key = config.openai.api_key
-    openai_ef = embedding_functions.OpenAIEmbeddingFunction(
-                    api_key=openai_api_key,
-                    model_name=config.openai.embedding_model_name,
-                )
+    chroma_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name=config.ollama.embedding_model_name)
 
     collection_name = config.chromadb.collection_name
-    collection = chroma_client.get_or_create_collection(name=collection_name, embedding_function=openai_ef)
+    collection = chroma_client.get_or_create_collection(name=collection_name, embedding_function=chroma_ef)
     i=collection.count()
 
     for data_dir in data_dirs:
