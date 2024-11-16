@@ -14,7 +14,6 @@ from langchain.prompts.chat import (
     HumanMessagePromptTemplate,
 )
 
-
 from omegaconf import OmegaConf
 import argparse
 from templates import system_provider_template, human_provider_template, system_patient_template, human_patient_template
@@ -57,7 +56,6 @@ def main():
     persist_directory = config.chromadb.persist_directory
 
     persistent_client = chromadb.PersistentClient(path=persist_directory)
-    collection = persistent_client.get_or_create_collection(collection_name)
 
     vector_store = Chroma(collection_name=collection_name,
                           client=persistent_client,
