@@ -1,6 +1,8 @@
 # -*- coding:utf-8 -*-
 # Created by liwenw at 6/30/23
 
+# python3 questions_answering.py -y /media/disk2/HSW/PGx4Statins-AI-Assistant/config.yaml -r patient
+
 from langchain_ollama import ChatOllama
 from langchain_chroma import Chroma
 from langchain.chains import RetrievalQAWithSourcesChain
