@@ -41,3 +41,14 @@ for users to make their learning experience enjoyable.
 ----------------
 {question}
 """
+
+# prompt template from HSW
+system_HSW_template = """
+You are an AI assistant.
+----------------
+{summaries}
+"""
+human_HSW_template = """
+----------------
+{question}
+"""

@@ -1,0 +1,159 @@
+drug,genes,mode,question,answer
+abacavir,HLA-B,clinician,I want to give my patient abacavir. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,HLA-B
+abacavir,HLA-B,researcher,What genes have actionable pharmacogenetic guidelines for abacavir? Please respond with nothing but a list of gene symbols delimited by ';'.,HLA-B
+allopurinol,HLA-B,clinician,I want to give my patient allopurinol. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,HLA-B
+allopurinol,HLA-B,researcher,What genes have actionable pharmacogenetic guidelines for allopurinol? Please respond with nothing but a list of gene symbols delimited by ';'.,HLA-B
+amikacin,MT-RNR1,clinician,I want to give my patient amikacin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+amikacin,MT-RNR1,researcher,What genes have actionable pharmacogenetic guidelines for amikacin? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+amitriptyline,CYP2D6;CYP2C19,clinician,I want to give my patient amitriptyline. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6;CYP2C19
+amitriptyline,CYP2D6;CYP2C19,researcher,What genes have actionable pharmacogenetic guidelines for amitriptyline? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6;CYP2C19
+atazanavir,UGT1A1,clinician,I want to give my patient atazanavir. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,UGT1A1
+atazanavir,UGT1A1,researcher,What genes have actionable pharmacogenetic guidelines for atazanavir? Please respond with nothing but a list of gene symbols delimited by ';'.,UGT1A1
+atomoxetine,CYP2D6,clinician,I want to give my patient atomoxetine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+atomoxetine,CYP2D6,researcher,What genes have actionable pharmacogenetic guidelines for atomoxetine? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+atorvastatin,SLCO1B1,clinician,I want to give my patient atorvastatin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1
+atorvastatin,SLCO1B1,researcher,What genes have actionable pharmacogenetic guidelines for atorvastatin? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1
+azathioprine,NUDT15;TPMT,clinician,I want to give my patient azathioprine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,NUDT15;TPMT
+azathioprine,NUDT15;TPMT,researcher,What genes have actionable pharmacogenetic guidelines for azathioprine? Please respond with nothing but a list of gene symbols delimited by ';'.,NUDT15;TPMT
+capecitabine,DPYD,clinician,I want to give my patient capecitabine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,DPYD
+capecitabine,DPYD,researcher,What genes have actionable pharmacogenetic guidelines for capecitabine? Please respond with nothing but a list of gene symbols delimited by ';'.,DPYD
+carbamazepine,HLA-A;HLA-B,clinician,I want to give my patient carbamazepine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,HLA-A;HLA-B
+carbamazepine,HLA-A;HLA-B,researcher,What genes have actionable pharmacogenetic guidelines for carbamazepine? Please respond with nothing but a list of gene symbols delimited by ';'.,HLA-A;HLA-B
+celecoxib,CYP2C9,clinician,I want to give my patient celecoxib. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+celecoxib,CYP2C9,researcher,What genes have actionable pharmacogenetic guidelines for celecoxib? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+citalopram,CYP2C19,clinician,I want to give my patient citalopram. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+citalopram,CYP2C19,researcher,What genes have actionable pharmacogenetic guidelines for citalopram? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+clopidogrel,CYP2C19,clinician,I want to give my patient clopidogrel. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+clopidogrel,CYP2C19,researcher,What genes have actionable pharmacogenetic guidelines for clopidogrel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+codeine,CYP2D6,clinician,I want to give my patient codeine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+codeine,CYP2D6,researcher,What genes have actionable pharmacogenetic guidelines for codeine? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+dapsone,G6PD,clinician,I want to give my patient dapsone. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+dapsone,G6PD,researcher,What genes have actionable pharmacogenetic guidelines for dapsone? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+desflurane,RYR1;CACNA1S,clinician,I want to give my patient desflurane. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+desflurane,RYR1;CACNA1S,researcher,What genes have actionable pharmacogenetic guidelines for desflurane? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+dibekacin,MT-RNR1,clinician,I want to give my patient dibekacin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+dibekacin,MT-RNR1,researcher,What genes have actionable pharmacogenetic guidelines for dibekacin? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+efavirenz,CYP2B6,clinician,I want to give my patient efavirenz. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2B6
+efavirenz,CYP2B6,researcher,What genes have actionable pharmacogenetic guidelines for efavirenz? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2B6
+enflurane,RYR1;CACNA1S,clinician,I want to give my patient enflurane. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+enflurane,RYR1;CACNA1S,researcher,What genes have actionable pharmacogenetic guidelines for enflurane? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+escitalopram,CYP2C19,clinician,I want to give my patient escitalopram. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+escitalopram,CYP2C19,researcher,What genes have actionable pharmacogenetic guidelines for escitalopram? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+fluorouracil,DPYD,clinician,I want to give my patient fluorouracil. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,DPYD
+fluorouracil,DPYD,researcher,What genes have actionable pharmacogenetic guidelines for fluorouracil? Please respond with nothing but a list of gene symbols delimited by ';'.,DPYD
+flurbiprofen,CYP2C9,clinician,I want to give my patient flurbiprofen. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+flurbiprofen,CYP2C9,researcher,What genes have actionable pharmacogenetic guidelines for flurbiprofen? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+fluvastatin,SLCO1B1;CYP2C9,clinician,I want to give my patient fluvastatin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1;CYP2C9
+fluvastatin,SLCO1B1;CYP2C9,researcher,What genes have actionable pharmacogenetic guidelines for fluvastatin? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1;CYP2C9
+fosphenytoin,CYP2C9;HLA-B,clinician,I want to give my patient fosphenytoin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9;HLA-B
+fosphenytoin,CYP2C9;HLA-B,researcher,What genes have actionable pharmacogenetic guidelines for fosphenytoin? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9;HLA-B
+gentamicin,MT-RNR1,clinician,I want to give my patient gentamicin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+gentamicin,MT-RNR1,researcher,What genes have actionable pharmacogenetic guidelines for gentamicin? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+halothane,RYR1;CACNA1S,clinician,I want to give my patient halothane. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+halothane,RYR1;CACNA1S,researcher,What genes have actionable pharmacogenetic guidelines for halothane? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+ibuprofen,CYP2C9,clinician,I want to give my patient ibuprofen. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+ibuprofen,CYP2C9,researcher,What genes have actionable pharmacogenetic guidelines for ibuprofen? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+irinotecan,UGT1A1,clinician,I want to give my patient irinotecan. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,UGT1A1
+irinotecan,UGT1A1,researcher,What genes have actionable pharmacogenetic guidelines for irinotecan? Please respond with nothing but a list of gene symbols delimited by ';'.,UGT1A1
+isoflurane,RYR1;CACNA1S,clinician,I want to give my patient isoflurane. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+isoflurane,RYR1;CACNA1S,researcher,What genes have actionable pharmacogenetic guidelines for isoflurane? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+ivacaftor,CFTR,clinician,I want to give my patient ivacaftor. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CFTR
+ivacaftor,CFTR,researcher,What genes have actionable pharmacogenetic guidelines for ivacaftor? Please respond with nothing but a list of gene symbols delimited by ';'.,CFTR
+kanamycin,MT-RNR1,clinician,I want to give my patient kanamycin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+kanamycin,MT-RNR1,researcher,What genes have actionable pharmacogenetic guidelines for kanamycin? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+lansoprazole,CYP2C19,clinician,I want to give my patient lansoprazole. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+lansoprazole,CYP2C19,researcher,What genes have actionable pharmacogenetic guidelines for lansoprazole? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+lornoxicam,CYP2C9,clinician,I want to give my patient lornoxicam. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+lornoxicam,CYP2C9,researcher,What genes have actionable pharmacogenetic guidelines for lornoxicam? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+lovastatin,SLCO1B1,clinician,I want to give my patient lovastatin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1
+lovastatin,SLCO1B1,researcher,What genes have actionable pharmacogenetic guidelines for lovastatin? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1
+meloxicam,CYP2C9,clinician,I want to give my patient meloxicam. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+meloxicam,CYP2C9,researcher,What genes have actionable pharmacogenetic guidelines for meloxicam? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+mercaptopurine,NUDT15;TPMT,clinician,I want to give my patient mercaptopurine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,NUDT15;TPMT
+mercaptopurine,NUDT15;TPMT,researcher,What genes have actionable pharmacogenetic guidelines for mercaptopurine? Please respond with nothing but a list of gene symbols delimited by ';'.,NUDT15;TPMT
+methoxyflurane,RYR1;CACNA1S,clinician,I want to give my patient methoxyflurane. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+methoxyflurane,RYR1;CACNA1S,researcher,What genes have actionable pharmacogenetic guidelines for methoxyflurane? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+methylene blue,G6PD,clinician,I want to give my patient methylene blue. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+methylene blue,G6PD,researcher,What genes have actionable pharmacogenetic guidelines for methylene blue? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+neomycin,MT-RNR1,clinician,I want to give my patient neomycin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+neomycin,MT-RNR1,researcher,What genes have actionable pharmacogenetic guidelines for neomycin? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+netilmicin,MT-RNR1,clinician,I want to give my patient netilmicin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+netilmicin,MT-RNR1,researcher,What genes have actionable pharmacogenetic guidelines for netilmicin? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+nitrofurantoin,G6PD,clinician,I want to give my patient nitrofurantoin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+nitrofurantoin,G6PD,researcher,What genes have actionable pharmacogenetic guidelines for nitrofurantoin? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+nortriptyline,CYP2D6,clinician,I want to give my patient nortriptyline. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+nortriptyline,CYP2D6,researcher,What genes have actionable pharmacogenetic guidelines for nortriptyline? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+omeprazole,CYP2C19,clinician,I want to give my patient omeprazole. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+omeprazole,CYP2C19,researcher,What genes have actionable pharmacogenetic guidelines for omeprazole? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+ondansetron,CYP2D6,clinician,I want to give my patient ondansetron. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+ondansetron,CYP2D6,researcher,What genes have actionable pharmacogenetic guidelines for ondansetron? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+oxcarbazepine,HLA-B,clinician,I want to give my patient oxcarbazepine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,HLA-B
+oxcarbazepine,HLA-B,researcher,What genes have actionable pharmacogenetic guidelines for oxcarbazepine? Please respond with nothing but a list of gene symbols delimited by ';'.,HLA-B
+pantoprazole,CYP2C19,clinician,I want to give my patient pantoprazole. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+pantoprazole,CYP2C19,researcher,What genes have actionable pharmacogenetic guidelines for pantoprazole? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+paromomycin,MT-RNR1,clinician,I want to give my patient paromomycin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+paromomycin,MT-RNR1,researcher,What genes have actionable pharmacogenetic guidelines for paromomycin? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+paroxetine,CYP2D6,clinician,I want to give my patient paroxetine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+paroxetine,CYP2D6,researcher,What genes have actionable pharmacogenetic guidelines for paroxetine? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+peginterferon alfa-2a,IFNL4;IFNL3,clinician,I want to give my patient peginterferon alfa-2a. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,IFNL4;IFNL3
+peginterferon alfa-2a,IFNL4;IFNL3,researcher,What genes have actionable pharmacogenetic guidelines for peginterferon alfa-2a? Please respond with nothing but a list of gene symbols delimited by ';'.,IFNL4;IFNL3
+peginterferon alfa-2b,IFNL4;IFNL3,clinician,I want to give my patient peginterferon alfa-2b. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,IFNL4;IFNL3
+peginterferon alfa-2b,IFNL4;IFNL3,researcher,What genes have actionable pharmacogenetic guidelines for peginterferon alfa-2b? Please respond with nothing but a list of gene symbols delimited by ';'.,IFNL4;IFNL3
+pegloticase,G6PD,clinician,I want to give my patient pegloticase. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+pegloticase,G6PD,researcher,What genes have actionable pharmacogenetic guidelines for pegloticase? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+phenytoin,CYP2C9;HLA-B,clinician,I want to give my patient phenytoin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9;HLA-B
+phenytoin,CYP2C9;HLA-B,researcher,What genes have actionable pharmacogenetic guidelines for phenytoin? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9;HLA-B
+piroxicam,CYP2C9,clinician,I want to give my patient piroxicam. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+piroxicam,CYP2C9,researcher,What genes have actionable pharmacogenetic guidelines for piroxicam? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+pitavastatin,SLCO1B1,clinician,I want to give my patient pitavastatin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1
+pitavastatin,SLCO1B1,researcher,What genes have actionable pharmacogenetic guidelines for pitavastatin? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1
+pitolisant,CYP2D6,clinician,I want to give my patient pitolisant. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+pitolisant,CYP2D6,researcher,What genes have actionable pharmacogenetic guidelines for pitolisant? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+plazomicin,MT-RNR1,clinician,I want to give my patient plazomicin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+plazomicin,MT-RNR1,researcher,What genes have actionable pharmacogenetic guidelines for plazomicin? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+pravastatin,SLCO1B1,clinician,I want to give my patient pravastatin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1
+pravastatin,SLCO1B1,researcher,What genes have actionable pharmacogenetic guidelines for pravastatin? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1
+primaquine,G6PD,clinician,I want to give my patient primaquine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+primaquine,G6PD,researcher,What genes have actionable pharmacogenetic guidelines for primaquine? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+rasburicase,G6PD,clinician,I want to give my patient rasburicase. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+rasburicase,G6PD,researcher,What genes have actionable pharmacogenetic guidelines for rasburicase? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+ribostamycin,MT-RNR1,clinician,I want to give my patient ribostamycin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+ribostamycin,MT-RNR1,researcher,What genes have actionable pharmacogenetic guidelines for ribostamycin? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+rosuvastatin,SLCO1B1;ABCG2,clinician,I want to give my patient rosuvastatin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1;ABCG2
+rosuvastatin,SLCO1B1;ABCG2,researcher,What genes have actionable pharmacogenetic guidelines for rosuvastatin? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1;ABCG2
+sertraline,CYP2C19,clinician,I want to give my patient sertraline. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+sertraline,CYP2C19,researcher,What genes have actionable pharmacogenetic guidelines for sertraline? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+sevoflurane,RYR1;CACNA1S,clinician,I want to give my patient sevoflurane. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+sevoflurane,RYR1;CACNA1S,researcher,What genes have actionable pharmacogenetic guidelines for sevoflurane? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+simvastatin,SLCO1B1,clinician,I want to give my patient simvastatin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1
+simvastatin,SLCO1B1,researcher,What genes have actionable pharmacogenetic guidelines for simvastatin? Please respond with nothing but a list of gene symbols delimited by ';'.,SLCO1B1
+siponimod,CYP2C9,clinician,I want to give my patient siponimod. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+siponimod,CYP2C9,researcher,What genes have actionable pharmacogenetic guidelines for siponimod? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+streptomycin,MT-RNR1,clinician,I want to give my patient streptomycin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+streptomycin,MT-RNR1,researcher,What genes have actionable pharmacogenetic guidelines for streptomycin? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+succinylcholine,RYR1;CACNA1S,clinician,I want to give my patient succinylcholine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+succinylcholine,RYR1;CACNA1S,researcher,What genes have actionable pharmacogenetic guidelines for succinylcholine? Please respond with nothing but a list of gene symbols delimited by ';'.,RYR1;CACNA1S
+tacrolimus,CYP3A5,clinician,I want to give my patient tacrolimus. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP3A5
+tacrolimus,CYP3A5,researcher,What genes have actionable pharmacogenetic guidelines for tacrolimus? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP3A5
+tafenoquine,G6PD,clinician,I want to give my patient tafenoquine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+tafenoquine,G6PD,researcher,What genes have actionable pharmacogenetic guidelines for tafenoquine? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+tamoxifen,CYP2D6,clinician,I want to give my patient tamoxifen. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+tamoxifen,CYP2D6,researcher,What genes have actionable pharmacogenetic guidelines for tamoxifen? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+tenoxicam,CYP2C9,clinician,I want to give my patient tenoxicam. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+tenoxicam,CYP2C9,researcher,What genes have actionable pharmacogenetic guidelines for tenoxicam? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C9
+thioguanine,NUDT15;TPMT,clinician,I want to give my patient thioguanine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,NUDT15;TPMT
+thioguanine,NUDT15;TPMT,researcher,What genes have actionable pharmacogenetic guidelines for thioguanine? Please respond with nothing but a list of gene symbols delimited by ';'.,NUDT15;TPMT
+tobramycin,MT-RNR1,clinician,I want to give my patient tobramycin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+tobramycin,MT-RNR1,researcher,What genes have actionable pharmacogenetic guidelines for tobramycin? Please respond with nothing but a list of gene symbols delimited by ';'.,MT-RNR1
+toluidine blue,G6PD,clinician,I want to give my patient toluidine blue. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+toluidine blue,G6PD,researcher,What genes have actionable pharmacogenetic guidelines for toluidine blue? Please respond with nothing but a list of gene symbols delimited by ';'.,G6PD
+tramadol,CYP2D6,clinician,I want to give my patient tramadol. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+tramadol,CYP2D6,researcher,What genes have actionable pharmacogenetic guidelines for tramadol? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+tropisetron,CYP2D6,clinician,I want to give my patient tropisetron. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+tropisetron,CYP2D6,researcher,What genes have actionable pharmacogenetic guidelines for tropisetron? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+voriconazole,CYP2C19,clinician,I want to give my patient voriconazole. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+voriconazole,CYP2C19,researcher,What genes have actionable pharmacogenetic guidelines for voriconazole? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2C19
+vortioxetine,CYP2D6,clinician,I want to give my patient vortioxetine. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+vortioxetine,CYP2D6,researcher,What genes have actionable pharmacogenetic guidelines for vortioxetine? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP2D6
+warfarin,CYP4F2;CYP2C9;VKORC1,clinician,I want to give my patient warfarin. What genes should I include in a pharmacogenetics panel? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP4F2;CYP2C9;VKORC1
+warfarin,CYP4F2;CYP2C9;VKORC1,researcher,What genes have actionable pharmacogenetic guidelines for warfarin? Please respond with nothing but a list of gene symbols delimited by ';'.,CYP4F2;CYP2C9;VKORC1

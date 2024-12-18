@@ -1,6 +1,8 @@
 # -*- coding:utf-8 -*-
 # Created by liwenw at 6/12/23
 
+# python upsert_chroma.py -y ../config.yaml
+
 import os
 from langchain_community.document_loaders import CSVLoader, PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -20,10 +22,12 @@ def create_parser():
 
 def upsert_csv(collection, filename, data_dir, i):
     metadata = pick_metadata(filename)
+    # print("metadata", metadata)
     csv_loader = CSVLoader(os.path.join(data_dir, filename))
     pages = csv_loader.load_and_split()
+    # print(pages)
     for page in pages:
-        # print(page.metadata)
+        # print("page.metadata", page.metadata)
         collection.upsert(
             documents=page.page_content,
             metadatas=[metadata],
@@ -33,12 +37,13 @@ def upsert_csv(collection, filename, data_dir, i):
 
     return i
 
+
 def upsert_txt(collection, filename, data_dir, i):
     metadata = pick_metadata(filename)
+    # print(metadata)
     file = open(os.path.join(data_dir, filename), 'r')
     lines = file.readlines()
     for line in lines:
-        # print(page.metadata)
         collection.upsert(
             documents=line,
             metadatas=[metadata],
@@ -51,6 +56,7 @@ def upsert_txt(collection, filename, data_dir, i):
 
 def upsert_pdf(collection, filename, data_dir, i, chunk_size, chunk_overlap):
     metadata = pick_metadata(filename)
+    # print(metadata)
     pdf_loader = PyPDFLoader(os.path.join(data_dir, filename))
     data = pdf_loader.load()
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
@@ -96,6 +102,9 @@ def main():
                 print(f"Upserting {filename}")
                 i = upsert_pdf(collection, filename, data_dir, i, chunk_size, chunk_overlap)
             elif filename.endswith(".csv") and os.path.isfile(os.path.join(data_dir, filename)):
+                print(f"Upserting {filename}")
+                i = upsert_csv(collection, filename, data_dir, i)
+            elif filename.endswith(".txt") and os.path.isfile(os.path.join(data_dir, filename)):
                 print(f"Upserting {filename}")
                 i = upsert_txt(collection, filename, data_dir, i)
             else:

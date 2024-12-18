@@ -1,0 +1,85 @@
+gene	allele	question	answer
+ABCG2	rs2231142 variant (T)	What SNPs are in the allele definition for ABCG2 rs2231142 variant (T)? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs2231142
+ABCG2	rs2231142 reference (G)	What SNPs are in the allele definition for ABCG2 rs2231142 reference (G)? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs2231142
+CACNA1S	Reference	What SNPs are in the allele definition for CACNA1S Reference? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs772226819;rs1800559
+CACNA1S	c.520C>T	What SNPs are in the allele definition for CACNA1S c.520C>T? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs772226819
+CACNA1S	c.3257G>A	What SNPs are in the allele definition for CACNA1S c.3257G>A? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs1800559
+CFTR	G551D	What SNPs are in the allele definition for CFTR G551D? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs75527207
+CFTR	S549R(A>C)	What SNPs are in the allele definition for CFTR S549R(A>C)? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs121908757
+CFTR	S549N	What SNPs are in the allele definition for CFTR S549N? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs121908755
+CFTR	F1052V	What SNPs are in the allele definition for CFTR F1052V? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs150212784
+CFTR	D110E	What SNPs are in the allele definition for CFTR D110E? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs397508537
+CYP2B6	*43	What SNPs are in the allele definition for CYP2B6 *43? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs2279343;rs117872433;rs3745274
+CYP2B6	*28	What SNPs are in the allele definition for CYP2B6 *28? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs34698757;rs34097093
+CYP2B6	*31	What SNPs are in the allele definition for CYP2B6 *31? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs193922917
+CYP2B6	*42	What SNPs are in the allele definition for CYP2B6 *42? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs374099483;rs2279343;rs3745274
+CYP2B6	*40	What SNPs are in the allele definition for CYP2B6 *40? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs200458614;rs2279343;rs3745274
+CYP2C19	*15	What SNPs are in the allele definition for CYP2C19 *15? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs3758581;rs17882687
+CYP2C19	*19	What SNPs are in the allele definition for CYP2C19 *19? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs1564657013;rs3758581
+CYP2C19	*30	What SNPs are in the allele definition for CYP2C19 *30? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs145328984
+CYP2C19	*29	What SNPs are in the allele definition for CYP2C19 *29? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs3758581;rs1564656981
+CYP2C19	*8	What SNPs are in the allele definition for CYP2C19 *8? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs41291556;rs3758581
+CYP2C9	*67	What SNPs are in the allele definition for CYP2C9 *67? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs776908257
+CYP2C9	*78	What SNPs are in the allele definition for CYP2C9 *78? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs1375956433
+CYP2C9	*2	What SNPs are in the allele definition for CYP2C9 *2? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs1799853
+CYP2C9	*54	What SNPs are in the allele definition for CYP2C9 *54? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs750820937
+CYP2C9	*7	What SNPs are in the allele definition for CYP2C9 *7? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs67807361
+CYP2D6	*139	What SNPs are in the allele definition for CYP2D6 *139? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs1058172
+CYP2D6	*89	What SNPs are in the allele definition for CYP2D6 *89? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs375135093
+CYP2D6	*39	What SNPs are in the allele definition for CYP2D6 *39? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs1135840;rs1058164
+CYP2D6	*151	What SNPs are in the allele definition for CYP2D6 *151? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs1459127426
+CYP2D6	*50	What SNPs are in the allele definition for CYP2D6 *50? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs267608302
+CYP3A5	*1	What SNPs are in the allele definition for CYP3A5 *1? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs10264272;rs55817950;rs41303343;rs776746;rs28383479
+CYP3A5	*3	What SNPs are in the allele definition for CYP3A5 *3? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs776746
+CYP3A5	*9	What SNPs are in the allele definition for CYP3A5 *9? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs28383479
+CYP3A5	*6	What SNPs are in the allele definition for CYP3A5 *6? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs10264272
+CYP3A5	*8	What SNPs are in the allele definition for CYP3A5 *8? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs55817950
+CYP4F2	*1	What SNPs are in the allele definition for CYP4F2 *1? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs3093105;rs114099324;rs115517770;rs201380574;rs145174239;rs2108622;rs138971789;rs4020346;rs144233412;rs3093200;rs114396708;rs145875499;rs3093153;rs144455532
+CYP4F2	*2	What SNPs are in the allele definition for CYP4F2 *2? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs3093105
+CYP4F2	*6	What SNPs are in the allele definition for CYP4F2 *6? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs3093153
+CYP4F2	*15	What SNPs are in the allele definition for CYP4F2 *15? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs138971789
+CYP4F2	*14	What SNPs are in the allele definition for CYP4F2 *14? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs145174239
+DPYD	c.2846A>T	What SNPs are in the allele definition for DPYD c.2846A>T? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs67376798
+DPYD	Reference	What SNPs are in the allele definition for DPYD Reference? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs55674432;rs55971861;rs147545709;rs2297595;rs115232898;rs143154602;rs199634007;rs138391898;rs764666241;rs146356975;rs142512579;rs145529148;rs6670886;rs72547602;rs1801158;rs140602333;rs3918290;rs143815742;rs60139309;rs1801267;rs202144771;rs1801266;rs144395748;rs55886062;rs72547601;rs1801265;rs139834141;rs199549923;rs57918000;rs190951787;rs72549305;rs201035051;rs146529561;rs78060119;rs1801268;rs72549303;rs72549304;rs61622928;rs80081766;rs1801160;rs56005131;rs145548112;rs145773863;rs148799944;rs56038477;rs72549308;rs145112791;rs1801159;rs72549306;rs141044036;rs201615754;rs142619737;rs141462178;rs111858276;rs200687447;rs45589337;rs150437414;rs186169810;rs60511679;rs72975710;rs114096998;rs138616379;rs150385342;rs72549307;rs183385770;rs72549309;rs150036960;rs200562975;rs148994843;rs72549310;rs75017182;rs201018345;rs200064537;rs59086055;rs3918289;rs147601618;rs140114515;rs137999090;rs138545885;rs112766203;rs17376848;rs139459586;rs67376798
+DPYD	c.1990G>T	What SNPs are in the allele definition for DPYD c.1990G>T? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs138545885
+DPYD	c.1024G>A	What SNPs are in the allele definition for DPYD c.1024G>A? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs183385770
+DPYD	c.557A>G	What SNPs are in the allele definition for DPYD c.557A>G? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs115232898
+G6PD	Kaiping, Anant, Dhon, Sapporo-like, Wosera	What SNPs are in the allele definition for G6PD Kaiping, Anant, Dhon, Sapporo-like, Wosera? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs72554664
+G6PD	A	What SNPs are in the allele definition for G6PD A? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs1050829
+G6PD	Gond	What SNPs are in the allele definition for G6PD Gond? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs370918918
+G6PD	Kalyan-Kerala, Jamnaga, Rohini	What SNPs are in the allele definition for G6PD Kalyan-Kerala, Jamnaga, Rohini? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs137852339
+G6PD	Coimbra Shunde	What SNPs are in the allele definition for G6PD Coimbra Shunde? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs137852330
+IFNL3	rs12979860 variant (T)	What SNPs are in the allele definition for IFNL3 rs12979860 variant (T)? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs12979860
+IFNL3	rs12979860 reference (C)	What SNPs are in the allele definition for IFNL3 rs12979860 reference (C)? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs12979860
+MT-RNR1	m.961T>del+Cn	What SNPs are in the allele definition for MT-RNR1 m.961T>del+Cn? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs1556422499
+MT-RNR1	m.663A>G	What SNPs are in the allele definition for MT-RNR1 m.663A>G? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs56489998
+MT-RNR1	m.1494C>T	What SNPs are in the allele definition for MT-RNR1 m.1494C>T? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs267606619
+MT-RNR1	m.1555A>G	What SNPs are in the allele definition for MT-RNR1 m.1555A>G? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs267606617
+MT-RNR1	m.951G>A	What SNPs are in the allele definition for MT-RNR1 m.951G>A? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs200887992
+NUDT15	*2	What SNPs are in the allele definition for NUDT15 *2? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs116855232;rs746071566
+NUDT15	*3	What SNPs are in the allele definition for NUDT15 *3? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs116855232
+NUDT15	*7	What SNPs are in the allele definition for NUDT15 *7? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs766023281
+NUDT15	*18	What SNPs are in the allele definition for NUDT15 *18? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs1457579126
+NUDT15	*14	What SNPs are in the allele definition for NUDT15 *14? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs777311140
+RYR1	c.6742C>T	What SNPs are in the allele definition for RYR1 c.6742C>T? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs763352221
+RYR1	c.12355A>T	What SNPs are in the allele definition for RYR1 c.12355A>T? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs193922848
+RYR1	c.526G>A	What SNPs are in the allele definition for RYR1 c.526G>A? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs761616815
+RYR1	c.7090T>G	What SNPs are in the allele definition for RYR1 c.7090T>G? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs193922805
+RYR1	c.6757C>T	What SNPs are in the allele definition for RYR1 c.6757C>T? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs917523269
+SLCO1B1	*25	What SNPs are in the allele definition for SLCO1B1 *25? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs11045819;rs2306283;rs11045852;rs11045853
+SLCO1B1	*20	What SNPs are in the allele definition for SLCO1B1 *20? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs2306283;rs34671512
+SLCO1B1	*19	What SNPs are in the allele definition for SLCO1B1 *19? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs34671512
+SLCO1B1	*32	What SNPs are in the allele definition for SLCO1B1 *32? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs11045819;rs2306283;rs11045852
+SLCO1B1	*6	What SNPs are in the allele definition for SLCO1B1 *6? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs55901008
+TPMT	*39	What SNPs are in the allele definition for TPMT *39? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs281874771
+TPMT	*42	What SNPs are in the allele definition for TPMT *42? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs759836180
+TPMT	*4	What SNPs are in the allele definition for TPMT *4? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs1800584
+TPMT	*13	What SNPs are in the allele definition for TPMT *13? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs72552742
+TPMT	*34	What SNPs are in the allele definition for TPMT *34? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs111901354
+UGT1A1	*80+*28	What SNPs are in the allele definition for UGT1A1 *80+*28? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs887829;rs3064744
+UGT1A1	*6	What SNPs are in the allele definition for UGT1A1 *6? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs4148323
+UGT1A1	*37	What SNPs are in the allele definition for UGT1A1 *37? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs3064744
+UGT1A1	*1	What SNPs are in the allele definition for UGT1A1 *1? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs887829;rs35350960;rs4148323;rs3064744
+UGT1A1	*80+*37	What SNPs are in the allele definition for UGT1A1 *80+*37? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs887829;rs3064744
+VKORC1	rs9923231 variant (T)	What SNPs are in the allele definition for VKORC1 rs9923231 variant (T)? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs9923231
+VKORC1	rs9923231 reference (C)	What SNPs are in the allele definition for VKORC1 rs9923231 reference (C)? Provide a dbSNP ID (also known as an rsID, starting with rs) when available.	rs9923231

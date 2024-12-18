@@ -6,7 +6,6 @@
 from langchain_ollama import ChatOllama
 from langchain_chroma import Chroma
 from langchain.chains import RetrievalQAWithSourcesChain
-from dotenv import load_dotenv
 import os
 from chromadb.config import Settings
 import chromadb
@@ -18,7 +17,7 @@ from langchain.prompts.chat import (
 
 from omegaconf import OmegaConf
 import argparse
-from templates import system_provider_template, human_provider_template, system_patient_template, human_patient_template
+from templates import system_provider_template, human_provider_template, system_patient_template, human_patient_template, system_HSW_template, human_HSW_template
 
 from langchain_huggingface import HuggingFaceEmbeddings
 
@@ -27,7 +26,7 @@ def create_parser():
     parser.add_argument("-y", "--yaml", dest="yamlfile",
                         help="Yaml file for project", metavar="YAML")
     parser.add_argument("-r", "--role", dest="role",
-                        help="role(patient/provider) for question/answering", metavar="ROLE")
+                        help="role(patient/provider/HSW) for question/answering", metavar="ROLE")
     return parser
 
 def main():
@@ -41,13 +40,9 @@ def main():
     yamlfile = args.yamlfile
     config = OmegaConf.load(yamlfile)
 
-    # Load environment variables
-    load_dotenv()
-
     model = ChatOllama(
         model=config.ollama.chat_model_name,
         temperature=0.0,
-        # verbose=True
     )
 
     model_name = "sentence-transformers/all-mpnet-base-v2"
@@ -74,6 +69,9 @@ def main():
     elif args.role == "patient":
         system_template = system_patient_template
         human_template = human_patient_template
+    elif args.role == "HSW":
+        system_template = system_HSW_template
+        human_template = human_HSW_template
     else:
         print("role not supported")
         exit()
@@ -82,6 +80,7 @@ def main():
         SystemMessagePromptTemplate.from_template(system_template),
         HumanMessagePromptTemplate.from_template(human_template)
     ]
+
     prompt = ChatPromptTemplate.from_messages(messages)
 
     chain_type_kwargs = {"prompt": prompt}
@@ -103,16 +102,17 @@ def main():
 
         if question == "exit":
             break
-
+        
+        summaries = " "
         # Get answer
-        response = chain.invoke(question)
+        response = chain.invoke({"question": question, "summaries": summaries})
         answer = response["answer"]
         source = response["source_documents"]
 
         # Display answer
         print("\nSources:")
-        for document in source:
-            print(document)
+        for i, document in enumerate(source, start=1):
+            print(f"ID[{i}]: {document}")
         print(f"\nAnswer: {answer}")
 
 if __name__ == "__main__":
