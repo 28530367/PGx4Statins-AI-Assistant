@@ -5,6 +5,7 @@
 
 from langchain_ollama import ChatOllama
 from langchain_chroma import Chroma
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQAWithSourcesChain
 import os
 from chromadb.config import Settings
@@ -18,8 +19,6 @@ from langchain.prompts.chat import (
 from omegaconf import OmegaConf
 import argparse
 from templates import system_provider_template, human_provider_template, system_patient_template, human_patient_template, system_HSW_template, human_HSW_template
-
-from langchain_huggingface import HuggingFaceEmbeddings
 
 def create_parser():
     parser = argparse.ArgumentParser(description='demo how to use ai embeddings to question/answer.')
@@ -103,9 +102,8 @@ def main():
         if question == "exit":
             break
         
-        summaries = " "
         # Get answer
-        response = chain.invoke({"question": question, "summaries": summaries})
+        response = chain.invoke(question)
         answer = response["answer"]
         source = response["source_documents"]
 

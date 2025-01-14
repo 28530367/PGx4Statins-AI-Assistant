@@ -45,10 +45,12 @@ for users to make their learning experience enjoyable.
 # prompt template from HSW
 system_HSW_template = """
 You are an AI assistant.
+You will base your responses on the context and information provided. 
 ----------------
 {summaries}
 """
 human_HSW_template = """
+Provide answers based on my questions.
 ----------------
 {question}
 """

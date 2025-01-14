@@ -1,14 +1,17 @@
 # -*- coding:utf-8 -*-
 # Created by liwenw at 7/18/23
 
-from langchain.vectorstores.chroma import Chroma
-from langchain.chat_models import ChatOpenAI
-from langchain.embeddings.openai import OpenAIEmbeddings
-# from langchain.chains.qa_with_sources.retrieval import RetrievalQAWithSourcesChain
+# python3 questions_answering_batch.py -y /media/disk2/HSW/PGx4Statins-AI-Assistant/config.yaml -r patient
+
+from langchain_ollama import ChatOllama
+from langchain_chroma import Chroma
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQAWithSourcesChain
 from dotenv import load_dotenv
 import os
 from chromadb.config import Settings
+import chromadb
+
 from langchain.prompts.chat import (
     ChatPromptTemplate,
     SystemMessagePromptTemplate,
@@ -17,16 +20,17 @@ from langchain.prompts.chat import (
 
 from omegaconf import OmegaConf
 import argparse
-from templates import system_provider_template, human_provider_template, system_patient_template, human_patient_template
+from templates import system_provider_template, human_provider_template, system_patient_template, human_patient_template, system_HSW_template, human_HSW_template
 from patient_questions import patient_questions
 from provider_questions import provider_questions
+from HSW_questions import HSW_questions
 
 def create_parser():
     parser = argparse.ArgumentParser(description='demo how to use ai embeddings to question/answer.')
     parser.add_argument("-y", "--yaml", dest="yamlfile",
                         help="Yaml file for project", metavar="YAML")
     parser.add_argument("-r", "--role", dest="role",
-                        help="role(patient/provider) for question/answering", metavar="ROLE")
+                        help="role(patient/provider/HSW) for question/answering", metavar="ROLE")
     return parser
 
 
@@ -41,36 +45,27 @@ def main():
     yamlfile = args.yamlfile
     config = OmegaConf.load(yamlfile)
 
-    openai_api_key = os.getenv("OPENAI_API_KEY")
-    if openai_api_key is None:
-        openai_api_key = config.openai.api_key
-
-    # Load environment variables
-    load_dotenv()
-
-    model = ChatOpenAI(
-        openai_api_key=openai_api_key,
-        model_name=config.openai.chat_model_name,
+    model = ChatOllama(
+        model=config.ollama.chat_model_name,
         temperature=0.0,
-        verbose=True
     )
 
-    embeddings = OpenAIEmbeddings()
+    model_name = "sentence-transformers/all-mpnet-base-v2"
+    model_kwargs = {'device': 'cpu'}
+    embeddings = HuggingFaceEmbeddings(model_name=model_name, model_kwargs=model_kwargs)
 
     collection_name = config.chromadb.collection_name
     persist_directory = config.chromadb.persist_directory
-    chroma_db_impl = config.chromadb.chroma_db_impl
+
+    persistent_client = chromadb.PersistentClient(path=persist_directory)
 
     vector_store = Chroma(collection_name=collection_name,
+                          client=persistent_client,
                           embedding_function=embeddings,
-                          client_settings=Settings(
-                              chroma_db_impl=chroma_db_impl,
-                              persist_directory=persist_directory
-                          ),
                           )
 
-    chat_search_type = config.openai.chat_search_type
-    chat_search_k = config.openai.chat_search_k
+    chat_search_type = config.ollama.chat_search_type
+    chat_search_k = config.ollama.chat_search_k
     retriever = vector_store.as_retriever(search_type=chat_search_type, search_kwargs={"k": chat_search_k})
 
     if args.role == "provider":
@@ -81,6 +76,10 @@ def main():
         questions = patient_questions
         system_template = system_patient_template
         human_template = human_patient_template
+    elif args.role == "HSW":
+        questions = HSW_questions
+        system_template = system_HSW_template
+        human_template = human_HSW_template
     else:
         print("role not supported")
         exit()
@@ -104,19 +103,36 @@ def main():
         verbose=False,
     )
 
+    # 紀錄
+    log_str = ""
+    k = 0
     for question in questions:
+        k += 1
         print(f"question: {question}")
+        log_str += f"## {k}. question:" + "\n" 
+        log_str += question + "\n" 
         # Get answer
-        response = chain(question)
+        response = chain.invoke(question)
         answer = response["answer"]
         source = response["source_documents"]
 
         # Display answer
-        # print("\nSources:")
-        for document in source:
-            print(document)
+        print("\nSources:")
+        log_str += f"## {k}. Sources:" + "\n"
+        for i, document in enumerate(source, start=1):
+            print(f"ID[{i}]: {document}")
+            log_str += f"ID[{i}]: {document}" + "\n"
         print(f"\nAnswer: {answer}")
         print("--------------------------------------------------")
+
+        log_str += f"## {k}. Answer:" + "\n"
+        log_str += answer + "\n"
+        log_str += f"--------------------------------------------------" + "\n"
+
+    file_path = f"/media/disk2/HSW/PGx4Statins-AI-Assistant/batch_output/{args.role}_batch3.md"
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(log_str)
+    print(f"訓練紀錄已寫入 {file_path}")
 
 if __name__ == "__main__":
     main()

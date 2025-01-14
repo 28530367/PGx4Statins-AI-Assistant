@@ -1,6 +1,15 @@
 Question: How should atorvastatin treatment be managed for a patient with the SLCO1B1 *5/*5 genotype?
 
-Answer: According to the CPIC Clinical Guidelines for Statins and SLCO1B1, ABCG2 and CYP2C9, a patient with the SLCO1B1 *5/*5 genotype is predicted to have poor function of the SLCO1B1 gene. This may increase the risk for developing atorvastatin-induced myopathy. It is recommended to prescribe a starting dose of atorvastatin ≤20mg and adjust doses based on disease-specific guidelines. If a dose >20mg is needed for desired efficacy, consider rosuvastatin or combination therapy. However, it's important to consult a clinical pharmacist for more information.
+Answer: According to the CPIC Clinical Guidelines for Statins 
+and SLCO1B1, ABCG2 and CYP2C9, a patient with the SLCO1B1 
+*5/*5 genotype is predicted to have poor function of the 
+SLCO1B1 gene. This may increase the risk for developing 
+atorvastatin-induced myopathy. It is recommended to prescribe
+ a starting dose of atorvastatin ≤20mg and adjust doses based
+  on disease-specific guidelines. If a dose >20mg is needed 
+  for desired efficacy, consider rosuvastatin or combination 
+  therapy. However, it's important to consult a clinical 
+  pharmacist for more information.
 
 {"Sources": "CPIC Clinical Guidelines for Statins and SLCO1B1, ABCG2 and CYP2C9"}
 Sources:
@@ -20,7 +29,15 @@ page_content='pravastatin,,,,"SLCO1B1 *1/*5,SLCO1B1 *1/*9,SLCO1B1 *1/*15,SLCO1B1
 
 Question: For a patient with SLCO1B1 decreased function, what are the CPIC recommendations for simvastatin use?
 
-Answer: According to the Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines, a patient with SLCO1B1 decreased function is at an increased risk for developing simvastatin-induced myopathy. The CPIC recommends prescribing an alternative statin depending on the desired potency. If simvastatin therapy is warranted, the dose should be limited to less than 20mg per day. It is advised to consult a clinical pharmacist for more information {"Sources": "CPIC Clinical Guidelines for Statins and SLCO1B1, ABCG2 and CYP2C9"}.
+Answer: According to the Clinical Pharmacogenetics 
+Implementation Consortium (CPIC) guidelines, a patient with 
+SLCO1B1 decreased function is at an increased risk for 
+developing simvastatin-induced myopathy. The CPIC recommends 
+prescribing an alternative statin depending on the 
+desired potency. If simvastatin therapy is warranted, 
+the dose should be limited to less than 20mg per day. 
+It is advised to consult a 
+clinical pharmacist for more information {"Sources": "CPIC Clinical Guidelines for Statins and SLCO1B1, ABCG2 and CYP2C9"}.
 
 
 Sources:

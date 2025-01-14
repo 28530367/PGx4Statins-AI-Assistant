@@ -1,0 +1,519 @@
+pairid,drugid,drugname,genesymbol,guidelinename,guidelineurl,cpiclevel,pgkbcalevel,pgxtesting,pmids,usedforrecommendation,provisional
+110089,RxNorm:140587,celecoxib,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,A,1A,Actionable PGx,['32189324'],Yes,False
+110090,RxNorm:2556,citalopram,CYP2C19,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,A,1A,Actionable PGx,"['25974703', '37032427']",Yes,False
+110091,RxNorm:32968,clopidogrel,CYP2C19,CYP2C19 and Clopidogrel,https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/,A,1A,Actionable PGx,"['21716271', '23698643', '35034351']",Yes,False
+110094,RxNorm:27340,desflurane,RYR1,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,Actionable PGx,['30499100'],Yes,False
+110096,RxNorm:3920,enflurane,CACNA1S,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,Actionable PGx,['30499100'],Yes,False
+110097,RxNorm:3920,enflurane,RYR1,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,Actionable PGx,['30499100'],Yes,False
+110098,RxNorm:321988,escitalopram,CYP2C19,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,A,1A,Actionable PGx,"['25974703', '37032427']",Yes,False
+110100,RxNorm:4502,flurbiprofen,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,A,1A,Actionable PGx,['32189324'],Yes,False
+110101,RxNorm:72236,fosphenytoin,CYP2C9,"CYP2C9, HLA-B and Phenytoin",https://cpicpgx.org/guidelines/guideline-for-phenytoin-and-cyp2c9-and-hla-b/,A,,Actionable PGx,"['25099164', '32779747']",Yes,False
+110102,RxNorm:72236,fosphenytoin,HLA-B,"CYP2C9, HLA-B and Phenytoin",https://cpicpgx.org/guidelines/guideline-for-phenytoin-and-cyp2c9-and-hla-b/,A,,Actionable PGx,"['25099164', '32779747']",Yes,False
+110103,RxNorm:5095,halothane,CACNA1S,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,,['30499100'],Yes,False
+110104,RxNorm:5095,halothane,RYR1,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,,['30499100'],Yes,False
+110063,RxNorm:5640,ibuprofen,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,A,1A,,['32189324'],Yes,False
+110106,RxNorm:51499,irinotecan,UGT1A1,,,A,1A,Testing Recommended,,n/a,True
+110107,RxNorm:6026,isoflurane,CACNA1S,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,Actionable PGx,['30499100'],Yes,False
+110108,RxNorm:6026,isoflurane,RYR1,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,Actionable PGx,['30499100'],Yes,False
+110159,RxNorm:6099,kanamycin,MT-RNR1,MT-RNR1 and Aminoglycosides,https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/,A,1A,,['34032273'],Yes,False
+110110,RxNorm:17128,lansoprazole,CYP2C19,CYP2C19 and Proton Pump Inhibitors,https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/,A,1A,,['32770672'],Yes,False
+110065,RxNorm:20890,lornoxicam,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,A,1A,,['32189324'],Yes,False
+110067,RxNorm:41493,meloxicam,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,A,1A,Actionable PGx,['32189324'],Yes,False
+110115,RxNorm:6857,methoxyflurane,CACNA1S,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,,['30499100'],Yes,False
+110116,RxNorm:6857,methoxyflurane,RYR1,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,,['30499100'],Yes,False
+110117,RxNorm:7531,nortriptyline,CYP2D6,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,A,1A,Actionable PGx,"['23486447', '27997040']",Yes,False
+110118,RxNorm:7646,omeprazole,CYP2C19,CYP2C19 and Proton Pump Inhibitors,https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/,A,1A,Actionable PGx,['32770672'],Yes,False
+110119,RxNorm:26225,ondansetron,CYP2D6,CYP2D6 and Ondansetron and Tropisetron,https://cpicpgx.org/guidelines/guideline-for-ondansetron-and-tropisetron-and-cyp2d6-genotype/,A,1A,Informative PGx,['28002639'],Yes,False
+110120,RxNorm:32624,oxcarbazepine,HLA-B,"HLA-A, HLA-B and Carbamazepine and Oxcarbazepine",https://cpicpgx.org/guidelines/guideline-for-carbamazepine-and-hla-b/,A,1A,Testing Recommended,['29392710'],Yes,False
+110121,RxNorm:40790,pantoprazole,CYP2C19,CYP2C19 and Proton Pump Inhibitors,https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/,A,1A,Actionable PGx,['32770672'],Yes,False
+110122,RxNorm:32937,paroxetine,CYP2D6,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,A,1A,,"['25974703', '37032427']",Yes,False
+110123,RxNorm:120608,peginterferon alfa-2a,IFNL3,IFNL3 and Peginterferon-alpha-based Regimens,https://cpicpgx.org/guidelines/guideline-for-peg-interferon-alpha-based-regimens-and-ifnl3/,A,1A,,['24096968'],Yes,False
+110124,RxNorm:120608,peginterferon alfa-2a,IFNL4,IFNL3 and Peginterferon-alpha-based Regimens,https://cpicpgx.org/guidelines/guideline-for-peg-interferon-alpha-based-regimens-and-ifnl3/,A,1A,,,No,False
+110125,RxNorm:253453,peginterferon alfa-2b,IFNL3,IFNL3 and Peginterferon-alpha-based Regimens,https://cpicpgx.org/guidelines/guideline-for-peg-interferon-alpha-based-regimens-and-ifnl3/,A,1A,Actionable PGx,['24096968'],Yes,False
+110126,RxNorm:253453,peginterferon alfa-2b,IFNL4,IFNL3 and Peginterferon-alpha-based Regimens,https://cpicpgx.org/guidelines/guideline-for-peg-interferon-alpha-based-regimens-and-ifnl3/,A,1A,,,No,False
+110071,RxNorm:8356,piroxicam,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,A,1A,Actionable PGx,['32189324'],Yes,False
+110130,RxNorm:2197878,pitolisant,CYP2D6,,,A,,Actionable PGx,,n/a,True
+110133,RxNorm:36453,sevoflurane,CACNA1S,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,Actionable PGx,['30499100'],Yes,False
+110137,RxNorm:10154,succinylcholine,CACNA1S,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,Actionable PGx,['30499100'],Yes,False
+110141,RxNorm:10324,tamoxifen,CYP2D6,CYP2D6 and Tamoxifen,https://cpicpgx.org/guidelines/cpic-guideline-for-tamoxifen-based-on-cyp2d6-genotype/,A,1A,Actionable PGx,['29385237'],Yes,False
+110072,RxNorm:37790,tenoxicam,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,A,1A,,['32189324'],Yes,False
+110145,RxNorm:10689,tramadol,CYP2D6,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,A,1A,Actionable PGx,['33387367'],Yes,False
+110146,RxNorm:27392,tropisetron,CYP2D6,CYP2D6 and Ondansetron and Tropisetron,https://cpicpgx.org/guidelines/guideline-for-ondansetron-and-tropisetron-and-cyp2d6-genotype/,A,1A,,['28002639'],Yes,False
+110160,RxNorm:2392230,oliceridine,CYP2D6,,,A/B,,Actionable PGx,,n/a,True
+110193,RxNorm:5489,hydrocodone,CYP2D6,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,B,1A,,['33387367'],Yes,False
+110209,RxNorm:8150,phenprocoumon,CYP4F2,,,B,3,,,n/a,True
+110210,RxNorm:8183,phenytoin,SCN1A,,,B,3,,,n/a,True
+110225,RxNorm:11118,valproic acid,ABL2,,,B,,,,n/a,True
+110227,RxNorm:11118,valproic acid,ASS1,,,B,,,,n/a,True
+110167,RxNorm:39786,venlafaxine,CYP2D6,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,B,1A,Actionable PGx,['37032427'],Yes,False
+110237,RxNorm:1202,atenolol,ADRB1,,,B/C,,,,n/a,True
+110240,RxNorm:1658314,brexpiprazole,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110241,Drugbank:DB12752,bucindolol,ADRB1,,,B/C,3,,,n/a,True
+110275,RxNorm:6918,metoprolol,ADRB1,,,B/C,3,,,n/a,True
+110280,RxNorm:30077,mivacurium,BCHE,,,B/C,,Actionable PGx,,n/a,True
+110292,RxNorm:10154,succinylcholine,BCHE,,,B/C,3,Actionable PGx,,n/a,True
+110062,RxNorm:16689,aceclofenac,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,C,,,['32189324'],No,False
+110060,RxNorm:1191,aspirin,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,C,,,['32189324'],No,False
+110059,RxNorm:3355,diclofenac,CYP2C8,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,C,3,,['32189324'],No,False
+110061,RxNorm:5640,ibuprofen,CYP2C8,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,C,3,,['32189324'],No,False
+110064,RxNorm:5781,indomethacin,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,C,3,,['32189324'],No,False
+110066,ATC:M01AH06,lumiracoxib,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,C,,,['32189324'],No,False
+110069,RxNorm:31448,nabumetone,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,C,,,['32189324'],No,False
+110070,RxNorm:7258,naproxen,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,C,3,,['32189324'],No,False
+2777620,RxNorm:42463,pravastatin,CYP3A4,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,,,,No,False
+110212,RxNorm:8698,probenecid,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],No,False
+110081,RxNorm:704,amitriptyline,CYP2D6,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,A,1A,Actionable PGx,"['23486447', '27997040']",Yes,False
+110082,RxNorm:343047,atazanavir,UGT1A1,UGT1A1 and Atazanavir,https://cpicpgx.org/guidelines/guideline-for-atazanavir-and-ugt1a1/,A,1A,,['26417955'],Yes,False
+110083,RxNorm:38400,atomoxetine,CYP2D6,CYP2D6 and Atomoxetine,https://cpicpgx.org/guidelines/cpic-guideline-for-atomoxetine-based-on-cyp2d6-genotype/,A,1A,Actionable PGx,['30801677'],Yes,False
+110150,RxNorm:11289,warfarin,VKORC1,"CYP2C9, VKORC1, CYP4F2 and Warfarin",https://cpicpgx.org/guidelines/guideline-for-warfarin-and-cyp2c9-and-vkorc1/,A,1A,Actionable PGx,"['21900891', '28198005']",Yes,False
+110158,RxNorm:5470,hydralazine,NAT2,,,A/B,3,,,n/a,True
+110169,RxNorm:154,acenocoumarol,CYP2C9,,,B,1B,,,n/a,True
+110170,RxNorm:154,acenocoumarol,CYP4F2,,,B,2A,,,n/a,True
+110172,RxNorm:1543543,belinostat,UGT1A1,,,B,,Actionable PGx,,n/a,True
+110173,RxNorm:1739745,brivaracetam,CYP2C19,,,B,3,Actionable PGx,,n/a,True
+110174,RxNorm:2002,carbamazepine,SCN1A,,,B,2B,,,n/a,True
+110180,RxNorm:2597,clomipramine,CYP2C19,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,,"['23486447', '27997040']",Yes,False
+110181,RxNorm:2597,clomipramine,CYP2D6,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,Actionable PGx,"['23486447', '27997040']",Yes,False
+110183,RxNorm:3247,desipramine,CYP2D6,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,Actionable PGx,"['23486447', '27997040']",Yes,False
+110184,RxNorm:816346,dexlansoprazole,CYP2C19,CYP2C19 and Proton Pump Inhibitors,https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/,B,1A,Actionable PGx,['32770672'],Yes,False
+110187,RxNorm:3638,doxepin,CYP2D6,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,Actionable PGx,"['23486447', '27997040']",Yes,False
+110200,RxNorm:6813,methadone,CYP2B6,,,B,2A,,,n/a,True
+110203,RxNorm:7145,mycophenolic acid,HPRT1,,,B,,Actionable PGx,,n/a,True
+110226,RxNorm:11118,valproic acid,ASL,,,B,,,,n/a,True
+110228,RxNorm:11118,valproic acid,CPS1,,,B,,,,n/a,True
+110229,RxNorm:11118,valproic acid,NAGS,,,B,,,,n/a,True
+110230,RxNorm:11118,valproic acid,OTC,,,B,,Actionable PGx,,n/a,True
+110231,RxNorm:519,allopurinol,HLA-A,,,B/C,2B,,,n/a,True
+110232,RxNorm:2106338,amifampridine,NAT2,,,B/C,,Actionable PGx,,n/a,True
+110233,RxNorm:2106337,amifampridine phosphate,NAT2,,,B/C,,Actionable PGx,,n/a,True
+110234,RxNorm:722,amoxapine,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110235,RxNorm:725,amphetamine,CYP2D6,,,B/C,,Informative PGx,,n/a,True
+110236,RxNorm:1673265,aripiprazole lauroxil,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110238,RxNorm:1202,atenolol,GRK5,,,B/C,,,,n/a,True
+110239,RxNorm:2045726,avatrombopag,CYP2C9,,,B/C,,,,n/a,True
+110242,RxNorm:2101,carisoprodol,CYP2C19,,,B/C,4,Actionable PGx,,n/a,True
+110244,RxNorm:20352,carvedilol,CYP2D6,,,B/C,3,Actionable PGx,,n/a,True
+110245,RxNorm:20352,carvedilol,GRK5,,,B/C,,,,n/a,True
+110246,RxNorm:44281,cevimeline,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110248,RxNorm:21241,clobazam,CYP2C19,,,B/C,3,Actionable PGx,,n/a,True
+110249,RxNorm:2626,clozapine,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110251,RxNorm:3109,daunorubicin,SLC28A3,,,B/C,,,,n/a,True
+110252,RxNorm:1876905,deutetrabenazine,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110253,RxNorm:3289,dextromethorphan,CYP2D6,,,B/C,3,,,n/a,True
+110254,RxNorm:3322,diazepam,CYP2C19,,,B/C,3,Actionable PGx,,n/a,True
+110255,RxNorm:1433868,dolutegravir,UGT1A1,,,B/C,,Actionable PGx,,n/a,True
+110256,RxNorm:135447,donepezil,CYP2D6,,,B/C,3,Actionable PGx,,n/a,True
+110258,RxNorm:224925,dronabinol,CYP2C9,,,B/C,,Actionable PGx,,n/a,True
+110260,RxNorm:2123125,erdafitinib,CYP2C9,,,B/C,,Actionable PGx,,n/a,True
+110263,RxNorm:328134,gefitinib,CYP2D6,,,B/C,3,Actionable PGx,,n/a,True
+110264,RxNorm:5093,haloperidol,CYP2D6,,,B/C,1A,,,n/a,True
+110269,RxNorm:1731031,lesinurad,CYP2C9,,,B/C,,Actionable PGx,,n/a,True
+110274,RxNorm:6915,metoclopramide,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110281,RxNorm:31555,nebivolol,CYP2D6,,,B/C,,Informative PGx,,n/a,True
+110282,RxNorm:53654,nevirapine,CYP2B6,,,B/C,2A,,,n/a,True
+110286,RxNorm:8076,perphenazine,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110287,RxNorm:8700,procainamide,NAT2,,,B/C,,Actionable PGx,,n/a,True
+110299,RxNorm:114176,zuclopenthixol,CYP2D6,,,B/C,1A,,,n/a,True
+110309,MeSH:C515878,ataluren,CFTR,,,C,3,,,n/a,True
+2777623,RxNorm:83367,atorvastatin,CYP3A4,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,3,,,No,False
+110177,RxNorm:2348,chloramphenicol,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,3,,['36049896'],Yes,False
+110178,RxNorm:2404,chlorpropamide,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],No,False
+110179,RxNorm:2551,ciprofloxacin,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,3,,['36049896'],Yes,False
+110315,RxNorm:2556,citalopram,COMT,,,C,,,,n/a,True
+110247,RxNorm:2556,citalopram,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,4,,['37032427'],No,False
+110185,RxNorm:3445,dimercaprol,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,3,,['36049896'],Yes,False
+110331,RxNorm:321988,escitalopram,COMT,,,C,,,,n/a,True
+110339,RxNorm:1665509,flibanserin,CYP2C9,,,C,,Actionable PGx,,n/a,True
+110191,RxNorm:25789,glimepiride,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,,No,False
+110192,RxNorm:4821,glipizide,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],No,False
+110190,RxNorm:4815,glyburide,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,3,Actionable PGx,['36049896'],Yes,False
+110265,RxNorm:5521,hydroxychloroquine,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],Yes,False
+110197,RxNorm:6572,mafenide,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],Yes,False
+110199,RxNorm:52582,mesalazine,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],No,False
+110202,RxNorm:139462,moxifloxacin,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],No,False
+110204,RxNorm:7240,nalidixic acid,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],Yes,False
+110206,RxNorm:7517,norfloxacin,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],Yes,False
+110385,RxNorm:9071,quinine,CYP2D6,,,C,,Actionable PGx,,n/a,True
+2777622,RxNorm:301542,rosuvastatin,CYP3A4,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,,,,No,False
+2777621,RxNorm:36567,simvastatin,CYP3A4,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,3,,,No,False
+110168,RxNorm:1455099,vortioxetine,CYP2D6,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,A,1A,Actionable PGx,['37032427'],Yes,False
+110149,RxNorm:11289,warfarin,CYP4F2,"CYP2C9, VKORC1, CYP4F2 and Warfarin",https://cpicpgx.org/guidelines/guideline-for-warfarin-and-cyp2c9-and-vkorc1/,A,1A,,"['21900891', '28198005']",Yes,False
+110266,RxNorm:73178,iloperidone,CYP2D6,,,B/C,3,Actionable PGx,,n/a,True
+110267,RxNorm:6185,labetalol,CYP2D6,,,B/C,,,,n/a,True
+110268,RxNorm:480167,lapatinib,HLA-DRB1,,,B/C,3,Actionable PGx,,n/a,True
+110270,RxNorm:6387,lidocaine,G6PD,,,B/C,,,,n/a,True
+110271,RxNorm:1025342,l-methylfolate,MTHFR,,,B/C,3,,,n/a,True
+110273,RxNorm:6676,meclizine,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110277,RxNorm:6918,metoprolol,GRK5,,,B/C,,,,n/a,True
+110278,RxNorm:1300786,mirabegron,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110279,RxNorm:15996,mirtazapine,CYP2D6,,,B/C,2A,,,n/a,True
+110283,RxNorm:662281,nilotinib,UGT1A1,,,B/C,3,Actionable PGx,,n/a,True
+110284,RxNorm:714438,pazopanib,HLA-B,,,B/C,,Actionable PGx,,n/a,True
+110285,RxNorm:714438,pazopanib,UGT1A1,,,B/C,3,Actionable PGx,,n/a,True
+110289,RxNorm:8787,propranolol,CYP2D6,,,B/C,4,Informative PGx,,n/a,True
+110290,RxNorm:8886,protriptyline,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110294,RxNorm:9524,sulfasalazine,NAT2,,,B/C,,Actionable PGx,,n/a,True
+110296,RxNorm:10502,thioridazine,CYP2D6,,,B/C,3,Actionable PGx,,n/a,True
+110297,RxNorm:10600,timolol,CYP2D6,,,B/C,3,,,n/a,True
+110298,RxNorm:1918219,valbenazine,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110301,RxNorm:327361,adalimumab,TNF,,,C,,,,n/a,True
+110302,RxNorm:480,alfentanil,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+110303,RxNorm:519,allopurinol,HLA-C,,,C,2B,,,n/a,True
+110304,RxNorm:46303,amisulpride,MC4R,,,C,3,,,n/a,True
+110306,RxNorm:89013,aripiprazole,MC4R,,,C,3,,,n/a,True
+110308,RxNorm:1191,aspirin,HLA-DPB1,,,C,2B,,,n/a,True
+110312,RxNorm:2020,carbimazole,HLA-B,,,C,3,,,n/a,True
+110313,RxNorm:40048,carboplatin,MTHFR,,,C,3,,,n/a,True
+110316,RxNorm:2556,citalopram,GRIK4,,,C,,,,n/a,True
+110318,RxNorm:32968,clopidogrel,CES1,,,C,2B,,,n/a,True
+110319,RxNorm:2626,clozapine,HTR2C,,,C,3,,,n/a,True
+110320,RxNorm:2626,clozapine,MC4R,,,C,3,,,n/a,True
+110322,RxNorm:3008,cyclosporine,CYP3A5,,,C,3,,,n/a,True
+110323,RxNorm:3108,dapsone,HLA-B,,,C,2A,,,n/a,True
+110324,RxNorm:136198,darifenacin,CYP2D6,,,C,,Actionable PGx,,n/a,True
+110328,RxNorm:68091,dolasetron,CYP2D6,,,C,4,,,n/a,True
+110330,RxNorm:711942,eltrombopag,F5,,,C,,Actionable PGx,,n/a,True
+110332,RxNorm:321988,escitalopram,GRIK4,,,C,,,,n/a,True
+110334,RxNorm:214555,etanercept,TNF,,,C,2B,,,n/a,True
+110335,RxNorm:4337,fentanyl,ABCB1,,,C,3,,,n/a,True
+418189,RxNorm:4337,fentanyl,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+110336,RxNorm:4337,fentanyl,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+110337,RxNorm:797195,fesoterodine,CYP2D6,,,C,,Actionable PGx,,n/a,True
+110338,RxNorm:1665509,flibanserin,CYP2C19,,,C,,Actionable PGx,,n/a,True
+110340,RxNorm:1665509,flibanserin,CYP2D6,,,C,,Actionable PGx,,n/a,True
+110343,RxNorm:4493,fluoxetine,GRIK4,,,C,,,,n/a,True
+2777624,RxNorm:41127,fluvastatin,CYP3A4,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,3,,,No,False
+110344,RxNorm:4637,galantamine,CYP2D6,,,C,3,Informative PGx,,n/a,True
+2777625,RxNorm:6472,lovastatin,CYP3A4,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,,,,No,False
+110356,RxNorm:6826,methazolamide,HLA-B,,,C,2A,,,n/a,True
+110358,RxNorm:6835,methimazole,HLA-B,,,C,3,,,n/a,True
+110359,RxNorm:6851,methotrexate,ABCB1,,,C,3,,,n/a,True
+110362,RxNorm:6901,methylphenidate,CYP2D6,,,C,3,,,n/a,True
+110367,RxNorm:7243,naltrexone,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,4,,['33387367'],No,False
+110369,RxNorm:53654,nevirapine,ABCB1,,,C,3,,,n/a,True
+110373,RxNorm:61381,olanzapine,HTR2C,,,C,3,,,n/a,True
+110379,RxNorm:70561,palonosetron,CYP2D6,,,C,,Informative PGx,,n/a,True
+110384,RxNorm:9068,quinidine,CYP2D6,,,C,,,,n/a,True
+110394,RxNorm:36437,sertraline,GRIK4,,,C,,,,n/a,True
+110395,RxNorm:36567,simvastatin,ABCB1,,,C,3,,,n/a,True
+110396,RxNorm:35302,sirolimus,CYP3A5,,,C,3,,,n/a,True
+110218,RxNorm:10169,sulfacetamide,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],No,False
+110219,RxNorm:10171,sulfadiazine,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],Yes,False
+110220,RxNorm:10831,sulfamethoxazole / trimethoprim,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,4,Actionable PGx,['36049896'],Yes,False
+110221,RxNorm:9524,sulfasalazine,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,3,Actionable PGx,['36049896'],Yes,False
+110222,RxNorm:10207,sulfisoxazole,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],Yes,False
+110399,RxNorm:37801,terbinafine,CYP2D6,,,C,,,,n/a,True
+110401,RxNorm:119565,tolterodine,CYP2D6,,,C,3,Actionable PGx,,n/a,True
+110410,RxNorm:5880,"interferon alfa-2b, recombinant",ITPA,,,C/D,3,,,n/a,True
+110415,RxNorm:7407,nicotine,COMT,,,C/D,3,,,n/a,True
+110436,RxNorm:83367,atorvastatin,APOE,,,D,2B,,,n/a,True
+110437,RxNorm:83367,atorvastatin,CETP,,,D,4,,,n/a,True
+110438,RxNorm:83367,atorvastatin,COQ2,,,D,3,,,n/a,True
+110443,RxNorm:19831,budesonide,CRHR1,,,D,,,,n/a,True
+110450,RxNorm:596723,cerivastatin,CETP,,,D,,,,n/a,True
+110466,RxNorm:3109,daunorubicin,CBR3,,,D,,,,n/a,True
+110472,RxNorm:3995,epirubicin,CBR3,,,D,3,,,n/a,True
+110483,RxNorm:50121,fluticasone propionate,CRHR1,,,D,,,,n/a,True
+110485,RxNorm:41127,fluvastatin,CETP,,,D,3,,,n/a,True
+110496,RxNorm:5650,idarubicin,CBR3,,,D,,,,n/a,True
+110498,RxNorm:51499,irinotecan,C8orf34,,,D,3,,,n/a,True
+110506,RxNorm:6851,methotrexate,ATIC,,,D,2B,,,n/a,True
+110257,RxNorm:3639,doxorubicin,SLC28A3,,,B/C,,,,n/a,True
+110259,RxNorm:2049846,elagolix,SLCO1B1,,,B/C,,Actionable PGx,,n/a,True
+110272,RxNorm:28863,lofexidine,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+110326,RxNorm:3355,diclofenac,CYP2C9,CYP2C9 and NSAIDs,https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/,C,3,,['32189324'],No,False
+3122081,RxNorm:72625,duloxetine,CYP2C19,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+110333,RxNorm:283742,esomeprazole,CYP2C19,CYP2C19 and Proton Pump Inhibitors,https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/,C,3,Actionable PGx,['32770672'],No,False
+3122091,RxNorm:4493,fluoxetine,CYP2C19,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+2777631,RxNorm:41127,fluvastatin,CYP3A5,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,,,,No,False
+3122092,RxNorm:42355,fluvoxamine,CYP2C19,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+110345,RxNorm:5093,haloperidol,MC4R,,,C,3,,,n/a,True
+110346,ATC:G03A,hormonal contraceptives for systemic use,F5,,,C,1A,,,n/a,True
+418191,RxNorm:5489,hydrocodone,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,,,['33387367'],No,False
+418192,RxNorm:5489,hydrocodone,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+418193,RxNorm:3423,hydromorphone,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,,,['33387367'],No,False
+110349,RxNorm:191831,infliximab,TNF,,,C,3,,,n/a,True
+110350,RxNorm:6038,isoniazid,NAT2,,,C,1B,,,n/a,True
+110351,RxNorm:480167,lapatinib,HLA-DQA1,,,C,3,Actionable PGx,,n/a,True
+2777632,RxNorm:6472,lovastatin,CYP3A5,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,3,,,No,False
+110355,RxNorm:6813,methadone,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+110357,RxNorm:6826,methazolamide,HLA-C,,,C,2B,,,n/a,True
+110360,RxNorm:6851,methotrexate,MTHFR,,,C,2A,,,n/a,True
+110361,RxNorm:6851,methotrexate,SLCO1B1,,,C,3,,,n/a,True
+110363,RxNorm:30125,modafinil,CYP2D6,,,C,,Actionable PGx,,n/a,True
+418200,RxNorm:7052,morphine,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+110366,RxNorm:7242,naloxone,OPRM1,,,C,3,,,n/a,True
+418202,RxNorm:7243,naltrexone,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,,,['33387367'],No,False
+110370,RxNorm:53654,nevirapine,HLA-B,,,C,3,,,n/a,True
+110371,RxNorm:53654,nevirapine,HLA-DRB1,,,C,2B,,,n/a,True
+110374,RxNorm:61381,olanzapine,MC4R,,,C,3,,,n/a,True
+110376,RxNorm:32624,oxcarbazepine,HLA-A,"HLA-A, HLA-B and Carbamazepine and Oxcarbazepine",https://cpicpgx.org/guidelines/guideline-for-carbamazepine-and-hla-b/,C,3,,['29392710'],No,False
+418205,RxNorm:7804,oxycodone,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+110380,RxNorm:32937,paroxetine,GRIK4,,,C,,,,n/a,True
+2777627,RxNorm:42463,pravastatin,CYP3A5,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,,,,No,False
+110386,RxNorm:114979,rabeprazole,CYP2C19,CYP2C19 and Proton Pump Inhibitors,https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/,C,2A,Actionable PGx,['32770672'],No,False
+110387,RxNorm:35636,risperidone,DRD2,,,C,3,,,n/a,True
+110388,RxNorm:35636,risperidone,HTR2C,,,C,3,,,n/a,True
+110390,RxNorm:84108,rosiglitazone,CYP2C8,,,C,3,,,n/a,True
+2777629,RxNorm:301542,rosuvastatin,CYP3A5,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,3,,,No,False
+110397,RxNorm:42316,tacrolimus,CYP3A4,,,C,2A,,,n/a,True
+110402,RxNorm:10689,tramadol,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+110404,RxNorm:39786,venlafaxine,GRIK4,,,C,,,,n/a,True
+110406,RxNorm:115698,ziprasidone,MC4R,,,C,,,,n/a,True
+110412,RxNorm:6960,midazolam,CYP3A5,,,C/D,3,,,n/a,True
+110417,RxNorm:7781,oxazepam,UGT2B15,,,C/D,3,,,n/a,True
+110423,RxNorm:46041,alendronate,FDPS,,,D,,,,n/a,True
+110433,RxNorm:1191,aspirin,GP1BA,,,D,3,,,n/a,True
+110434,RxNorm:1191,aspirin,LTC4S,,,D,3,,,n/a,True
+110435,RxNorm:1191,aspirin,PTGS1,,,D,3,,,n/a,True
+110439,RxNorm:83367,atorvastatin,KIF6,,,D,3,,,n/a,True
+110441,RxNorm:83367,atorvastatin,LPA,,,D,,,,n/a,True
+110445,RxNorm:1886,caffeine,ADORA2A,,,D,3,,,n/a,True
+110446,RxNorm:194000,capecitabine,TYMS,,,D,3,,,n/a,True
+110447,RxNorm:1998,captopril,ACE,,,D,2A,,,n/a,True
+110456,RxNorm:2555,cisplatin,NQO1,,,D,,,,n/a,True
+110459,RxNorm:2555,cisplatin,XPC,,,D,3,,,n/a,True
+110461,RxNorm:2626,clozapine,ANKK1,,,D,,,,n/a,True
+110467,RxNorm:3109,daunorubicin,HAS3,,,D,,,,n/a,True
+110478,RxNorm:4492,fluorouracil,GSTP1,,,D,3,,,n/a,True
+110479,RxNorm:4492,fluorouracil,NQO1,,,D,3,,,n/a,True
+110481,RxNorm:4492,fluorouracil,UMPS,,,D,3,,,n/a,True
+110482,RxNorm:4493,fluoxetine,FKBP5,,,D,3,,,n/a,True
+110484,RxNorm:284635,fluticasone/salmeterol,CRHR1,,,D,,,,n/a,True
+110486,RxNorm:41127,fluvastatin,LPA,,,D,,,,n/a,True
+110493,RxNorm:5487,hydrochlorothiazide,NEDD4L,,,D,3,,,n/a,True
+110495,RxNorm:5487,hydrochlorothiazide,YEATS4,,,D,3,,,n/a,True
+110504,RxNorm:6809,metformin,C11orf65,,,D,4,,,n/a,True
+110507,RxNorm:6851,methotrexate,MTRR,,,D,3,,,n/a,True
+110509,RxNorm:6915,metoclopramide,CYB5R2,,,D,,Actionable PGx,,n/a,True
+110510,RxNorm:6915,metoclopramide,CYB5R3,,,D,,Actionable PGx,,n/a,True
+110511,RxNorm:6915,metoclopramide,CYB5R4,,,D,,Actionable PGx,,n/a,True
+110513,RxNorm:53654,nevirapine,CCHCR1,,,D,3,,,n/a,True
+110515,RxNorm:61381,olanzapine,ANKK1,,,D,3,,,n/a,True
+110525,RxNorm:42463,pravastatin,CETP,,,D,3,,,n/a,True
+110533,RxNorm:35636,risperidone,ANKK1,,,D,3,,,n/a,True
+110537,RxNorm:435,salbutamol,ADRB2,,,D,3,,,n/a,True
+110539,RxNorm:435,salbutamol,CRHR2,,,D,3,,,n/a,True
+110540,RxNorm:36117,salmeterol,ADRB2,,,D,2A,,,n/a,True
+110548,RxNorm:117466,tenofovir,ABCC4,,,D,3,,,n/a,True
+110549,RxNorm:10759,triamcinolone,CRHR1,,,D,,,,n/a,True
+469134,RxNorm:42347,bupropion,CYP2B6,,,B/C,2A,,,n/a,True
+3004618,RxNorm:3328,dibekacin,MT-RNR1,MT-RNR1 and Aminoglycosides,https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/,A,1A,,['34032273'],Yes,False
+110099,RxNorm:4492,fluorouracil,DPYD,DPYD and Fluoropyrimidines,https://cpicpgx.org/guidelines/guideline-for-fluoropyrimidines-and-dpyd/,A,1A,Actionable PGx,"['23988873', '29152729']",Yes,False
+1556300,RxNorm:6472,lovastatin,SLCO1B1,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,A,1A,,['35152405'],Yes,False
+110201,RxNorm:6878,methylene blue,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,A,3,Actionable PGx,['36049896'],Yes,False
+110205,RxNorm:7454,nitrofurantoin,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,A,3,Actionable PGx,['36049896'],Yes,False
+1556298,RxNorm:861634,pitavastatin,SLCO1B1,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,A,1A,,['35152405'],Yes,False
+2452949,RxNorm:10638,toluidine blue,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,A,,,['36049896'],Yes,False
+110171,RxNorm:89013,aripiprazole,CYP2D6,,,B,1A,Actionable PGx,,n/a,True
+110195,RxNorm:5691,imipramine,CYP2D6,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,Actionable PGx,"['23486447', '27997040']",Yes,False
+110214,RxNorm:35636,risperidone,CYP2D6,,,B,1A,Informative PGx,,n/a,True
+110223,RxNorm:10834,trimipramine,CYP2C19,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,,"['23486447', '27997040']",Yes,False
+110243,RxNorm:20352,carvedilol,ADRB1,,,B/C,3,,,n/a,True
+110262,RxNorm:4441,flecainide,CYP2D6,,,B/C,1A,,,n/a,True
+110288,RxNorm:8754,propafenone,CYP2D6,,,B/C,1A,Informative PGx,,n/a,True
+110295,RxNorm:77492,tamsulosin,CYP2D6,,,B/C,,Actionable PGx,,n/a,True
+3122097,RxNorm:32937,paroxetine,CYP2C19,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+418207,RxNorm:73032,remifentanil,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+418209,RxNorm:56795,sufentanil,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+3122101,RxNorm:39786,venlafaxine,CYP2C19,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,,['37032427'],No,False
+3122103,RxNorm:1455099,vortioxetine,CYP2C19,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+110448,RxNorm:2002,carbamazepine,EPHX1,,,D,3,,,n/a,True
+110451,RxNorm:596723,cerivastatin,LPA,,,D,,,,n/a,True
+110452,RxNorm:318341,cetuximab,EGF,,,D,3,,,n/a,True
+110454,RxNorm:2555,cisplatin,ERCC1,,,D,3,,,n/a,True
+110455,RxNorm:2555,cisplatin,GSTM1,,,D,3,,,n/a,True
+110460,RxNorm:2556,citalopram,FKBP5,,,D,3,,,n/a,True
+110462,RxNorm:3002,cyclophosphamide,GSTP1,,,D,3,,,n/a,True
+110463,RxNorm:3002,cyclophosphamide,NQO1,,,D,3,,,n/a,True
+110464,RxNorm:3002,cyclophosphamide,SOD2,,,D,3,,,n/a,True
+110469,RxNorm:3639,doxorubicin,HAS3,,,D,,,,n/a,True
+110470,RxNorm:3639,doxorubicin,NQO1,,,D,,,,n/a,True
+110471,RxNorm:711942,eltrombopag,SERPINC1,,,D,,Actionable PGx,,n/a,True
+110473,RxNorm:3995,epirubicin,GSTP1,,,D,3,,,n/a,True
+110474,RxNorm:3995,epirubicin,HAS3,,,D,,,,n/a,True
+110475,RxNorm:3995,epirubicin,NQO1,,,D,3,,,n/a,True
+110477,RxNorm:4179,etoposide,DYNC2H1,,,D,3,,,n/a,True
+110480,RxNorm:4492,fluorouracil,TYMS,,,D,3,,,n/a,True
+110488,RxNorm:12574,gemcitabine,NT5C2,,,D,3,,,n/a,True
+110494,RxNorm:5487,hydrochlorothiazide,PRKCA,,,D,3,,,n/a,True
+110497,RxNorm:5650,idarubicin,HAS3,,,D,,,,n/a,True
+110499,RxNorm:51499,irinotecan,SEMA3C,,,D,3,,,n/a,True
+110502,RxNorm:28439,lamotrigine,UGT1A4,,,D,3,,,n/a,True
+110503,RxNorm:43611,latanoprost,PTGFR,,,D,3,,,n/a,True
+110512,RxNorm:15996,mirtazapine,FKBP5,,,D,3,,,n/a,True
+110514,RxNorm:7407,nicotine,CHRNA3,,,D,3,,,n/a,True
+110516,RxNorm:32592,oxaliplatin,GSTM1,,,D,3,,,n/a,True
+110517,RxNorm:32592,oxaliplatin,GSTP1,,,D,3,,,n/a,True
+110518,RxNorm:32937,paroxetine,FKBP5,,,D,3,,,n/a,True
+110520,RxNorm:253453,peginterferon alfa-2b,VDR,,,D,3,,,n/a,True
+110526,RxNorm:42463,pravastatin,HMGCR,,,D,3,,,n/a,True
+110527,RxNorm:42463,pravastatin,KIF6,,,D,2B,,,n/a,True
+110530,RxNorm:72143,raloxifene,FDPS,,,D,,,,n/a,True
+110531,RxNorm:9344,ribavirin,VDR,,,D,3,,,n/a,True
+110532,RxNorm:73056,risedronate,FDPS,,,D,,,,n/a,True
+110534,RxNorm:121191,rituximab,FCGR3A,,,D,2B,,,n/a,True
+110535,RxNorm:301542,rosuvastatin,COQ2,,,D,3,,,n/a,True
+110538,RxNorm:435,salbutamol,COL22A1,,,D,3,,,n/a,True
+110543,RxNorm:36567,simvastatin,CETP,,,D,3,,,n/a,True
+110551,RxNorm:11289,warfarin,CALU,,,D,3,,,n/a,True
+110552,RxNorm:11289,warfarin,GGCX,,,D,3,,,n/a,True
+110553,RxNorm:11289,warfarin,PROC,,,D,,Actionable PGx,,n/a,True
+110086,RxNorm:194000,capecitabine,DPYD,DPYD and Fluoropyrimidines,https://cpicpgx.org/guidelines/guideline-for-fluoropyrimidines-and-dpyd/,A,1A,Testing Recommended,"['23988873', '29152729']",Yes,False
+110087,RxNorm:2002,carbamazepine,HLA-A,"HLA-A, HLA-B and Carbamazepine and Oxcarbazepine",https://cpicpgx.org/guidelines/guideline-for-carbamazepine-and-hla-b/,A,1A,Actionable PGx,"['23695185', '29392710']",Yes,False
+110182,RxNorm:3108,dapsone,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,A,4,Actionable PGx,['36049896'],Yes,False
+3004620,RxNorm:7337,netilmicin,MT-RNR1,MT-RNR1 and Aminoglycosides,https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/,A,1A,,['34032273'],Yes,False
+826284,RxNorm:7934,paromomycin,MT-RNR1,MT-RNR1 and Aminoglycosides,https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/,A,,,['34032273'],Yes,False
+3004621,RxNorm:NA,ribostamycin,MT-RNR1,MT-RNR1 and Aminoglycosides,https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/,A,1A,,['34032273'],Yes,False
+110215,RxNorm:301542,rosuvastatin,ABCG2,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,A,1A,,['35152405'],Yes,False
+110391,RxNorm:301542,rosuvastatin,SLCO1B1,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,A,1A,Actionable PGx,['35152405'],Yes,False
+110216,RxNorm:36437,sertraline,CYP2C19,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,A,1A,,"['25974703', '37032427']",Yes,False
+110143,RxNorm:10485,thioguanine,NUDT15,"TPMT, NUDT15 and Thiopurines",https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/,A,3,Testing Recommended,"['21270794', '23422873', '30447069']",Yes,False
+110164,RxNorm:10627,tobramycin,MT-RNR1,MT-RNR1 and Aminoglycosides,https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/,A,1A,Actionable PGx,['34032273'],Yes,False
+110148,RxNorm:11289,warfarin,CYP2C9,"CYP2C9, VKORC1, CYP4F2 and Warfarin",https://cpicpgx.org/guidelines/guideline-for-warfarin-and-cyp2c9-and-vkorc1/,A,1A,Actionable PGx,"['21900891', '28198005']",Yes,False
+3122076,RxNorm:36437,sertraline,CYP2B6,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,B,1A,,['37032427'],Yes,False
+110224,RxNorm:10834,trimipramine,CYP2D6,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,Actionable PGx,"['23486447', '27997040']",Yes,False
+110276,RxNorm:6918,metoprolol,CYP2D6,,,B/C,1A,Actionable PGx,,n/a,True
+418183,RxNorm:480,alfentanil,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,,,['33387367'],No,False
+2452901,RxNorm:7833,aminosalicylic acid,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],Yes,False
+2777630,RxNorm:83367,atorvastatin,CYP3A5,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,3,,,No,False
+418185,RxNorm:1819,buprenorphine,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+110314,RxNorm:2393,chloroquine,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,4,Actionable PGx,['36049896'],Yes,False
+3122142,RxNorm:2556,citalopram,CYP2D6,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,Informative PGx,['37032427'],No,False
+110317,RxNorm:2556,citalopram,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,,['37032427'],No,False
+418188,RxNorm:2670,codeine,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+110250,RxNorm:1424911,dabrafenib,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],No,False
+3122371,RxNorm:734064,desvenlafaxine,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+3122500,RxNorm:734064,desvenlafaxine,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+110327,RxNorm:3407,digoxin,ABCB1,,,C,3,,,n/a,True
+2452910,RxNorm:3639,doxorubicin,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],Yes,False
+110329,RxNorm:72625,duloxetine,CYP2D6,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,Actionable PGx,['37032427'],No,False
+3122155,RxNorm:321988,escitalopram,CYP2D6,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,,['37032427'],No,False
+2777771,RxNorm:41127,fluvastatin,HMGCR,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,3,,,No,False
+2452912,RxNorm:4601,furazolidone,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],Yes,False
+2452913,RxNorm:4816,gliclazide,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],No,False
+418194,RxNorm:3423,hydromorphone,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,,,['33387367'],No,False
+2777772,RxNorm:6472,lovastatin,HMGCR,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,3,,,No,False
+2452922,RxNorm:9061,mepacrine,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],No,False
+418197,RxNorm:6813,methadone,CYP2D6,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+2452927,RxNorm:31748,nicorandil,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],No,False
+2452928,RxNorm:7455,nitrofural,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],No,False
+2452931,RxNorm:7623,ofloxacin,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],Yes,False
+110377,RxNorm:7804,oxycodone,CYP2D6,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,2A,,['33387367'],No,False
+110378,RxNorm:679314,paliperidone,MC4R,,,C,3,,,n/a,True
+110208,RxNorm:8120,phenazopyridine,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,3,,['36049896'],Yes,False
+2946944,RxNorm:861634,pitavastatin,CYP3A4,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,,,,No,False
+2946952,RxNorm:861634,pitavastatin,CYP3A5,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,,,,No,False
+2947093,RxNorm:861634,pitavastatin,HMGCR,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,,,,No,False
+110382,RxNorm:8794,propylthiouracil,HLA-B,,,C,3,,,n/a,True
+110383,RxNorm:51272,quetiapine,MC4R,,,C,3,,,n/a,True
+110389,RxNorm:35636,risperidone,MC4R,,,C,3,,,n/a,True
+2777769,RxNorm:301542,rosuvastatin,HMGCR,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,,,,No,False
+110393,RxNorm:36437,sertraline,CYP2D6,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,,['37032427'],No,False
+2452941,RxNorm:10178,sulfadimidine,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],Yes,False
+2452943,RxNorm:10184,sulfanilamide,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],Yes,False
+110398,RxNorm:4582,tegafur,DPYD,DPYD and Fluoropyrimidines,https://cpicpgx.org/guidelines/guideline-for-fluoropyrimidines-and-dpyd/,C,1A,,"['23988873', '29152729']",No,False
+2452950,RxNorm:1425099,trametinib,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],No,False
+3122380,RxNorm:39786,venlafaxine,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,,['37032427'],No,False
+2452952,RxNorm:11258,vitamin k,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],Yes,False
+110519,RxNorm:32937,paroxetine,HTR1A,,,D,3,,,n/a,True
+110528,RxNorm:42463,pravastatin,LPA,,,D,,,,n/a,True
+110536,RxNorm:301542,rosuvastatin,LPA,,,D,3,,,n/a,True
+110542,RxNorm:136411,sildenafil,GNB3,,,D,3,,,n/a,True
+110544,RxNorm:36567,simvastatin,HMGCR,,,D,3,,,n/a,True
+110545,RxNorm:36567,simvastatin,LPA,,,D,,,,n/a,True
+110546,RxNorm:9997,spironolactone,ADD1,,,D,3,,,n/a,True
+110550,RxNorm:39786,venlafaxine,FKBP5,,,D,3,,,n/a,True
+110554,RxNorm:11289,warfarin,PROS1,,,D,,Actionable PGx,,n/a,True
+110093,RxNorm:27340,desflurane,CACNA1S,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,Actionable PGx,['30499100'],Yes,False
+1556301,RxNorm:41127,fluvastatin,SLCO1B1,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,A,1A,,['35152405'],Yes,False
+110113,RxNorm:103,mercaptopurine,NUDT15,"TPMT, NUDT15 and Thiopurines",https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/,A,1A,Testing Recommended,"['21270794', '23422873', '30447069']",Yes,False
+110157,ATC:D06AX07,gentamicin,MT-RNR1,MT-RNR1 and Aminoglycosides,https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/,A,1A,Actionable PGx,['34032273'],Yes,False
+110109,RxNorm:1243041,ivacaftor,CFTR,CFTR and Ivacaftor,https://cpicpgx.org/guidelines/guideline-for-ivacaftor-and-cftr/,A,1A,Testing Required,['24598717'],Yes,False
+3004619,RxNorm:7299,neomycin,MT-RNR1,MT-RNR1 and Aminoglycosides,https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/,A,3,,['34032273'],Yes,False
+110207,RxNorm:1011650,pegloticase,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,A,3,Testing Required,['36049896'],Yes,False
+110127,RxNorm:8183,phenytoin,CYP2C9,"CYP2C9, HLA-B and Phenytoin",https://cpicpgx.org/guidelines/guideline-for-phenytoin-and-cyp2c9-and-hla-b/,A,1A,Actionable PGx,"['25099164', '32779747']",Yes,False
+826285,RxNorm:2049549,plazomicin,MT-RNR1,MT-RNR1 and Aminoglycosides,https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/,A,,Actionable PGx,['34032273'],Yes,False
+110381,RxNorm:42463,pravastatin,SLCO1B1,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,A,1A,,['35152405'],Yes,False
+110211,RxNorm:8687,primaquine,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,A,3,Testing Required,['36049896'],Yes,False
+110131,RxNorm:283821,rasburicase,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,A,1A,Testing Required,"['24787449', '36049896']",Yes,False
+110134,RxNorm:36453,sevoflurane,RYR1,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,Actionable PGx,['30499100'],Yes,False
+110135,RxNorm:36567,simvastatin,SLCO1B1,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,A,1A,,"['22617227', '24918167', '35152405']",Yes,False
+110136,RxNorm:2121085,siponimod,CYP2C9,,,A,1A,Testing Required,,n/a,True
+110162,RxNorm:10109,streptomycin,MT-RNR1,MT-RNR1 and Aminoglycosides,https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/,A,1A,Actionable PGx,['34032273'],Yes,False
+110140,RxNorm:2054023,tafenoquine,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,A,,Testing Required,['36049896'],Yes,False
+110155,RxNorm:266856,divalproex sodium,POLG,,,A/B,,Testing Required,,n/a,True
+110156,RxNorm:1547220,eliglustat,CYP2D6,,,A/B,,Testing Required,,n/a,True
+110161,RxNorm:8331,pimozide,CYP2D6,,,A/B,,Testing Required,,n/a,True
+110163,RxNorm:10390,tetrabenazine,CYP2D6,,,A/B,,Testing Required,,n/a,True
+110165,RxNorm:11118,valproic acid,POLG,,,A/B,3,Testing Required,,n/a,True
+110166,RxNorm:901805,velaglucerase alfa,GBA,,,A/B,,Testing Required,,n/a,True
+110175,RxNorm:401713,carglumic acid,NAGS,,,B,,Testing Required,,n/a,True
+110293,RxNorm:10831,sulfamethoxazole / trimethoprim,NAT2,,,B/C,3,Actionable PGx,,n/a,True
+2777770,RxNorm:83367,atorvastatin,HMGCR,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,3,,,No,False
+418186,RxNorm:1819,buprenorphine,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+3122372,RxNorm:72625,duloxetine,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+3122501,RxNorm:72625,duloxetine,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+3122373,RxNorm:321988,escitalopram,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,,['37032427'],No,False
+110261,RxNorm:321988,escitalopram,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,4,,['37032427'],No,False
+110342,RxNorm:4493,fluoxetine,CYP2D6,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,Actionable PGx,['37032427'],No,False
+3122374,RxNorm:4493,fluoxetine,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,4,,['37032427'],No,False
+3122503,RxNorm:4493,fluoxetine,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,,['37032427'],No,False
+3122375,RxNorm:42355,fluvoxamine,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,4,,['37032427'],No,False
+3122504,RxNorm:42355,fluvoxamine,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,,['37032427'],No,False
+418195,RxNorm:236913,levomethadone,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,,,['33387367'],No,False
+418196,RxNorm:236913,levomethadone,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,,,['33387367'],No,False
+3122376,RxNorm:1433212,levomilnacipran,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+3122505,RxNorm:1433212,levomilnacipran,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+3122377,RxNorm:588250,milnacipran,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+3122506,RxNorm:588250,milnacipran,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+110364,RxNorm:7052,morphine,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+418206,RxNorm:7804,oxycodone,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+3122378,RxNorm:32937,paroxetine,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,,['37032427'],No,False
+3122507,RxNorm:32937,paroxetine,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,3,,['37032427'],No,False
+418208,RxNorm:73032,remifentanil,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+3122379,RxNorm:36437,sertraline,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,4,,['37032427'],No,False
+3122508,RxNorm:36437,sertraline,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,4,,['37032427'],No,False
+2777628,RxNorm:36567,simvastatin,CYP3A5,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,C,4,,,No,False
+2452947,RxNorm:10633,tolazamide,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],No,False
+2452948,RxNorm:10635,tolbutamide,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],Yes,False
+3122509,RxNorm:39786,venlafaxine,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,4,,['37032427'],No,False
+3122381,RxNorm:1086769,vilazodone,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+3122510,RxNorm:1086769,vilazodone,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+110405,RxNorm:1151,vitamin c,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,,['36049896'],Yes,False
+3122382,RxNorm:1455099,vortioxetine,HTR2A,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+3122511,RxNorm:1455099,vortioxetine,SLC6A4,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,C,,,['37032427'],No,False
+110416,RxNorm:26225,ondansetron,ABCB1,,,C/D,3,,,n/a,True
+110440,RxNorm:83367,atorvastatin,LDLR,,,D,,,,n/a,True
+1354912,RxNorm:2555,cisplatin,ACYP2,,,D,3,,,n/a,True
+110487,RxNorm:4603,furosemide,ADD1,,,D,3,,,n/a,True
+110151,RxNorm:641,amikacin,MT-RNR1,MT-RNR1 and Aminoglycosides,https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/,A,1A,Actionable PGx,['34032273'],Yes,False
+1556299,RxNorm:83367,atorvastatin,SLCO1B1,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,A,1A,,['35152405'],Yes,False
+110088,RxNorm:2002,carbamazepine,HLA-B,"HLA-A, HLA-B and Carbamazepine and Oxcarbazepine",https://cpicpgx.org/guidelines/guideline-for-carbamazepine-and-hla-b/,A,1A,Testing Required,"['23695185', '29392710']",Yes,False
+110189,RxNorm:42355,fluvoxamine,CYP2D6,"CYP2D6, CYP2C19, CYP2B6, SLC6A4, HTR2A and Serotonin Reuptake Inhibitor Antidepressants",https://cpicpgx.org/guidelines/cpic-guideline-for-ssri-and-snri-antidepressants/,B,1A,Actionable PGx,"['25974703', '37032427']",Yes,False
+110194,RxNorm:5691,imipramine,CYP2C19,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,,"['23486447', '27997040']",Yes,False
+110078,RxNorm:190521,abacavir,HLA-B,HLA-B and Abacavir,https://cpicpgx.org/guidelines/guideline-for-abacavir-and-hla-b/,A,1A,Testing Required,"['24561393', '22378157']",Yes,False
+110079,RxNorm:519,allopurinol,HLA-B,HLA-B and Allopurinol,https://cpicpgx.org/guidelines/guideline-for-allopurinol-and-hla-b/,A,1A,Testing Recommended,"['23232549', '26094938']",Yes,False
+110080,RxNorm:704,amitriptyline,CYP2C19,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,A,1A,,"['23486447', '27997040']",Yes,False
+110084,RxNorm:1256,azathioprine,NUDT15,"TPMT, NUDT15 and Thiopurines",https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/,A,1A,Testing Recommended,"['21270794', '23422873', '30447069']",Yes,False
+110085,RxNorm:1256,azathioprine,TPMT,"TPMT, NUDT15 and Thiopurines",https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/,A,1A,Testing Recommended,"['21270794', '23422873', '30447069']",Yes,False
+110092,RxNorm:2670,codeine,CYP2D6,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,A,1A,Actionable PGx,"['22205192', '24458010', '33387367']",Yes,False
+110095,RxNorm:195085,efavirenz,CYP2B6,CYP2B6 and efavirenz,https://cpicpgx.org/guidelines/cpic-guideline-for-efavirenz-based-on-cyp2b6-genotype/,A,1A,Actionable PGx,['31006110'],Yes,False
+1556302,RxNorm:41127,fluvastatin,CYP2C9,"SLCO1B1, ABCG2, CYP2C9, and Statins",https://cpicpgx.org/guidelines/cpic-guideline-for-statins/,A,1A,,['35152405'],Yes,False
+110291,RxNorm:719872,raltegravir,UGT1A1,,,B/C,,Informative PGx,,n/a,True
+110154,RxNorm:1191,aspirin,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,3,,['36049896'],Yes,False
+418187,RxNorm:2670,codeine,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,,,['33387367'],No,False
+418198,RxNorm:6813,methadone,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+110213,RxNorm:9071,quinine,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],Yes,False
+110217,RxNorm:9894,sodium nitrite,G6PD,G6PD,https://cpicpgx.org/guidelines/cpic-guideline-for-g6pd/,C,,Actionable PGx,['36049896'],No,False
+418210,RxNorm:56795,sufentanil,OPRM1,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+418211,RxNorm:10689,tramadol,COMT,"CYP2D6, OPRM1, COMT, and Opioids",https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,C,3,,['33387367'],No,False
+110468,RxNorm:3639,doxorubicin,CBR3,,,D,3,,,n/a,True
+110508,RxNorm:6915,metoclopramide,CYB5R1,,,D,,Actionable PGx,,n/a,True
+110114,RxNorm:103,mercaptopurine,TPMT,"TPMT, NUDT15 and Thiopurines",https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/,A,1A,Testing Recommended,"['21270794', '23422873', '30447069']",Yes,False
+110128,RxNorm:8183,phenytoin,HLA-B,"CYP2C9, HLA-B and Phenytoin",https://cpicpgx.org/guidelines/guideline-for-phenytoin-and-cyp2c9-and-hla-b/,A,1A,Actionable PGx,"['25099164', '32779747']",Yes,False
+110138,RxNorm:10154,succinylcholine,RYR1,"RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/,A,1A,Actionable PGx,['30499100'],Yes,False
+110139,RxNorm:42316,tacrolimus,CYP3A5,CYP3A5 and Tacrolimus,https://cpicpgx.org/guidelines/guideline-for-tacrolimus-and-cyp3a5/,A,1A,,['25801146'],Yes,False
+110144,RxNorm:10485,thioguanine,TPMT,"TPMT, NUDT15 and Thiopurines",https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/,A,3,Testing Recommended,"['21270794', '23422873', '30447069']",Yes,False
+110147,RxNorm:121243,voriconazole,CYP2C19,CYP2C19 and Voriconazole,https://cpicpgx.org/guidelines/guideline-for-voriconazole-and-cyp2c19/,A,1A,Actionable PGx,['27981572'],Yes,False
+110186,RxNorm:3638,doxepin,CYP2C19,"CYP2D6, CYP2C19 and Tricyclic Antidepressants",https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,Actionable PGx,"['23486447', '27997040']",Yes,False

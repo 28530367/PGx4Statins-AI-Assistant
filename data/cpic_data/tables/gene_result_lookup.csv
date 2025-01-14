@@ -1,0 +1,196 @@
+id,phenotypeid,lookupkey,function1,function2,activityvalue1,activityvalue2,totalactivityscore,description
+4061925,4061924,{'Decreased function': 2},Decreased function,Decreased function,n/a,n/a,n/a,An individual carrying two decreased function alleles
+4061928,4061927,"{'Normal function': 1, 'Decreased function': 1}",Normal function,Decreased function,n/a,n/a,n/a,An individual carrying one normal function allele and one decreased function allele
+4061931,4061930,{'Normal function': 2},Normal function,Normal function,n/a,n/a,n/a,An individual carrying two normal function alleles
+4061934,4061933,{'Malignant Hyperthermia associated': 2},Malignant Hyperthermia associated,Malignant Hyperthermia associated,n/a,n/a,n/a,An individual homozygous or compound heterozygous for a CACNA1S Malignant hyperthermia-causative variant as designated by the EMHG
+4061938,4061933,"{'Normal function': 1, 'Malignant Hyperthermia associated': 1}",Malignant Hyperthermia associated,Normal function,n/a,n/a,n/a,An individual heterozygous for a CACNA1S Malignant hyperthermia-causative variant as designated by the EMHG
+4061942,4061941,{'Normal function': 2},Normal function,Normal function,n/a,n/a,n/a,An individual negative for a CACNA1S malignant hyperthermia–causative variant as designated by the EMHG
+4061945,4061944,{'ivacaftor responsive': 2},ivacaftor responsive,ivacaftor responsive,n/a,n/a,n/a,An individual homozygous or compound heterozygous for a CFTR variant listed in the FDA-approved drug label as being responsive to ivacaftor
+4062726,4061944,"{'ivacaftor responsive': 1, 'ivacaftor non-responsive': 1}",ivacaftor responsive,ivacaftor non-responsive,n/a,n/a,n/a,An individual diagnosed with cystic fibrosis (CF) and heterozygous for a CFTR variant listed in the FDA-approved drug label as being responsive to ivacaftor
+4062767,4062766,{'ivacaftor non-responsive': 2},ivacaftor non-responsive,ivacaftor non-responsive,n/a,n/a,n/a,An individual diagnosed with cystic fibrosis (CF) and negative for a CFTR variant listed in the FDA-approved drug label as being responsive to ivacaftor
+4062770,4062769,{'Increased function': 2},Increased function,Increased function,n/a,n/a,n/a,An individual carrying two increased function alleles
+4062775,4062774,"{'Normal function': 1, 'Increased function': 1}",Normal function,Increased function,n/a,n/a,n/a,An individual carrying one normal function allele and one increased function allele
+4062789,4062788,{'Normal function': 2},Normal function,Normal function,n/a,n/a,n/a,An individual carrying two normal function alleles
+4062812,4062811,"{'Normal function': 1, 'Decreased function': 1}",Normal function,Decreased function,n/a,n/a,n/a,An individual carrying one normal function allele and one decreased function allele
+4062867,4062811,"{'No function': 1, 'Normal function': 1}",Normal function,No function,n/a,n/a,n/a,An individual carrying one normal function allele and one no function allele
+4062928,4062811,"{'Decreased function': 1, 'Increased function': 1}",Increased function,Decreased function,n/a,n/a,n/a,An individual carrying one increased function allele and one decreased function allele
+4062947,4062811,"{'No function': 1, 'Increased function': 1}",Increased function,No function,n/a,n/a,n/a,An individual carrying one increased function allele and one no function allele
+4062969,4062968,{'Decreased function': 2},Decreased function,Decreased function,n/a,n/a,n/a,An individual carrying two decreased function alleles
+4063015,4062968,"{'No function': 1, 'Decreased function': 1}",Decreased function,No function,n/a,n/a,n/a,An individual carrying one decreased function allele and one no function allele
+4063106,4062968,{'No function': 2},No function,No function,n/a,n/a,n/a,An individual carrying two no function alleles
+4063163,4063162,"{'Increased function': 1, 'Uncertain function': 1}",Uncertain function,Increased function,n/a,n/a,n/a,An individual carrying one increased function allele and one uncertain function allele
+4063180,4063162,"{'Normal function': 1, 'Uncertain function': 1}",Uncertain function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one uncertain function allele
+4063229,4063162,"{'Decreased function': 1, 'Uncertain function': 1}",Uncertain function,Decreased function,n/a,n/a,n/a,An individual carrying one decreased function allele and one uncertain function allele
+4063302,4063162,"{'No function': 1, 'Uncertain function': 1}",Uncertain function,No function,n/a,n/a,n/a,An individual carrying one no function allele and one uncertain function allele
+4063383,4063162,{'Uncertain function': 2},Uncertain function,Uncertain function,n/a,n/a,n/a,An individual carrying two uncertain function alleles
+4063420,4063162,"{'Unknown function': 1, 'Increased function': 1}",Unknown function,Increased function,n/a,n/a,n/a,An individual carrying one increased function allele and one unknown function allele
+4063425,4063162,"{'Normal function': 1, 'Unknown function': 1}",Unknown function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one unknown function allele
+4063438,4063162,"{'Unknown function': 1, 'Decreased function': 1}",Unknown function,Decreased function,n/a,n/a,n/a,An individual carrying one decreased function allele and one unknown function allele
+4063457,4063162,"{'No function': 1, 'Unknown function': 1}",Unknown function,No function,n/a,n/a,n/a,An individual carrying one no function allele and one unknown function allele
+4063478,4063162,{'Unknown function': 2},Unknown function,Unknown function,n/a,n/a,n/a,An individual carrying two unknown function alleles
+4063482,4063162,"{'Unknown function': 1, 'Uncertain function': 1}",Uncertain function,Unknown function,n/a,n/a,n/a,An individual carrying one uncertain function allele and one unknown function allele
+4063500,4063499,{'Increased function': 2},Increased function,Increased function,n/a,n/a,n/a,An individual carrying two increased function alleles
+4063503,4063502,"{'Normal function': 1, 'Increased function': 1}",Increased function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one increased function allele
+4063512,4063511,{'Normal function': 2},Normal function,Normal function,n/a,n/a,n/a,An individual carrying two normal function alleles
+4063542,4063541,"{'Normal function': 1, 'Decreased function': 1}",Decreased function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one decreased function allele
+4162303,4161330,{'Unknown function': 2},Unknown function,Unknown function,n/a,n/a,n/a,An individual carrying two unknown function alleles
+4063585,4063541,"{'Decreased function': 1, 'Increased function': 1}",Decreased function,Increased function,n/a,n/a,n/a,An individual carrying one increased function allele and one decreased function allele
+4063592,4063541,{'Decreased function': 2},Decreased function,Decreased function,n/a,n/a,n/a,An individual carrying two decreased function alleles
+4063615,4063614,"{'No function': 1, 'Normal function': 1}",Normal function,No function,n/a,n/a,n/a,An individual carrying one normal function allele and one no function allele
+4063700,4063614,"{'No function': 1, 'Increased function': 1}",Increased function,No function,n/a,n/a,n/a,An individual carrying one increased function allele and one no function allele
+4063714,4063713,"{'No function': 1, 'Decreased function': 1}",Decreased function,No function,n/a,n/a,n/a,An individual carrying one decreased function allele and one no function allele
+4063788,4063787,{'No function': 2},No function,No function,n/a,n/a,n/a,An individual carrying two no function alleles
+4063868,4063867,{'Uncertain function': 2},Uncertain function,Uncertain function,n/a,n/a,n/a,An individual carrying two uncertain function alleles
+4063924,4063867,"{'Increased function': 1, 'Uncertain function': 1}",Uncertain function,Increased function,n/a,n/a,n/a,An individual carrying one increased function allele and one uncertain function allele
+4063935,4063867,"{'Normal function': 1, 'Uncertain function': 1}",Uncertain function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one uncertain function allele
+4064006,4063867,"{'Decreased function': 1, 'Uncertain function': 1}",Uncertain function,Decreased function,n/a,n/a,n/a,An individual carrying one decreased function allele and one uncertain function allele
+4064067,4063867,"{'No function': 1, 'Uncertain function': 1}",Uncertain function,No function,n/a,n/a,n/a,An individual carrying one no function allele and one uncertain function allele
+4064189,4064188,{'1.0': 2},Normal function,Normal function,1.0,1.0,2.0,An individual carrying two normal function alleles
+4064194,4064193,"{'0.5': 1, '1.0': 1}",Normal function,Decreased function,1.0,0.5,1.5,An individual carrying one normal function allele and one decreased function allele
+4064238,4064237,"{'0.0': 1, '1.0': 1}",Normal function,No function,1.0,0.0,1.0,An individual carrying one normal function allele and one no function allele
+4064265,4064237,{'0.5': 2},Decreased function,Decreased function,0.5,0.5,1.0,An individual carrying two decreased function alleles
+4064498,4064497,"{'0.0': 1, '0.5': 1}",Decreased function,No function,0.5,0.0,0.5,An individual carrying one decreased function allele and one no function allele
+4064773,4064772,{'0.0': 2},No function,No function,0.0,0.0,0.0,An individual carrying two no function alleles
+4064866,4064865,"{'1.0': 1, 'n/a': 1}",Uncertain function,Normal function,n/a,1.0,n/a,An individual carrying one normal function allele and one uncertain function allele
+4064945,4064865,"{'0.5': 1, 'n/a': 1}",Uncertain function,Decreased function,n/a,0.5,n/a,An individual carrying one decreased function allele and one uncertain function allele
+4065765,4064865,"{'0.0': 1, 'n/a': 1}",Uncertain function,No function,n/a,0.0,n/a,An individual carrying one no function allele and one uncertain function allele
+4066273,4064865,{'n/a': 2},Uncertain function,Uncertain function,n/a,n/a,n/a,An individual carrying two uncertain function alleles
+4067054,4064865,"{'1.0': 1, 'n/a': 1}",Unknown function,Normal function,n/a,1.0,n/a,An individual carrying one normal function allele and one unknown function allele
+4067055,4064865,"{'0.5': 1, 'n/a': 1}",Unknown function,Decreased function,n/a,0.5,n/a,An individual carrying one decreased function allele and one unknown function allele
+4067056,4064865,"{'0.0': 1, 'n/a': 1}",Unknown function,No function,n/a,0.0,n/a,An individual carrying one no function allele and one unknown function allele
+4067057,4064865,{'n/a': 2},Unknown function,Unknown function,n/a,n/a,n/a,An individual carrying two unknown function alleles
+4067058,4064865,{'n/a': 2},Uncertain function,Unknown function,n/a,n/a,n/a,An individual carrying one uncertain function allele and one unknown function allele
+4067060,4067059,{'≥3.0': 2},Increased function,Increased function,≥3.0,≥3.0,≥6.0,An individual carrying multiplications of normal function alleles
+4067065,4067064,"{'2.0': 1, '≥3.0': 1}",Increased function,Increased function,≥3.0,2.0,≥5.0,An individual carrying multiplications of normal function alleles
+4067075,4067074,"{'0.75': 1, '≥3.0': 1}",Increased function,Decreased function,≥3.0,0.75,≥3.75,An individual carrying one allele with multiplications of a normal function allele and one allele with three copies of a decreased function allele with an activity value of 0.25
+4067079,4067078,"{'1.0': 1, '≥3.0': 1}",Increased function,Normal function,≥3.0,1.0,≥4.0,An individual carrying one allele with multiplications of a normal function allele and one normal function allele or a duplication of a decreased function allele with an activity value of 0.5
+4067107,4067106,"{'0.5': 1, '≥3.0': 1}",Increased function,Decreased function,≥3.0,0.5,≥3.5,An individual carrying one allele with multiplications of a normal function allele and one decreased function allele with an activity value of 0.5 or a duplication of a decreased function allele with an activity value of 0.25
+4067131,4067130,"{'0.25': 1, '≥3.0': 1}",Increased function,Decreased function,≥3.0,0.25,≥3.25,An individual carrying one allele with multiplications of a normal function allele and one decreased function allele with an activity value of 0.25
+4067151,4067150,"{'0.0': 1, '≥3.0': 1}",Increased function,No function,≥3.0,0.0,≥3.0,An individual carrying one allele with multiplications of a normal function allele and one no function allele
+4067245,4067244,{'2.0': 2},Increased function,Increased function,2.0,2.0,4.0,An individual carrying two duplicated normal function alleles
+4067257,4067256,"{'2.0': 1, '0.75': 1}",Increased function,Decreased function,2.0,0.75,2.75,An individual carrying one duplicated normal function allele and one allele with three copies of a decreased function allele with an activity value of 0.25
+4067263,4067262,"{'1.0': 1, '2.0': 1}",Increased function,Normal function,2.0,1.0,3.0,An individual carrying one duplicated normal function allele and one normal function allele or a duplication of a decreased function allele with an activity value of 0.5
+4067317,4067316,"{'0.5': 1, '2.0': 1}",Increased function,Decreased function,2.0,0.5,2.5,An individual carrying one duplicated normal function allele and one decreased function allele with an activity value of 0.5 or a duplication of a decreased function allele with an activity value of 0.25
+4067363,4067362,"{'2.0': 1, '0.25': 1}",Increased function,Decreased function,2.0,0.25,2.25,An individual carrying one duplicated normal function allele and one decreased function allele with an activity value of 0.25
+4067401,4067400,"{'0.0': 1, '2.0': 1}",Increased function,No function,2.0,0.0,2.0,An individual carrying one duplicated normal function allele and one no function allele
+4067587,4067586,{'0.75': 2},Decreased function,Decreased function,0.75,0.75,1.5,An individual carrying two alleles with three copies of a decreased function allele with an activity value of 0.25
+4067590,4067589,"{'1.0': 1, '0.75': 1}",Decreased function,Normal function,0.75,1.0,1.75,An individual carrying one allele with three copies of a decreased function allele with an activity value of 0.25 and one normal function allele or a duplication of a decreased function allele with an activity value of 0.5
+4067605,4067604,"{'0.5': 1, '0.75': 1}",Decreased function,Decreased function,0.75,0.5,1.25,An individual carrying one allele with three copies of a decreased function allele with an activity value of 0.25 and one decreased function allele with an activity value of 0.5 or a duplication of a decreased function allele with an activity value of 0.25
+4067618,4067617,"{'0.25': 1, '0.75': 1}",Decreased function,Decreased function,0.75,0.25,1.0,An individual carrying one allele with three copies of a decreased function allele with an activity value of 0.25 and one decreased function allele with an activity value of 0.25
+4067629,4067628,"{'0.0': 1, '0.75': 1}",Decreased function,No function,0.75,0.0,0.75,An individual carrying one allele with three copies of a decreased function allele with an activity value of 0.25 and one no function allele
+4067676,4067400,{'1.0': 2},Normal function,Normal function,1.0,1.0,2.0,An individual carrying two normal function alleles or one normal function allele and a duplication of a decreased function allele with an activity value of 0.5 or two alleles with a duplication of a decreased function allele with an activity value of 0.5
+4067768,4067586,"{'0.5': 1, '1.0': 1}",Normal function,Decreased function,1.0,0.5,1.5,An individual carrying one normal function allele or a duplication of a decreased function allele with an activity value of 0.5 and one decreased function allele with an activity value of 0.5 or a duplication of a decreased function allele with an activity value of 0.25
+4067912,4067604,"{'1.0': 1, '0.25': 1}",Normal function,Decreased function,1.0,0.25,1.25,An individual carrying one normal function allele or a duplication of a decreased function allele with an activity value of 0.5 and one decreased function allele with an activity value of 0.25
+4068030,4067617,"{'0.0': 1, '1.0': 1}",Normal function,No function,1.0,0.0,1.0,An individual carrying one normal function allele or a duplication of a decreased function allele with an activity value of 0.5 and one no function allele
+4068629,4067617,{'0.5': 2},Decreased function,Decreased function,0.5,0.5,1.0,An individual carrying two decreased function alleles with an activity value of 0.5 or one decreased function allele with an activity value of 0.5 and a duplication of a decreased function allele with an activity value of 0.25 or two alleles with a duplication of an decreased function allele with an activity value of 0.25
+4068696,4067628,"{'0.5': 1, '0.25': 1}",Decreased function,Decreased function,0.5,0.25,0.75,An individual carrying one decreased function allele with an activity value of 0.5 or a duplication of a decreased function allele with an activity value of 0.25 and one decreased function allele with an activity value of 0.25
+4068797,4068796,"{'0.0': 1, '0.5': 1}",Decreased function,No function,0.5,0.0,0.5,An individual carrying one decreased function allele with an activity value of 0.5 or a duplication of a decreased function allele with an activity value of 0.25 and one no function allele
+4069304,4068796,{'0.25': 2},Decreased function,Decreased function,0.25,0.25,0.5,An individual carrying two decreased function alleles with an activity value of 0.25
+4069351,4069350,"{'0.0': 1, '0.25': 1}",Decreased function,No function,0.25,0.0,0.25,An individual carrying one decreased function allele with an activity value of 0.25 and one no function allele
+4069767,4069766,{'0.0': 2},No function,No function,0.0,0.0,0.0,An individual carrying two no function alleles
+4070850,4070849,"{'n/a': 1, '≥3.0': 1}",Uncertain function,Increased function,n/a,≥3.0,n/a,An individual carrying one allele with multiplications of a normal function allele and one uncertain or unknown function allele
+4071021,4070849,"{'2.0': 1, 'n/a': 1}",Uncertain function,Increased function,n/a,2.0,n/a,An individual carrying one duplicated normal function allele and one uncertain or unknown function allele
+4071362,4070849,"{'n/a': 1, '0.75': 1}",Uncertain function,Decreased function,n/a,0.75,n/a,An individual carrying one allele with three copies of a decreased function allele with an activity value of 0.25 and one uncertain or unknown function allele
+4071448,4070849,"{'1.0': 1, 'n/a': 1}",Uncertain function,Normal function,n/a,1.0,n/a,An individual carrying one normal function allele or a duplication of a decreased function allele with an activity value of 0.5 and one uncertain or unknown function allele
+4072554,4070849,"{'0.5': 1, 'n/a': 1}",Uncertain function,Decreased function,n/a,0.5,n/a,An individual carrying one decreased function allele with an activity value of 0.5 or a duplication of a decreased function allele with an activity value of 0.25 and one uncertain or unknown function allele
+4073490,4070849,"{'n/a': 1, '0.25': 1}",Uncertain function,Decreased function,n/a,0.25,n/a,An individual carrying one decreased function allele with an activity value of 0.25 and one uncertain or unknown function allele
+4074256,4070849,"{'0.0': 1, 'n/a': 1}",Uncertain function,No function,n/a,0.0,n/a,An individual carrying one no function allele and one uncertain function or unknown allele
+4078167,4070849,{'n/a': 2},Uncertain function,Uncertain function,n/a,n/a,n/a,An individual carrying two uncertain function alleles or two unknown function alleles or one unknown and one uncertain function allele
+4081823,4070849,"{'n/a': 1, '≥3.0': 1}",Unknown function,Increased function,n/a,≥3.0,n/a,An individual carrying one allele with multiplications of a normal function allele and one uncertain or unknown function allele
+4081824,4070849,"{'2.0': 1, 'n/a': 1}",Unknown function,Increased function,n/a,2.0,n/a,An individual carrying one duplicated normal function allele and one uncertain or unknown function allele
+4081825,4070849,"{'n/a': 1, '0.75': 1}",Unknown function,Decreased function,n/a,0.75,n/a,An individual carrying one allele with three copies of a decreased function allele with an activity value of 0.25 and one uncertain or unknown function allele
+4081826,4070849,"{'1.0': 1, 'n/a': 1}",Unknown function,Normal function,n/a,1.0,n/a,An individual carrying one normal function allele or a duplication of a decreased function allele with an activity value of 0.5 and one uncertain or unknown function allele
+4081827,4070849,"{'0.5': 1, 'n/a': 1}",Unknown function,Decreased function,n/a,0.5,n/a,An individual carrying one decreased function allele with an activity value of 0.5 or a duplication of a decreased function allele with an activity value of 0.25 and one uncertain or unknown function allele
+4081828,4070849,"{'n/a': 1, '0.25': 1}",Unknown function,Decreased function,n/a,0.25,n/a,An individual carrying one decreased function allele with an activity value of 0.25 and one uncertain or unknown function allele
+4081829,4070849,"{'0.0': 1, 'n/a': 1}",Unknown function,No function,n/a,0.0,n/a,An individual carrying one no function allele and one uncertain function or unknown allele
+4081830,4070849,{'n/a': 2},Unknown function,Unknown function,n/a,n/a,n/a,An individual carrying two uncertain function alleles or two unknown function alleles or one unknown and one uncertain function allele
+4081831,4070849,{'n/a': 2},Uncertain function,Unknown function,n/a,n/a,n/a,An individual carrying two uncertain function alleles or two unknown function alleles or one unknown and one uncertain function allele
+4081833,4081832,{'Normal function': 2},Normal function,Normal function,n/a,n/a,n/a,An individual carrying two normal function alleles
+4081836,4081835,"{'No function': 1, 'Normal function': 1}",Normal function,No function,n/a,n/a,n/a,An individual carrying one normal function allele and one no function allele
+4081841,4081840,{'No function': 2},No function,No function,n/a,n/a,n/a,An individual carrying two no function alleles
+4081849,4081848,"{'Normal function': 1, 'Unknown function': 1}",Unknown function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one unknown function allele
+4081853,4081852,"{'No function': 1, 'Unknown function': 1}",Unknown function,No function,n/a,n/a,n/a,An individual carrying one unknown function allele and one no function allele
+4081860,4081852,{'Unknown function': 2},Unknown function,Unknown function,n/a,n/a,n/a,An individual carrying two unknown function alleles
+4081865,4081864,{'1.0': 2},Normal function,Normal function,1.0,1.0,2.0,An individual carrying two normal function alleles
+4083463,4083462,"{'0.5': 1, '1.0': 1}",Normal function,Decreased function,1.0,0.5,1.5,An individual carrying one normal function allele and one decreased function allele
+4083857,4083856,"{'0.0': 1, '1.0': 1}",Normal function,No function,1.0,0.0,1.0,An individual carrying one normal function allele and one no function allele
+4085034,4083856,{'0.5': 2},Decreased function,Decreased function,0.5,0.5,1.0,An individual carrying two decreased function alleles
+4085064,4085063,"{'0.0': 1, '0.5': 1}",Decreased function,No function,0.5,0.0,0.5,An individual carrying one decreased function allele and one no function allele
+4085213,4085212,{'0.0': 2},No function,No function,0.0,0.0,0.0,An individual carrying two no function alleles
+4085446,4085445,{'IV/Normal': 1},IV/Normal,N/A,n/a,n/a,n/a,A person with one X chromosome carrying a non-deficient (class IV) allele
+4085453,4085452,{'III/Deficient': 1},III/Deficient,N/A,n/a,n/a,n/a,A person with one X chromosome carrying a deficient (class III) allele
+4085491,4085452,{'II/Deficient': 1},II/Deficient,N/A,n/a,n/a,n/a,A person with one X chromosome carrying a deficient (class II) allele
+4085546,4085545,{'I/Deficient with CNSHA': 1},I/Deficient with CNSHA,N/A,n/a,n/a,n/a,A person with one X chromosome carrying a deficient (class I) allele
+4085633,4085445,{'IV/Normal': 2},IV/Normal,IV/Normal,n/a,n/a,n/a,A person carrying two non-deficient (class IV) alleles
+4085650,4085649,"{'IV/Normal': 1, 'III/Deficient': 1}",IV/Normal,III/Deficient,n/a,n/a,n/a,A person carrying one non-deficient (class IV) allele and one deficient (class III) allele
+4085836,4085649,"{'IV/Normal': 1, 'II/Deficient': 1}",IV/Normal,II/Deficient,n/a,n/a,n/a,A person carrying one non-deficient (class IV) allele and one deficient (class II) allele
+4086102,4085649,"{'IV/Normal': 1, 'I/Deficient with CNSHA': 1}",IV/Normal,I/Deficient with CNSHA,n/a,n/a,n/a,A person carrying one non-deficient (class IV) allele and one deficient (class I) allele
+4086533,4085452,{'III/Deficient': 2},III/Deficient,III/Deficient,n/a,n/a,n/a,A person carrying two deficient (class III) alleles
+4087237,4085452,"{'II/Deficient': 1, 'III/Deficient': 1}",III/Deficient,II/Deficient,n/a,n/a,n/a,A person carrying one deficient (class II) allele and one deficient (class III) allele
+4089199,4085452,"{'III/Deficient': 1, 'I/Deficient with CNSHA': 1}",III/Deficient,I/Deficient with CNSHA,n/a,n/a,n/a,A person carrying one deficient (class I) allele and one deficient (class III) allele
+4092382,4085452,{'II/Deficient': 2},II/Deficient,II/Deficient,n/a,n/a,n/a,A person carrying two deficient (class II) alleles
+4093814,4085452,"{'II/Deficient': 1, 'I/Deficient with CNSHA': 1}",II/Deficient,I/Deficient with CNSHA,n/a,n/a,n/a,A person carrying one deficient (class I) allele and one deficient (class II) allele
+4098373,4085545,{'I/Deficient with CNSHA': 2},I/Deficient with CNSHA,I/Deficient with CNSHA,n/a,n/a,n/a,A person carrying two deficient (class I) alleles
+4102116,4102115,{'Uncertain function': 1},Uncertain function,N/A,n/a,n/a,n/a,A person with one X chromosome carrying an uncertain function allele
+4102123,4102115,"{'IV/Normal': 1, 'Uncertain function': 1}",IV/Normal,Uncertain function,n/a,n/a,n/a,A person carrying one non-deficient (class IV) allele and one uncertain function allele
+4102154,4102115,"{'III/Deficient': 1, 'Uncertain function': 1}",III/Deficient,Uncertain function,n/a,n/a,n/a,A person carrying one deficient (class II) allele and one uncertain function allele
+4162311,4162310,{'Normal function': 2},Normal function,Normal function,n/a,n/a,n/a,An individual carrying two normal function alleles
+4102377,4102115,"{'II/Deficient': 1, 'Uncertain function': 1}",II/Deficient,Uncertain function,n/a,n/a,n/a,A person carrying one deficient (class III) allele and one uncertain function allele
+4102696,4102115,"{'Uncertain function': 1, 'I/Deficient with CNSHA': 1}",I/Deficient with CNSHA,Uncertain function,n/a,n/a,n/a,A person carrying one deficient (class I) allele and one uncertain function allele
+4103213,4102115,{'Uncertain function': 2},Uncertain function,Uncertain function,n/a,n/a,n/a,A person carrying two uncertain function alleles
+4103236,4103235,{'increased risk of aminoglycoside-induced hearing loss': 1},increased risk of aminoglycoside-induced hearing loss,N/A,n/a,n/a,n/a,Individuals with a MT-RNR1 variant associated with an increased risk of aminoglycoside-induced hearing loss
+4103241,4103240,{'normal risk of aminoglycoside-induced hearing loss': 1},normal risk of aminoglycoside-induced hearing loss,N/A,n/a,n/a,n/a,Individuals with no detectable MT-RNR1 variant or a variant associated with normal risk of aminoglycoside-induced hearing loss
+4103244,4103243,{'uncertain risk of aminoglycoside-induced hearing loss': 1},uncertain risk of aminoglycoside-induced hearing loss,N/A,n/a,n/a,n/a,Individuals with a MT-RNR1 variant associated with an uncertain risk of aminoglycoside-induced hearing loss
+4103266,4103265,{'Normal function': 2},Normal function,Normal function,n/a,n/a,n/a,An individual carrying two normal function alleles
+4103269,4103268,"{'No function': 1, 'Normal function': 1}",Normal function,No function,n/a,n/a,n/a,An individual carrying one normal function allele and one no function allele
+4103274,4103273,{'No function': 2},No function,No function,n/a,n/a,n/a,An individual carrying two no function alleles
+4103282,4103281,"{'Normal function': 1, 'Uncertain function': 1}",Uncertain function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one uncertain function allele
+4103289,4103288,"{'No function': 1, 'Uncertain function': 1}",Uncertain function,No function,n/a,n/a,n/a,An individual carrying one no function allele and one uncertain function allele
+4103305,4103281,{'Uncertain function': 2},Uncertain function,Uncertain function,n/a,n/a,n/a,An individual carrying two uncertain function alleles
+4103322,4103321,{'Normal function': 2},Normal function,Normal function,n/a,n/a,n/a,An individual negative for a RYR1 variant classified as pathogenic or likely pathogenic by the ClinGen Malignant Hyperthermia Susceptibility Variant Curation Expert Panel.
+4103819,4103321,"{'Normal function': 1, 'Uncertain function': 1}",Normal function,Uncertain function,n/a,n/a,n/a,An individual negative for a RYR1 variant classified as pathogenic or likely pathogenic by the ClinGen Malignant Hyperthermia Susceptibility Variant Curation Expert Panel.
+4110640,4103321,{'Uncertain function': 2},Uncertain function,Uncertain function,n/a,n/a,n/a,An individual negative for a RYR1 variant classified as pathogenic or likely pathogenic by the ClinGen Malignant Hyperthermia Susceptibility Variant Curation Expert Panel.
+4134952,4134951,{'Malignant Hyperthermia associated': 2},Malignant Hyperthermia associated,Malignant Hyperthermia associated,n/a,n/a,n/a,An individual homozygous or compound heterozygous for a RYR1 variant(s) classified as pathogenic or likely pathogenic by the ClinGen Malignant Hyperthermia Susceptibility Variant Curation Expert Panel. Individuals who have biallelic (homozygous or compound heterozygous) pathogenic variants in RYR1 generally will have autosomal recessive myopathies and should be managed according to the standard of care for those disorders.
+4138958,4134951,"{'Normal function': 1, 'Malignant Hyperthermia associated': 1}",Malignant Hyperthermia associated,Normal function,n/a,n/a,n/a,An individual heterozygous for a RYR1 variant classified as pathogenic or likely pathogenic by the ClinGen Malignant Hyperthermia Susceptibility Variant Curation Expert Panel.
+4141718,4134951,"{'Uncertain function': 1, 'Malignant Hyperthermia associated': 1}",Malignant Hyperthermia associated,Uncertain function,n/a,n/a,n/a,An individual heterozygous for a RYR1 variant classified as pathogenic or likely pathogenic by the ClinGen Malignant Hyperthermia Susceptibility Variant Curation Expert Panel.
+4161300,4161299,{'Increased function': 2},Increased function,Increased function,n/a,n/a,n/a,An individual carrying two increased function alleles
+4161305,4161304,"{'No function': 1, 'Increased function': 1}",Increased function,No function,n/a,n/a,n/a,An individual carrying one no function allele and one increased function allele
+4161325,4161324,"{'Normal function': 1, 'Increased function': 1}",Increased function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one increased function allele
+4161331,4161330,"{'Increased function': 1, 'Uncertain function': 1}",Increased function,Uncertain function,n/a,n/a,n/a,An individual carrying one increased function allele and one uncertain function allele
+4161388,4161330,"{'Unknown function': 1, 'Increased function': 1}",Increased function,Unknown function,n/a,n/a,n/a,An individual carrying one increased function allele and one unknown function allele
+4161396,4161395,{'No function': 2},No function,No function,n/a,n/a,n/a,An individual carrying two no function alleles
+4161442,4161304,"{'No function': 1, 'Normal function': 1}",Normal function,No function,n/a,n/a,n/a,An individual carrying one normal function allele and one no function allele
+4161461,4161324,{'Normal function': 2},Normal function,Normal function,n/a,n/a,n/a,An individual carrying two normal function alleles
+4161466,4161465,"{'No function': 1, 'Uncertain function': 1}",Uncertain function,No function,n/a,n/a,n/a,An individual carrying one no function allele and one uncertain function allele
+4161719,4161330,"{'Normal function': 1, 'Uncertain function': 1}",Uncertain function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one uncertain function allele
+4161776,4161330,{'Uncertain function': 2},Uncertain function,Uncertain function,n/a,n/a,n/a,An individual carrying two uncertain function alleles
+4162183,4161465,"{'No function': 1, 'Unknown function': 1}",Unknown function,No function,n/a,n/a,n/a,An individual carrying one no function allele and one unknown function allele
+4162211,4161330,"{'Normal function': 1, 'Unknown function': 1}",Unknown function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one unknown function allele
+4162218,4161330,"{'Unknown function': 1, 'Uncertain function': 1}",Unknown function,Uncertain function,n/a,n/a,n/a,An individual carrying one unknown and one uncertain function alleles
+4162314,4162313,"{'No function': 1, 'Normal function': 1}",Normal function,No function,n/a,n/a,n/a,An individual carrying one normal function allele and one no function allele
+4162327,4162326,{'No function': 2},No function,No function,n/a,n/a,n/a,An individual carrying two no function alleles
+4162395,4162394,"{'Normal function': 1, 'Uncertain function': 1}",Uncertain function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one uncertain function allele
+4162424,4162423,"{'No function': 1, 'Uncertain function': 1}",Uncertain function,No function,n/a,n/a,n/a,An individual carrying one no function allele and one uncertain function allele
+4162722,4162394,{'Uncertain function': 2},Uncertain function,Uncertain function,n/a,n/a,n/a,An individual carrying two uncertain function alleles
+4163101,4162394,"{'Normal function': 1, 'Unknown function': 1}",Unknown function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one unknown function allele
+4163106,4162423,"{'No function': 1, 'Unknown function': 1}",Unknown function,No function,n/a,n/a,n/a,An individual carryingone no function allele and one unknown function allele
+4163151,4162394,{'Unknown function': 2},Unknown function,Unknown function,n/a,n/a,n/a,An individual carrying two unknown function alleles
+4163162,4162394,"{'Unknown function': 1, 'Uncertain function': 1}",Unknown function,Uncertain function,n/a,n/a,n/a,An individual carrying one uncertain function allele and one unknown function allele
+4163272,4163271,{'Increased function': 2},Increased function,Increased function,n/a,n/a,n/a,An individual carrying two increased function alleles
+4163274,4163271,"{'Normal function': 1, 'Increased function': 1}",Increased function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one increased function allele
+4163276,4163271,{'Normal function': 2},Normal function,Normal function,n/a,n/a,n/a,An individual carrying two normal function alleles
+4163279,4163278,"{'Decreased function': 1, 'Increased function': 1}",Increased function,Decreased function,n/a,n/a,n/a,An individual carrying one increased function allele and one decreased function allele
+4163286,4163278,"{'Normal function': 1, 'Decreased function': 1}",Normal function,Decreased function,n/a,n/a,n/a,An individual carrying one normal function allele and one decreased function allele
+4163294,4163293,{'Decreased function': 2},Decreased function,Decreased function,n/a,n/a,n/a,An individual carrying two decreased function alleles
+4163317,4163316,"{'Unknown function': 1, 'Increased function': 1}",Unknown function,Increased function,n/a,n/a,n/a,An individual carrying one increased function allele and one unknown function allele
+4163319,4163316,"{'Normal function': 1, 'Unknown function': 1}",Unknown function,Normal function,n/a,n/a,n/a,An individual carrying one normal function allele and one unknown function allele
+4163321,4163316,"{'Unknown function': 1, 'Decreased function': 1}",Unknown function,Decreased function,n/a,n/a,n/a,An individual carrying one decreased function allele and one unknown function allele
+4163328,4163316,{'Unknown function': 2},Unknown function,Unknown function,n/a,n/a,n/a,An individual carrying two unknown function alleles
+4163331,4163330,{'*31:01 negative': 1},,,,,,
+4163334,4163333,{'*31:01 positive': 1},,,,,,
+4163337,4163336,{'*15:02 negative': 1},,,,,,
+4163340,4163339,{'*15:02 positive': 1},,,,,,
+4163343,4163342,{'*57:01 negative': 1},,,,,,
+4163346,4163345,{'*57:01 positive': 1},,,,,,
+4163349,4163348,{'*58:01 negative': 1},,,,,,
+4163352,4163351,{'*58:01 positive': 1},,,,,,

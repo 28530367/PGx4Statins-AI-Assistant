@@ -1,0 +1,577 @@
+object_class,data_type,object_name,n
+Gene,Allele Definition Data,HLA-B,3
+Gene,Allele Definition Data,HLA-A,1
+Gene,Allele Definition Data,CYP2B6,48
+Gene,Allele Definition Data,CYP3A5,6
+Gene,Allele Definition Data,IFNL3,2
+Gene,Allele Definition Data,CFTR,40
+Gene,Allele Definition Data,DPYD,84
+Gene,Allele Definition Data,CYP2D6,163
+Gene,Allele Definition Data,VKORC1,2
+Gene,Allele Definition Data,TPMT,46
+Gene,Allele Definition Data,CYP4F2,17
+Gene,Allele Definition Data,NUDT15,20
+Gene,Allele Definition Data,CACNA1S,3
+Gene,Allele Definition Data,UGT1A1,9
+Gene,Allele Definition Data,RYR1,340
+Gene,Allele Definition Data,G6PD,187
+Gene,Allele Definition Data,CYP2C9,85
+Gene,Allele Definition Data,CYP2C19,36
+Gene,Allele Definition Data,SLCO1B1,44
+Gene,Allele Definition Data,ABCG2,2
+Gene,Allele Definition Data,MT-RNR1,25
+Gene,Allele Functionality Data,CFTR,40
+Gene,Allele Functionality Data,DPYD,84
+Gene,Allele Functionality Data,CYP2D6,171
+Gene,Allele Functionality Data,NUDT15,9
+Gene,Allele Functionality Data,TPMT,43
+Gene,Allele Functionality Data,CACNA1S,3
+Gene,Allele Functionality Data,UGT1A1,9
+Gene,Allele Functionality Data,RYR1,340
+Gene,Allele Functionality Data,G6PD,187
+Gene,Allele Functionality Data,CYP2C9,75
+Gene,Allele Functionality Data,CYP2C19,36
+Gene,Allele Functionality Data,SLCO1B1,44
+Gene,Allele Functionality Data,ABCG2,2
+Gene,Allele Functionality Data,MT-RNR1,25
+Gene,Allele Functionality Data,CYP3A5,6
+Gene,Allele Functionality Data,CYP2B6,37
+Gene,Diplotype to Phenotype Data,CFTR,820
+Gene,Diplotype to Phenotype Data,DPYD,3570
+Gene,Diplotype to Phenotype Data,CYP2D6,14706
+Gene,Diplotype to Phenotype Data,TPMT,946
+Gene,Diplotype to Phenotype Data,NUDT15,45
+Gene,Diplotype to Phenotype Data,CACNA1S,6
+Gene,Diplotype to Phenotype Data,UGT1A1,45
+Gene,Diplotype to Phenotype Data,RYR1,57970
+Gene,Diplotype to Phenotype Data,G6PD,17765
+Gene,Diplotype to Phenotype Data,CYP2C9,2850
+Gene,Diplotype to Phenotype Data,SLCO1B1,990
+Gene,Diplotype to Phenotype Data,CYP2C19,666
+Gene,Diplotype to Phenotype Data,ABCG2,3
+Gene,Diplotype to Phenotype Data,MT-RNR1,24
+Gene,Diplotype to Phenotype Data,HLA-B,6
+Gene,Diplotype to Phenotype Data,HLA-A,2
+Gene,Diplotype to Phenotype Data,CYP2B6,703
+Gene,Diplotype to Phenotype Data,CYP3A5,21
+Gene,Frequency Data,ABCG2,34
+Gene,Frequency Data,CACNA1S,22
+Gene,Frequency Data,CYP2B6,2960
+Gene,Frequency Data,CYP2C19,15840
+Gene,Frequency Data,CYP2C9,35625
+Gene,Frequency Data,CYP2D6,55917
+Gene,Frequency Data,CYP3A5,1242
+Gene,Frequency Data,CYP4F2,201
+Gene,Frequency Data,DPYD,23166
+Gene,Frequency Data,G6PD,49210
+Gene,Frequency Data,HLA-A,281
+Gene,Frequency Data,HLA-B,843
+Gene,Frequency Data,MT-RNR1,1752
+Gene,Frequency Data,NUDT15,225
+Gene,Frequency Data,RYR1,109140
+Gene,Frequency Data,SLCO1B1,2772
+Gene,Frequency Data,TPMT,12728
+Gene,Frequency Data,UGT1A1,679
+Gene,Frequency Data,VKORC1,166
+Gene,Gene CDS Data,DPYD,5
+Gene,Gene CDS Data,CYP2D6,22
+Gene,Gene CDS Data,TPMT,5
+Gene,Gene CDS Data,NUDT15,5
+Gene,Gene CDS Data,CACNA1S,2
+Gene,Gene CDS Data,UGT1A1,4
+Gene,Gene CDS Data,RYR1,2
+Gene,Gene CDS Data,G6PD,5
+Gene,Gene CDS Data,CYP2C9,6
+Gene,Gene CDS Data,CYP2C19,8
+Gene,Gene CDS Data,SLCO1B1,6
+Gene,Gene CDS Data,ABCG2,3
+Gene,Gene CDS Data,MT-RNR1,3
+Gene,Gene CDS Data,HLA-B,6
+Gene,Gene CDS Data,HLA-A,2
+Gene,Gene CDS Data,CYP3A5,5
+Gene,Gene CDS Data,CYP2B6,6
+Gene,Gene Phenotype Data,CFTR,3
+Gene,Gene Phenotype Data,DPYD,6
+Gene,Gene Phenotype Data,CYP2D6,45
+Gene,Gene Phenotype Data,NUDT15,6
+Gene,Gene Phenotype Data,TPMT,10
+Gene,Gene Phenotype Data,CACNA1S,3
+Gene,Gene Phenotype Data,UGT1A1,10
+Gene,Gene Phenotype Data,RYR1,6
+Gene,Gene Phenotype Data,G6PD,20
+Gene,Gene Phenotype Data,CYP2C9,15
+Gene,Gene Phenotype Data,SLCO1B1,15
+Gene,Gene Phenotype Data,CYP2C19,15
+Gene,Gene Phenotype Data,MT-RNR1,3
+Gene,Gene Phenotype Data,ABCG2,3
+Gene,Gene Phenotype Data,HLA-B,6
+Gene,Gene Phenotype Data,HLA-A,2
+Gene,Gene Phenotype Data,CYP3A5,6
+Gene,Gene Phenotype Data,CYP2B6,21
+Gene,PharmVar Allele IDs,CYP2D6,163
+Gene,PharmVar Allele IDs,CYP4F2,17
+Gene,PharmVar Allele IDs,NUDT15,20
+Gene,PharmVar Allele IDs,CYP2C9,85
+Gene,PharmVar Allele IDs,CYP2C19,36
+Gene,PharmVar Allele IDs,SLCO1B1,44
+Gene,PharmVar Allele IDs,CYP2B6,48
+Gene,PharmVar Allele IDs,CYP3A5,6
+Drug,Flowcharts,doxorubicin,1
+Drug,Flowcharts,desipramine,1
+Drug,Flowcharts,oxcarbazepine,1
+Drug,Flowcharts,phenytoin,1
+Drug,Flowcharts,sulfanilamide,1
+Drug,Flowcharts,meloxicam,1
+Drug,Flowcharts,tamoxifen,1
+Drug,Flowcharts,clomipramine,1
+Drug,Flowcharts,nortriptyline,1
+Drug,Flowcharts,enflurane,1
+Drug,Flowcharts,pitavastatin,1
+Drug,Flowcharts,flurbiprofen,1
+Drug,Flowcharts,ibuprofen,1
+Drug,Flowcharts,escitalopram,1
+Drug,Flowcharts,norfloxacin,1
+Drug,Flowcharts,aminosalicylic acid,1
+Drug,Flowcharts,furazolidone,1
+Drug,Flowcharts,methoxyflurane,1
+Drug,Flowcharts,rosuvastatin,1
+Drug,Flowcharts,fluvoxamine,1
+Drug,Flowcharts,abacavir,1
+Drug,Flowcharts,sulfadimidine,1
+Drug,Flowcharts,clopidogrel,1
+Drug,Flowcharts,halothane,1
+Drug,Flowcharts,desflurane,1
+Drug,Flowcharts,pantoprazole,1
+Drug,Flowcharts,vortioxetine,1
+Drug,Flowcharts,sevoflurane,1
+Drug,Flowcharts,fluvastatin,1
+Drug,Flowcharts,carbamazepine,1
+Drug,Flowcharts,fluorouracil,1
+Drug,Flowcharts,dexlansoprazole,1
+Drug,Flowcharts,atazanavir,1
+Drug,Flowcharts,imipramine,1
+Drug,Flowcharts,codeine,1
+Drug,Flowcharts,lovastatin,1
+Drug,Flowcharts,sulfamethoxazole / trimethoprim,1
+Drug,Flowcharts,fosphenytoin,1
+Drug,Flowcharts,doxepin,1
+Drug,Flowcharts,capecitabine,1
+Drug,Flowcharts,azathioprine,1
+Drug,Flowcharts,ofloxacin,1
+Drug,Flowcharts,mafenide,1
+Drug,Flowcharts,isoflurane,1
+Drug,Flowcharts,tafenoquine,1
+Drug,Flowcharts,trimipramine,1
+Drug,Flowcharts,methylene blue,1
+Drug,Flowcharts,chloramphenicol,1
+Drug,Flowcharts,sulfisoxazole,1
+Drug,Flowcharts,pravastatin,1
+Drug,Flowcharts,dapsone,1
+Drug,Flowcharts,quinine,1
+Drug,Flowcharts,atomoxetine,1
+Drug,Flowcharts,rasburicase,1
+Drug,Flowcharts,ciprofloxacin,1
+Drug,Flowcharts,paroxetine,1
+Drug,Flowcharts,tolbutamide,1
+Drug,Flowcharts,allopurinol,1
+Drug,Flowcharts,sulfasalazine,1
+Drug,Flowcharts,venlafaxine,1
+Drug,Flowcharts,nalidixic acid,1
+Drug,Flowcharts,chloroquine,1
+Drug,Flowcharts,voriconazole,1
+Drug,Flowcharts,vitamin k,1
+Drug,Flowcharts,atorvastatin,1
+Drug,Flowcharts,sertraline,1
+Drug,Flowcharts,simvastatin,1
+Drug,Flowcharts,lansoprazole,1
+Drug,Flowcharts,succinylcholine,1
+Drug,Flowcharts,ondansetron,1
+Drug,Flowcharts,dimercaprol,1
+Drug,Flowcharts,phenazopyridine,1
+Drug,Flowcharts,hydroxychloroquine,1
+Drug,Flowcharts,piroxicam,1
+Drug,Flowcharts,thioguanine,1
+Drug,Flowcharts,tropisetron,1
+Drug,Flowcharts,nitrofurantoin,1
+Drug,Flowcharts,vitamin c,1
+Drug,Flowcharts,tacrolimus,1
+Drug,Flowcharts,primaquine,1
+Drug,Flowcharts,citalopram,1
+Drug,Flowcharts,tegafur,1
+Drug,Flowcharts,aspirin,1
+Drug,Flowcharts,pegloticase,1
+Drug,Flowcharts,tenoxicam,1
+Drug,Flowcharts,toluidine blue,1
+Drug,Flowcharts,sulfadiazine,1
+Drug,Flowcharts,efavirenz,1
+Drug,Flowcharts,mercaptopurine,1
+Drug,Flowcharts,glyburide,1
+Drug,Flowcharts,celecoxib,1
+Drug,Flowcharts,lornoxicam,1
+Drug,Flowcharts,amitriptyline,1
+Drug,Flowcharts,omeprazole,1
+Drug,Table 2 Recommendations,abacavir,2
+Drug,Table 2 Recommendations,allopurinol,2
+Drug,Table 2 Recommendations,amikacin,3
+Drug,Table 2 Recommendations,aminosalicylic acid,5
+Drug,Table 2 Recommendations,amitriptyline,206
+Drug,Table 2 Recommendations,aspirin,5
+Drug,Table 2 Recommendations,atazanavir,4
+Drug,Table 2 Recommendations,atomoxetine,44
+Drug,Table 2 Recommendations,atorvastatin,6
+Drug,Table 2 Recommendations,azathioprine,35
+Drug,Table 2 Recommendations,capecitabine,5
+Drug,Table 2 Recommendations,carbamazepine,24
+Drug,Table 2 Recommendations,celecoxib,6
+Drug,Table 2 Recommendations,chloramphenicol,5
+Drug,Table 2 Recommendations,chloroquine,5
+Drug,Table 2 Recommendations,ciprofloxacin,5
+Drug,Table 2 Recommendations,citalopram,8
+Drug,Table 2 Recommendations,clomipramine,206
+Drug,Table 2 Recommendations,clopidogrel,24
+Drug,Table 2 Recommendations,codeine,22
+Drug,Table 2 Recommendations,dapsone,5
+Drug,Table 2 Recommendations,desflurane,8
+Drug,Table 2 Recommendations,desipramine,22
+Drug,Table 2 Recommendations,dexlansoprazole,8
+Drug,Table 2 Recommendations,dibekacin,3
+Drug,Table 2 Recommendations,dimercaprol,5
+Drug,Table 2 Recommendations,doxepin,206
+Drug,Table 2 Recommendations,doxorubicin,5
+Drug,Table 2 Recommendations,efavirenz,6
+Drug,Table 2 Recommendations,enflurane,8
+Drug,Table 2 Recommendations,escitalopram,8
+Drug,Table 2 Recommendations,fluorouracil,5
+Drug,Table 2 Recommendations,flurbiprofen,6
+Drug,Table 2 Recommendations,fluvastatin,48
+Drug,Table 2 Recommendations,fluvoxamine,22
+Drug,Table 2 Recommendations,fosphenytoin,40
+Drug,Table 2 Recommendations,furazolidone,5
+Drug,Table 2 Recommendations,gentamicin,3
+Drug,Table 2 Recommendations,glyburide,5
+Drug,Table 2 Recommendations,halothane,8
+Drug,Table 2 Recommendations,hydrocodone,22
+Drug,Table 2 Recommendations,hydroxychloroquine,5
+Drug,Table 2 Recommendations,ibuprofen,6
+Drug,Table 2 Recommendations,imipramine,206
+Drug,Table 2 Recommendations,isoflurane,8
+Drug,Table 2 Recommendations,ivacaftor,2
+Drug,Table 2 Recommendations,kanamycin,3
+Drug,Table 2 Recommendations,lansoprazole,8
+Drug,Table 2 Recommendations,lornoxicam,6
+Drug,Table 2 Recommendations,lovastatin,6
+Drug,Table 2 Recommendations,mafenide,5
+Drug,Table 2 Recommendations,meloxicam,6
+Drug,Table 2 Recommendations,mercaptopurine,35
+Drug,Table 2 Recommendations,methoxyflurane,8
+Drug,Table 2 Recommendations,methylene blue,5
+Drug,Table 2 Recommendations,nalidixic acid,5
+Drug,Table 2 Recommendations,neomycin,3
+Drug,Table 2 Recommendations,netilmicin,3
+Drug,Table 2 Recommendations,nitrofurantoin,5
+Drug,Table 2 Recommendations,norfloxacin,5
+Drug,Table 2 Recommendations,nortriptyline,22
+Drug,Table 2 Recommendations,ofloxacin,5
+Drug,Table 2 Recommendations,omeprazole,8
+Drug,Table 2 Recommendations,ondansetron,22
+Drug,Table 2 Recommendations,oxcarbazepine,4
+Drug,Table 2 Recommendations,pantoprazole,8
+Drug,Table 2 Recommendations,paromomycin,3
+Drug,Table 2 Recommendations,paroxetine,22
+Drug,Table 2 Recommendations,pegloticase,5
+Drug,Table 2 Recommendations,phenazopyridine,5
+Drug,Table 2 Recommendations,phenytoin,40
+Drug,Table 2 Recommendations,piroxicam,6
+Drug,Table 2 Recommendations,pitavastatin,6
+Drug,Table 2 Recommendations,plazomicin,3
+Drug,Table 2 Recommendations,pravastatin,6
+Drug,Table 2 Recommendations,primaquine,5
+Drug,Table 2 Recommendations,quinine,5
+Drug,Table 2 Recommendations,rasburicase,5
+Drug,Table 2 Recommendations,ribostamycin,3
+Drug,Table 2 Recommendations,rosuvastatin,27
+Drug,Table 2 Recommendations,sertraline,62
+Drug,Table 2 Recommendations,sevoflurane,8
+Drug,Table 2 Recommendations,simvastatin,6
+Drug,Table 2 Recommendations,streptomycin,3
+Drug,Table 2 Recommendations,succinylcholine,8
+Drug,Table 2 Recommendations,sulfadiazine,5
+Drug,Table 2 Recommendations,sulfadimidine,5
+Drug,Table 2 Recommendations,sulfamethoxazole / trimethoprim,5
+Drug,Table 2 Recommendations,sulfanilamide,5
+Drug,Table 2 Recommendations,sulfasalazine,5
+Drug,Table 2 Recommendations,sulfisoxazole,5
+Drug,Table 2 Recommendations,tacrolimus,5
+Drug,Table 2 Recommendations,tafenoquine,5
+Drug,Table 2 Recommendations,tamoxifen,22
+Drug,Table 2 Recommendations,tenoxicam,6
+Drug,Table 2 Recommendations,thioguanine,35
+Drug,Table 2 Recommendations,tobramycin,3
+Drug,Table 2 Recommendations,tolbutamide,5
+Drug,Table 2 Recommendations,toluidine blue,5
+Drug,Table 2 Recommendations,tramadol,22
+Drug,Table 2 Recommendations,trimipramine,206
+Drug,Table 2 Recommendations,tropisetron,22
+Drug,Table 2 Recommendations,venlafaxine,22
+Drug,Table 2 Recommendations,vitamin c,5
+Drug,Table 2 Recommendations,vitamin k,5
+Drug,Table 2 Recommendations,voriconazole,16
+Drug,Table 2 Recommendations,vortioxetine,22
+Drug,Drug Test Alerts,abacavir,3
+Drug,Drug Test Alerts,allopurinol,3
+Drug,Drug Test Alerts,amikacin,4
+Drug,Drug Test Alerts,aminosalicylic acid,6
+Drug,Drug Test Alerts,amitriptyline,207
+Drug,Drug Test Alerts,aspirin,6
+Drug,Drug Test Alerts,atazanavir,5
+Drug,Drug Test Alerts,atomoxetine,45
+Drug,Drug Test Alerts,atorvastatin,7
+Drug,Drug Test Alerts,azathioprine,36
+Drug,Drug Test Alerts,capecitabine,6
+Drug,Drug Test Alerts,carbamazepine,9
+Drug,Drug Test Alerts,celecoxib,7
+Drug,Drug Test Alerts,chloramphenicol,6
+Drug,Drug Test Alerts,chloroquine,6
+Drug,Drug Test Alerts,ciprofloxacin,6
+Drug,Drug Test Alerts,citalopram,9
+Drug,Drug Test Alerts,clomipramine,207
+Drug,Drug Test Alerts,clopidogrel,9
+Drug,Drug Test Alerts,codeine,23
+Drug,Drug Test Alerts,dapsone,6
+Drug,Drug Test Alerts,desflurane,6
+Drug,Drug Test Alerts,desipramine,23
+Drug,Drug Test Alerts,dexlansoprazole,18
+Drug,Drug Test Alerts,dibekacin,4
+Drug,Drug Test Alerts,dimercaprol,6
+Drug,Drug Test Alerts,doxepin,207
+Drug,Drug Test Alerts,doxorubicin,6
+Drug,Drug Test Alerts,efavirenz,7
+Drug,Drug Test Alerts,enflurane,6
+Drug,Drug Test Alerts,escitalopram,9
+Drug,Drug Test Alerts,fluorouracil,6
+Drug,Drug Test Alerts,flurbiprofen,7
+Drug,Drug Test Alerts,fluvastatin,49
+Drug,Drug Test Alerts,fluvoxamine,23
+Drug,Drug Test Alerts,fosphenytoin,21
+Drug,Drug Test Alerts,furazolidone,6
+Drug,Drug Test Alerts,gentamicin,4
+Drug,Drug Test Alerts,glyburide,6
+Drug,Drug Test Alerts,halothane,6
+Drug,Drug Test Alerts,hydrocodone,23
+Drug,Drug Test Alerts,hydroxychloroquine,6
+Drug,Drug Test Alerts,ibuprofen,7
+Drug,Drug Test Alerts,imipramine,207
+Drug,Drug Test Alerts,isoflurane,6
+Drug,Drug Test Alerts,kanamycin,4
+Drug,Drug Test Alerts,lansoprazole,18
+Drug,Drug Test Alerts,lornoxicam,7
+Drug,Drug Test Alerts,lovastatin,7
+Drug,Drug Test Alerts,mafenide,6
+Drug,Drug Test Alerts,meloxicam,7
+Drug,Drug Test Alerts,mercaptopurine,36
+Drug,Drug Test Alerts,methoxyflurane,6
+Drug,Drug Test Alerts,methylene blue,6
+Drug,Drug Test Alerts,nalidixic acid,6
+Drug,Drug Test Alerts,neomycin,4
+Drug,Drug Test Alerts,netilmicin,4
+Drug,Drug Test Alerts,nitrofurantoin,6
+Drug,Drug Test Alerts,norfloxacin,6
+Drug,Drug Test Alerts,nortriptyline,23
+Drug,Drug Test Alerts,ofloxacin,6
+Drug,Drug Test Alerts,omeprazole,18
+Drug,Drug Test Alerts,ondansetron,23
+Drug,Drug Test Alerts,oxcarbazepine,3
+Drug,Drug Test Alerts,pantoprazole,18
+Drug,Drug Test Alerts,paromomycin,4
+Drug,Drug Test Alerts,paroxetine,23
+Drug,Drug Test Alerts,pegloticase,6
+Drug,Drug Test Alerts,phenazopyridine,6
+Drug,Drug Test Alerts,phenytoin,21
+Drug,Drug Test Alerts,piroxicam,7
+Drug,Drug Test Alerts,pitavastatin,7
+Drug,Drug Test Alerts,plazomicin,4
+Drug,Drug Test Alerts,pravastatin,7
+Drug,Drug Test Alerts,primaquine,6
+Drug,Drug Test Alerts,quinine,6
+Drug,Drug Test Alerts,rasburicase,6
+Drug,Drug Test Alerts,ribostamycin,4
+Drug,Drug Test Alerts,rosuvastatin,28
+Drug,Drug Test Alerts,sertraline,63
+Drug,Drug Test Alerts,sevoflurane,6
+Drug,Drug Test Alerts,simvastatin,7
+Drug,Drug Test Alerts,streptomycin,4
+Drug,Drug Test Alerts,succinylcholine,6
+Drug,Drug Test Alerts,sulfadiazine,6
+Drug,Drug Test Alerts,sulfadimidine,6
+Drug,Drug Test Alerts,sulfamethoxazole / trimethoprim,6
+Drug,Drug Test Alerts,sulfanilamide,6
+Drug,Drug Test Alerts,sulfasalazine,6
+Drug,Drug Test Alerts,sulfisoxazole,6
+Drug,Drug Test Alerts,tacrolimus,6
+Drug,Drug Test Alerts,tafenoquine,6
+Drug,Drug Test Alerts,tamoxifen,23
+Drug,Drug Test Alerts,tenoxicam,7
+Drug,Drug Test Alerts,thioguanine,36
+Drug,Drug Test Alerts,tobramycin,4
+Drug,Drug Test Alerts,tolbutamide,6
+Drug,Drug Test Alerts,toluidine blue,6
+Drug,Drug Test Alerts,tramadol,23
+Drug,Drug Test Alerts,trimipramine,207
+Drug,Drug Test Alerts,tropisetron,23
+Drug,Drug Test Alerts,venlafaxine,23
+Drug,Drug Test Alerts,vitamin c,6
+Drug,Drug Test Alerts,vitamin k,6
+Drug,Drug Test Alerts,voriconazole,18
+Drug,Drug Test Alerts,vortioxetine,23
+Drug,Guideline,abacavir,1
+Drug,Guideline,aceclofenac,1
+Drug,Guideline,alfentanil,1
+Drug,Guideline,allopurinol,1
+Drug,Guideline,amikacin,1
+Drug,Guideline,aminosalicylic acid,1
+Drug,Guideline,amitriptyline,1
+Drug,Guideline,aspirin,2
+Drug,Guideline,atazanavir,1
+Drug,Guideline,atomoxetine,1
+Drug,Guideline,atorvastatin,1
+Drug,Guideline,azathioprine,1
+Drug,Guideline,buprenorphine,1
+Drug,Guideline,capecitabine,1
+Drug,Guideline,carbamazepine,1
+Drug,Guideline,celecoxib,1
+Drug,Guideline,chloramphenicol,1
+Drug,Guideline,chloroquine,1
+Drug,Guideline,chlorpropamide,1
+Drug,Guideline,ciprofloxacin,1
+Drug,Guideline,citalopram,1
+Drug,Guideline,clomipramine,1
+Drug,Guideline,clopidogrel,1
+Drug,Guideline,codeine,1
+Drug,Guideline,dabrafenib,1
+Drug,Guideline,dapsone,1
+Drug,Guideline,desflurane,1
+Drug,Guideline,desipramine,1
+Drug,Guideline,desvenlafaxine,1
+Drug,Guideline,dexlansoprazole,1
+Drug,Guideline,dibekacin,1
+Drug,Guideline,diclofenac,1
+Drug,Guideline,dimercaprol,1
+Drug,Guideline,doxepin,1
+Drug,Guideline,doxorubicin,1
+Drug,Guideline,duloxetine,1
+Drug,Guideline,efavirenz,1
+Drug,Guideline,enflurane,1
+Drug,Guideline,escitalopram,1
+Drug,Guideline,esomeprazole,1
+Drug,Guideline,fentanyl,1
+Drug,Guideline,fluorouracil,1
+Drug,Guideline,fluoxetine,1
+Drug,Guideline,flurbiprofen,1
+Drug,Guideline,fluvastatin,1
+Drug,Guideline,fluvoxamine,1
+Drug,Guideline,fosphenytoin,1
+Drug,Guideline,furazolidone,1
+Drug,Guideline,gentamicin,1
+Drug,Guideline,gliclazide,1
+Drug,Guideline,glimepiride,1
+Drug,Guideline,glipizide,1
+Drug,Guideline,glyburide,1
+Drug,Guideline,halothane,1
+Drug,Guideline,hydrocodone,1
+Drug,Guideline,hydromorphone,1
+Drug,Guideline,hydroxychloroquine,1
+Drug,Guideline,ibuprofen,1
+Drug,Guideline,imipramine,1
+Drug,Guideline,indomethacin,1
+Drug,Guideline,isoflurane,1
+Drug,Guideline,ivacaftor,1
+Drug,Guideline,kanamycin,1
+Drug,Guideline,lansoprazole,1
+Drug,Guideline,levomethadone,1
+Drug,Guideline,levomilnacipran,1
+Drug,Guideline,lornoxicam,1
+Drug,Guideline,lovastatin,1
+Drug,Guideline,lumiracoxib,1
+Drug,Guideline,mafenide,1
+Drug,Guideline,meloxicam,1
+Drug,Guideline,mepacrine,1
+Drug,Guideline,mercaptopurine,1
+Drug,Guideline,mesalazine,1
+Drug,Guideline,methadone,1
+Drug,Guideline,methoxyflurane,1
+Drug,Guideline,methylene blue,1
+Drug,Guideline,milnacipran,1
+Drug,Guideline,morphine,1
+Drug,Guideline,moxifloxacin,1
+Drug,Guideline,nabumetone,1
+Drug,Guideline,nalidixic acid,1
+Drug,Guideline,naltrexone,1
+Drug,Guideline,naproxen,1
+Drug,Guideline,neomycin,1
+Drug,Guideline,netilmicin,1
+Drug,Guideline,nicorandil,1
+Drug,Guideline,nitrofural,1
+Drug,Guideline,nitrofurantoin,1
+Drug,Guideline,norfloxacin,1
+Drug,Guideline,nortriptyline,1
+Drug,Guideline,ofloxacin,1
+Drug,Guideline,omeprazole,1
+Drug,Guideline,ondansetron,1
+Drug,Guideline,oxcarbazepine,1
+Drug,Guideline,oxycodone,1
+Drug,Guideline,pantoprazole,1
+Drug,Guideline,paromomycin,1
+Drug,Guideline,paroxetine,1
+Drug,Guideline,peginterferon alfa-2a,1
+Drug,Guideline,peginterferon alfa-2b,1
+Drug,Guideline,pegloticase,1
+Drug,Guideline,phenazopyridine,1
+Drug,Guideline,phenytoin,1
+Drug,Guideline,piroxicam,1
+Drug,Guideline,pitavastatin,1
+Drug,Guideline,plazomicin,1
+Drug,Guideline,pravastatin,1
+Drug,Guideline,primaquine,1
+Drug,Guideline,probenecid,1
+Drug,Guideline,quinine,1
+Drug,Guideline,rabeprazole,1
+Drug,Guideline,rasburicase,1
+Drug,Guideline,remifentanil,1
+Drug,Guideline,ribavirin,1
+Drug,Guideline,ribostamycin,1
+Drug,Guideline,rosuvastatin,1
+Drug,Guideline,sertraline,1
+Drug,Guideline,sevoflurane,1
+Drug,Guideline,simvastatin,1
+Drug,Guideline,sodium nitrite,1
+Drug,Guideline,streptomycin,1
+Drug,Guideline,succinylcholine,1
+Drug,Guideline,sufentanil,1
+Drug,Guideline,sulfacetamide,1
+Drug,Guideline,sulfadiazine,1
+Drug,Guideline,sulfadimidine,1
+Drug,Guideline,sulfamethoxazole / trimethoprim,1
+Drug,Guideline,sulfanilamide,1
+Drug,Guideline,sulfasalazine,1
+Drug,Guideline,sulfisoxazole,1
+Drug,Guideline,tacrolimus,1
+Drug,Guideline,tafenoquine,1
+Drug,Guideline,tamoxifen,1
+Drug,Guideline,tegafur,1
+Drug,Guideline,tenoxicam,1
+Drug,Guideline,thioguanine,1
+Drug,Guideline,tobramycin,1
+Drug,Guideline,tolazamide,1
+Drug,Guideline,tolbutamide,1
+Drug,Guideline,toluidine blue,1
+Drug,Guideline,tramadol,1
+Drug,Guideline,trametinib,1
+Drug,Guideline,trimipramine,1
+Drug,Guideline,tropisetron,1
+Drug,Guideline,venlafaxine,1
+Drug,Guideline,vilazodone,1
+Drug,Guideline,vitamin c,1
+Drug,Guideline,vitamin k,1
+Drug,Guideline,voriconazole,1
+Drug,Guideline,vortioxetine,1
+Drug,Guideline,warfarin,1

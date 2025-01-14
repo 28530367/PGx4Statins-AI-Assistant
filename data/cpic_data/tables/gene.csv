@@ -1,0 +1,355 @@
+symbol,chr,genesequenceid,proteinsequenceid,chromosequenceid,mrnasequenceid,hgncid,ncbiid,ensemblid,pharmgkbid,frequencymethods,lookupmethod,version,notesondiplotype,url,functionmethods,notesonallelenaming,includephenotypefrequencies,includediplotypefrequencies
+ERCC1,chr19,NG_015839,NP_001974,,,HGNC:3433,2067,ENSG00000012061,PA155,,PHENOTYPE,2,,,,,True,True
+POLG,chr15,NG_008218,NP_002684,,,HGNC:9179,5428,ENSG00000140521,PA33500,,PHENOTYPE,2,,,,,True,True
+ASS1,chr9,NG_011542,NP_000041,,,HGNC:758,445,ENSG00000130707,PA162376926,,PHENOTYPE,2,,,,,True,True
+DRD2,chr11,NG_008841,NP_000786,,,HGNC:3023,1813,ENSG00000149295,PA27478,,PHENOTYPE,2,,,,,True,True
+ATIC,chr2,NG_013002,NP_004035,,,HGNC:794,471,ENSG00000138363,PA25094,,PHENOTYPE,2,,,,,True,True
+APOE,chr19,NG_007084,NP_000032,,,HGNC:613,348,ENSG00000130203,PA55,,PHENOTYPE,2,,,,,True,True
+GSTM1,chr1,NG_009246,NP_000552,,,HGNC:4632,2944,ENSG00000134184,PA182,,PHENOTYPE,2,,,,,True,True
+F5,chr1,NG_011806,NP_000121,,,HGNC:3542,2153,ENSG00000198734,PA159,,PHENOTYPE,2,,,,,True,True
+CYB5R3,chr22,NG_012194,NP_000389,,,HGNC:2873,1727,ENSG00000100243,PA27331,,PHENOTYPE,2,,,,,True,True
+CHRNA3,chr15,NG_016143,NP_000734,,,HGNC:1957,1136,ENSG00000080644,PA113,,PHENOTYPE,2,,,,,True,True
+HMGCR,chr5,NG_011449,NP_000850,,,HGNC:5006,3156,ENSG00000113161,PA189,,PHENOTYPE,2,,,,,True,True
+ADRB2,chr5,NG_016421,NP_000015,,,HGNC:286,154,ENSG00000169252,PA39,,PHENOTYPE,2,,,,,True,True
+CRHR1,chr17,NG_009902,NP_004373,,,HGNC:2357,1394,ENSG00000120088,PA26874,,PHENOTYPE,2,,,,,True,True
+ITPA,chr20,NG_012093,NP_258412,,,HGNC:6176,3704,ENSG00000125877,PA29973,,PHENOTYPE,2,,,,,True,True
+MC4R,chr18,NG_016441,NP_005903,,,HGNC:6932,4160,ENSG00000166603,PA30676,,PHENOTYPE,2,,,,,True,True
+COQ2,chr4,NG_015825,NP_056512,,,HGNC:25223,27235,ENSG00000173085,PA142672084,,PHENOTYPE,2,,,,,True,True
+HTR2C,chrX,NG_012082,NP_000859,,,HGNC:5295,3358,ENSG00000147246,PA194,,PHENOTYPE,2,,,,,True,True
+OTC,chrX,NG_008471,NP_000522,,,HGNC:8512,5009,ENSG00000036473,PA32840,,PHENOTYPE,2,,,,,True,True
+MTRR,chr5,NG_008856,NP_002445,,,HGNC:7473,4552,ENSG00000124275,PA31277,,PHENOTYPE,2,,,,,True,True
+LPA,chr6,NG_016147,NP_005568,,,HGNC:6667,4018,ENSG00000198670,PA30432,,PHENOTYPE,2,,,,,True,True
+NAT1,chr8,NG_012245,NP_000653,,,HGNC:7645,9,ENSG00000171428,PA17,,PHENOTYPE,2,,,,,True,True
+CPS1,chr2,NG_008285,NP_001866,,,HGNC:2323,1373,ENSG00000021826,PA26840,,PHENOTYPE,2,,,,,True,True
+EGF,chr4,NG_011441,NP_001954,,,HGNC:3229,1950,ENSG00000138798,PA27664,,PHENOTYPE,2,,,,,True,True
+DYNC2H1,chr11,NG_016423,NP_001368,,,HGNC:2962,79659,ENSG00000187240,PA27433,,PHENOTYPE,2,,,,,True,True
+GNB3,chr12,NG_009100,NP_002066,,,HGNC:4400,2784,ENSG00000111664,PA176,,PHENOTYPE,2,,,,,True,True
+SEMA3C,chr7,,NP_006370,,,HGNC:10725,10512,ENSG00000075223,PA35647,,PHENOTYPE,3,,,,,True,True
+KIF6,chr6,,NP_659464,,,HGNC:21202,221458,ENSG00000164627,PA134920075,,PHENOTYPE,3,,,,,True,True
+CCHCR1,chr6,,NP_061925,,,HGNC:13930,54535,ENSG00000204536,PA134942738,,PHENOTYPE,3,,,,,True,True
+FCGR3A,chr1,NG_009066,NP_000560,,,HGNC:3619,2214,ENSG00000203747,PA28065,,PHENOTYPE,2,,,,,True,True
+NAGS,chr17,NG_008106,NP_694551,,,HGNC:17996,162417,ENSG00000161653,PA134968729,,PHENOTYPE,2,,,,,True,True
+LDLR,chr19,NG_009060,NP_000518,,,HGNC:6547,3949,ENSG00000130164,PA227,,PHENOTYPE,2,,,,,True,True
+ASL,chr7,NG_009288,NP_000039,,,HGNC:746,435,ENSG00000126522,PA25046,,PHENOTYPE,2,,,,,True,True
+HPRT1,chrX,NG_012329,NP_000185,,,HGNC:5157,3251,ENSG00000165704,PA29427,,PHENOTYPE,2,,,,,True,True
+ANKK1,chr11,NG_012976,NP_848605,,,HGNC:21027,255239,ENSG00000170209,PA134872551,,PHENOTYPE,2,,,,,True,True
+XPC,chr3,NG_011763,NP_004619,,,HGNC:12816,7508,ENSG00000154767,PA37413,,PHENOTYPE,2,,,,,True,True
+FKBP5,chr6,NG_012645,NP_004108,,,HGNC:3721,2289,ENSG00000096060,PA28162,,PHENOTYPE,2,,,,,True,True
+ACE,chr17,NG_011648,NP_000780,,,HGNC:2707,1636,ENSG00000159640,PA139,,PHENOTYPE,2,,,,,True,True
+TXNRD2,chr22,NG_011835,NP_006431,,,HGNC:18155,10587,ENSG00000184470,PA38302,,PHENOTYPE,2,,,,,True,True
+GBA,chr1,NG_009783,NP_000148,,,HGNC:4177,2629,ENSG00000177628,PA28591,,PHENOTYPE,2,,,,,True,True
+HLA-DRB1,chr6,NG_002392,NP_002115,,,HGNC:4948,3123,ENSG00000196126,PA35072,,PHENOTYPE,2,,,,,True,True
+CETP,chr16,NG_008952,NP_000069,,,HGNC:1869,1071,ENSG00000087237,PA108,,PHENOTYPE,2,,,,,True,True
+UGT1A4,chr2,NG_002601,NP_009051,,,HGNC:12536,54657,ENSG00000244474,PA37179,,PHENOTYPE,2,,,,,True,True
+TP53,chr17,NG_017013,NP_000537,,,HGNC:11998,7157,ENSG00000141510,PA36679,,PHENOTYPE,2,,,,,True,True
+PRKCA,chr17,NG_012206,NP_002728,,,HGNC:9393,5578,ENSG00000154229,PA33759,,PHENOTYPE,2,,,,,True,True
+CALU,chr7,,NP_001210,,,HGNC:1458,813,ENSG00000128595,PA26047,,PHENOTYPE,78,,,,,True,True
+CES1,chr16,NG_012057,NP_001257,,,HGNC:1863,1066,ENSG00000198848,PA107,,PHENOTYPE,77,,,,,True,True
+TCF7L2,chr10,NG_012631,NP_110383,,,HGNC:11641,6934,ENSG00000148737,PA36394,,PHENOTYPE,2,,,,,True,True
+ADD1,chr4,NG_012037,NP_001110,,,HGNC:243,118,ENSG00000087274,PA31,,PHENOTYPE,2,,,,,True,True
+TMEM43,chr3,NG_008975,NP_077310,,,HGNC:28472,79188,ENSG00000170876,PA134871907,,PHENOTYPE,2,,,,,True,True
+SOD2,chr6,NG_008729,NP_000627,,,HGNC:11180,6648,ENSG00000112096,PA36017,,PHENOTYPE,2,,,,,True,True
+SERPINC1,chr1,NG_012462,NP_000479,,,HGNC:775,462,ENSG00000117601,PA35026,,PHENOTYPE,2,,,,,True,True
+TNF,chr6,NG_007462,NP_000585,,,HGNC:11892,7124,ENSG00000232810,PA435,,PHENOTYPE,2,,,,,True,True
+C11orf65,chr11,,NP_689800,,,HGNC:28519,160140,ENSG00000166323,PA144596484,,PHENOTYPE,3,,,,,True,True
+HAS3,chr16,,NP_005320,,,HGNC:4820,3038,ENSG00000103044,PA29196,,PHENOTYPE,3,,,,,True,True
+SLC47A2,chr17,,NP_001093116,,,HGNC:26439,146802,ENSG00000180638,PA162403847,,PHENOTYPE,3,,,,,True,True
+CBR3,chr21,,NP_001227,,,HGNC:1549,874,ENSG00000159231,PA26122,,PHENOTYPE,3,,,,,True,True
+NT5C2,chr10,,NP_036361,,,HGNC:8022,22978,ENSG00000076685,PA31801,,PHENOTYPE,3,,,,,True,True
+NEDD4L,chr18,,NP_056092,,,HGNC:7728,23327,ENSG00000049759,PA31534,,PHENOTYPE,3,,,,,True,True
+CYB5R1,chr1,,NP_057327,,,HGNC:13397,51706,ENSG00000159348,PA134979668,,PHENOTYPE,3,,,,,True,True
+SLC28A3,chr9,,NP_071410,,,HGNC:16484,64078,ENSG00000197506,PA426,,PHENOTYPE,3,,,,,True,True
+FDPS,chr1,,NP_001995,,,HGNC:3631,2224,ENSG00000160752,PA28075,,PHENOTYPE,3,,,,,True,True
+PTGFR,chr1,,NP_000950,,,HGNC:9600,5737,ENSG00000122420,PA290,,PHENOTYPE,3,,,,,True,True
+KCNIP4,chr4,,NP_671711,,,HGNC:30083,80333,ENSG00000185774,PA134893552,,PHENOTYPE,3,,,,,True,True
+HLA-DQA1,chr6,,NP_002113,,,HGNC:4942,3117,ENSG00000196735,PA35066,,PHENOTYPE,3,,,,,True,True
+ABCC4,chr13,,NP_005836,,,HGNC:55,10257,ENSG00000125257,PA397,,PHENOTYPE,3,,,,,True,True
+ABL2,chr1,,NP_005149,,,HGNC:77,27,ENSG00000143322,PA24414,,PHENOTYPE,3,,,,,True,True
+UGT2B15,chr4,,NP_001067,,,HGNC:12546,7366,ENSG00000196620,PA37188,,PHENOTYPE,3,,,,,True,True
+YEATS4,chr12,,NP_006521,,,HGNC:24859,8089,ENSG00000127337,PA134992686,,PHENOTYPE,3,,,,,True,True
+TANC1,chr2,,NP_203752,,,HGNC:29364,85461,ENSG00000115183,PA142670838,,PHENOTYPE,3,,,,,True,True
+CRHR2,chr7,,NP_001874,,,HGNC:2358,1395,ENSG00000106113,PA26875,,PHENOTYPE,3,,,,,True,True
+CYB5R2,chr11,,NP_057313,,,HGNC:24376,51700,ENSG00000166394,PA142672060,,PHENOTYPE,3,,,,,True,True
+XRCC1,chr19,,NP_006288,,,HGNC:12828,7515,ENSG00000073050,PA369,,PHENOTYPE,3,,,,,True,True
+COL22A1,chr8,,NP_690848,,,HGNC:22989,169044,ENSG00000169436,PA134914705,,PHENOTYPE,3,,,,,True,True
+CYB5R4,chr6,,NP_057314,,,HGNC:20147,51167,ENSG00000065615,PA134904907,,PHENOTYPE,3,,,,,True,True
+C8orf34,chr8,,NP_443190,,,HGNC:30905,116328,ENSG00000165084,PA142672353,,PHENOTYPE,3,,,,,True,True
+ADORA2A,chr22,,NP_000666,,,HGNC:263,135,ENSG00000128271,PA24584,,PHENOTYPE,3,,,,,True,True
+LTC4S,chr5,,NP_665874,,,HGNC:6719,4056,ENSG00000213316,PA235,,PHENOTYPE,78,,,,,True,True
+NAT2,chr8,NG_012246,NP_000006,,,HGNC:7646,10,ENSG00000156006,PA18,,PHENOTYPE,77,,,,,True,True
+ADRB1,,,,,,HGNC:285,153,ENSG00000043591,PA38,,PHENOTYPE,75,,,,,True,True
+OPRM1,chr6,NG_021208,NP_000905,,,HGNC:8156,4988,ENSG00000112038,PA31945,,PHENOTYPE,71,,https://cpicpgx.org/gene/oprm1/,,,True,True
+CYP2A7P1,chr19,NG_000008,,,,HGNC:2612,1550,ENSG00000213908,PA27103,,PHENOTYPE,78,,,,,True,True
+FLOT1,chr6,,NP_005794,,,HGNC:3757,10211,ENSG00000137312,PA28175,,PHENOTYPE,78,,,,,True,True
+PTGS1,chr9,,NP_000953,,,HGNC:9604,5742,ENSG00000095303,PA24346,,PHENOTYPE,78,,,,,True,True
+TYMS,chr18,,NP_001062,,,HGNC:12441,7298,ENSG00000176890,PA359,,PHENOTYPE,78,,,,,True,True
+UMPS,chr3,NG_017037,NP_000364,,,HGNC:12563,7372,ENSG00000114491,PA363,,PHENOTYPE,77,,,,,True,True
+VDR,chr12,NG_008731,NP_000367,,,HGNC:12679,7421,ENSG00000111424,PA37301,,PHENOTYPE,77,,,,,True,True
+IFNL3,chr19,NG_042193.1,NP_000101.2,NC_000019.10,NM_001042351.2,HGNC:18365,282617,ENSG00000197110,PA134952671,,ALLELE_STATUS,163,,https://cpicpgx.org/gene/ifnl/,,Common Name,True,True
+GRIK4,chr11,,NP_055434,,,HGNC:4582,2900,ENSG00000149403,PA28976,,PHENOTYPE,78,,,,,True,True
+GRK5,,,,,,HGNC:4544,2869,ENSG00000198873,PA180,,PHENOTYPE,75,,,,,True,True
+HLA-C,chr6,NG_002397,NP_002108,,,HGNC:4933,3107,ENSG00000204525,PA35057,,PHENOTYPE,77,,,,,True,True
+HLA-DPB1,chr6,,NP_002112,,,HGNC:4940,3115,ENSG00000223865,PA35064,,PHENOTYPE,78,,,,,True,True
+HTR1A,chr5,,NP_000515,,,HGNC:5286,3350,ENSG00000178394,PA192,,PHENOTYPE,78,,,,,True,True
+IFNL4,chr19,,,,,HGNC:44480,101180976,ENSG00000272395,PA166049147,,PHENOTYPE,80,,https://cpicpgx.org/gene/ifnl/,,,True,True
+HLA-A,chr6,NG_002398,NP_002107,,,HGNC:4931,3105,ENSG00000206503,PA35055,"Methods
+
+The allele frequency table was made by searching the PubMed® database (1995 to September 2019). The following criteria were used for HLA-A: (HLA-A) AND (allele OR frequency). In addition, reports were also identified from citations by others or review articles. Studies were considered for inclusion in the HLA-A frequency table if: (1) the ethnicity of the population was clearly indicated, (2) either allele frequencies or genotype frequencies were reported, (3) the method by which the genes were genotyped was indicated, (4) the sample population consisted of at least 50 individuals with a few exceptions (e.g., smaller cohorts that were part of larger studies) and (5) the study represented an original publication (no reviews or meta-analyses). Allele frequencies reported in phase 3 1000 Genomes (http://browser.1000genomes.org/index.html) and from allelefrequencies.net (https://www.allelefrequencies.net) were also included .
+Caveats to estimated allele frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details, including the definitions of each group, can be found at https://www.pharmgkb.org/page/biogeographicalGroups. We strongly recommend that users use either the publication or the PharmGKB link provided to familiarize themselves with the grouping system before using these allele frequencies. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",ALLELE_STATUS,158,,https://cpicpgx.org/gene/hla/,,,False,False
+HLA-B,chr6,NG_002397,NP_005505,,,HGNC:4932,3106,ENSG00000234745,PA35056,"Methods
+
+The allele frequency table was made by searching the PubMed® database (1995 to September 2019). The following criteria were used for HLA-B: (HLA-B) AND (allele OR frequency). In addition, reports were also identified from citations by others or review articles. Studies were considered for inclusion in the HLA-B frequency table if: (1) the ethnicity of the population was clearly indicated, (2) either allele frequencies or genotype frequencies were reported, (3) the method by which the genes were genotyped was indicated, (4) the sample population consisted of at least 50 individuals with a few exceptions (e.g., smaller cohorts that were part of larger studies) and (5) the study represented an original publication (no reviews or meta-analyses). Allele frequencies reported in phase 3 1000 Genomes (http://browser.1000genomes.org/index.html) and from allelefrequencies.net (https://www.allelefrequencies.net) were also included .
+Caveats to estimated allele, diplotype and phenotype frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details, including the definitions of each group, can be found at https://www.pharmgkb.org/page/biogeographicalGroups. We strongly recommend that users use either the publication or the PharmGKB link provided to familiarize themselves with the grouping system before using these allele frequencies. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",ALLELE_STATUS,158,,https://cpicpgx.org/gene/hla/,,,False,False
+NUDT15,chr13,NG_047021.1,NP_060753.1,NC_000013.11,NM_001042351.2,HGNC:23063,55270,ENSG00000136159,PA134963132,"The allele frequency table was made by searching the PubMed® database (no start date to 1/2018). Allele frequencies reported in the gnomAD browser (http://gnomad.broadinstitute.org/ - exomes and genomes) and ensembl (grch37.ensembl.org - exomes or genomes) were also included. URLs are included in the ""PMID"" column.
+
+Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies.
+
+Caveats to estimated allele, diplotype and phenotype frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Estimation of *1 frequency. In general, there are no population studies that test for all known variant alleles. Because *1 is not genotyped directly in many studies, all alleles that are negative for a sequence variation are defaulted to a *1 assignment. The inferred frequency for *1 is estimated as: 100 - (sum of averaged variant allele frequencies). For genes where many alleles are not tested for in any population, and frequency of 'common' alleles is not well documented in many understudied populations (Oceania, South Asian, Latino), the *1 frequency will deviate even more from true values.
+
+Diplotype/Phenotype frequency estimates. Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies. When calculating diplotype frequencies from these allele frequencies, the margin of error is compounded based on the margin of error on each allele in the diplotype. So, the margin of error will necessarily increase for diplotype frequency estimates compared to allele frequency estimates. For allele frequencies with already large margins of error due to small and non-random sampling, the diplotype margin of error could potentially be quite large. On the other hand, for well-studied alleles, the margin of error is likely low.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details can be found at https://www.pharmgkb.org/page/biogeographicalGroups. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,304,,https://cpicpgx.org/gene/nudt15/,,Common name,True,True
+TPMT,chr6,NG_012137.2,NP_000358.1,NC_000006.12,NM_000540.2,HGNC:12014,7172,ENSG00000137364,PA356,"The allele frequency table was made by searching the PubMed® database (no start date to 1/2018). Allele frequencies reported in the gnomAD browser (http://gnomad.broadinstitute.org/ - exomes and genomes) and ensembl (grch37.ensembl.org - exomes or genomes) were also included. URLs are included in the ""PMID"" column.
+
+Diplotype and Phenotype Calculations. Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies.
+
+Caveats to estimated allele, diplotype and phenotype frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Estimation of *1 frequency. In general, there are no population studies that test for all known variant alleles. Because *1 is not genotyped directly in many studies, all alleles that are negative for a sequence variation are defaulted to a *1 assignment. The inferred frequency for *1 is estimated as: 100 - (sum of averaged variant allele frequencies). For genes where many alleles are not tested for in any population, and frequency of 'common' alleles is not well documented in many understudied populations (Oceania, South Asian, Latino), the *1 frequency will deviate even more from true values.
+
+Diplotype/Phenotype frequency estimates. Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies. When calculating diplotype frequencies from these allele frequencies, the margin of error is compounded based on the margin of error on each allele in the diplotype. So, the margin of error will necessarily increase for diplotype frequency estimates compared to allele frequency estimates. For allele frequencies with already large margins of error due to small and non-random sampling, the diplotype margin of error could potentially be quite large. On the other hand, for well-studied alleles, the margin of error is likely low.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details can be found at https://www.pharmgkb.org/page/biogeographicalGroups. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,302,,https://cpicpgx.org/gene/tpmt/,,Nucleotide change on cDNA from https://liu.se/en/research/tpmt-nomenclature-committee,True,True
+ABCB1,chr7,NG_011513,NP_000918,,,HGNC:40,5243,ENSG00000085563,PA267,,PHENOTYPE,77,,,,,True,True
+BCHE,chr3,NG_009031,NP_000046,,,HGNC:983,590,ENSG00000114200,PA25294,,PHENOTYPE,77,,,,,True,True
+RYR1,chr19,NG_008866.1,NP_000531.2,NC_000019.10,NM_000540.2,HGNC:10483,6261,ENSG00000196218,PA34896,"Methods
+
+Table includes variants based on an update of the CPIC guideline for potent volatile anesthetic agents and succinylcholine. The guideline update includes the published list of RYR1 variants (supplemental table S2), which are evaluated by the ClinGen malignant hyperthermia susceptibility (MHS) variant curation expert panel and classified for RYR1-related malignant hyperthermia susceptibility based on specified ACMG/AMP criteria (PMID 35849058).
+
+gnomAD v2.1.1 was queried with the variant positions or rsIDs.
+gnomAD population description - PharmGKB biogeographical group mapping:
+African/African American - Sub-Saharan African
+South Asian - Central/South Asian
+Latino/Admixed American - Latino
+East Asian - East Asian
+Non-Finnish European - European
+Ashkenazi Jewish - Near Eastern
+
+Caveats to estimated allele, frequencies:
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details, including the definitions of each group, can be found at https://www.pharmgkb.org/page/biogeographicalGroups. We strongly recommend that users use either the publication or the PharmGKB link provided to familiarize themselves with the grouping system before using these allele frequencies. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,304,,https://cpicpgx.org/gene/ryr1/,,Common name,False,False
+ACYP2,,,,,,HGNC:180,98,ENSG00000170634,PA24500,,PHENOTYPE,51,,,,,True,True
+CFTR,chr7,NG_016465.4,NP_000483.3,NC_000007.14,NM_000069.2,HGNC:1884,1080,ENSG00000001626,PA109,,PHENOTYPE,229,,https://cpicpgx.org/gene/cftr/,,Legacy Name/Class,True,True
+ABCG2,chr4,NG_032067.2,NP_001335914.1,NC_000004.12,NM_004827.3,HGNC:74,9429,ENSG00000118777,PA390,"Methods
+
+The allele frequency table was made by searching the Genome Aggregation Database (gnomAD) and 1000 Genomes phase 3 data by rsID. In addition, pubmed were also searched to include frequencies for certain biogeographical groups (eg. Oceanian and American).
+
+Caveats to estimated allele, frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details, including the definitions of each group, can be found at https://www.pharmgkb.org/page/biogeographicalGroups. We strongly recommend that users use either the publication or the PharmGKB link provided to familiarize themselves with the grouping system before using these allele frequencies. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,205,,https://cpicpgx.org/gene/abcg2/,,,True,True
+CACNA1S,chr1,NG_009816.1,NP_000060.2,NC_000001.11,NM_000069.2,HGNC:1397,779,ENSG00000081248,PA85,"Methods
+
+The allele frequency table was made by searching the Genome Aggregation Database (gnomAD) by each rsID
+
+Caveats to estimated allele, frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details, including the definitions of each group, can be found at https://www.pharmgkb.org/page/biogeographicalGroups. We strongly recommend that users use either the publication or the PharmGKB link provided to familiarize themselves with the grouping system before using these allele frequencies. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,309,,https://cpicpgx.org/gene/cacna1s/,,,False,False
+CYP2D6,chr22,NG_008376.4,NP_000097.3,NC_000022.11,NM_000069.2,HGNC:2625,1565,ENSG00000100197,PA128,"Methods:
+
+The CYP2D6 allele frequency tables (CYP2D6 frequency table; link to PharmGKB) are updates of those previously published in CPIC guidelines (PMID: 25974703, 24458010). Updates to the CYP2D6 allele frequency tables were made by searching the PubMed® database (1995 to 2018). The following criteria were used for CYP2D6: (CYP2D6 or 2D6 or cytochrome P4502D6) AND (genotype OR allele OR frequency OR minor allele OR variant OR ethnic OR race OR racial OR ethnicity) with filter limits set to retrieve ""full-text"" and ""English"" literature. In addition, reports were also identified from citations by others or review articles. Studies were considered for inclusion in the CYP2D6 frequency table if: (1) the ethnicity of the population was clearly indicated, (2) either allele frequencies or genotype frequencies were reported, (3) the method by which the genes were genotyped was indicated, (4) the sample population consisted of at least 50 individuals with a few exceptions (e.g., smaller cohorts that were part of larger studies) and (5) the study represented an original publication (no reviews or meta-analyses).
+Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies. Because the frequencies for each allele are averages from all studies for that population, allele frequencies may not add up to100%. To account for this in diplotype and phenotype frequencies calculations, *1 frequency was calculated as 1 - sum (non *1 allele frequency).
+
+
+Caveats to estimated allele, diplotype and phenotype frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Estimation of *1 frequency. In general, there are no population studies that test for all known variant alleles. Because CYP2D6*1 is not genotyped directly, all alleles that are negative for a sequence variation are defaulted to a CYP2D6*1 assignment. Likewise, sequence variations of alleles that are not tested may default to a CYP2D6*1 assignment and hence contribute to the frequencies reported for this allele. Therefore, the inferred frequency for CYP2D6*1 was calculated as an average from studies describing allele frequencies for the most common alleles found in a particular ethnic group.
+
+Diplotype/Phenotype frequency estimates. When calculating diplotype frequencies from these allele frequencies, the margin of error is compounded based on the margin of error on each allele in the diplotype. So, the margin of error will necessarily increase for diplotype frequency estimates compared to allele frequency estimates. For allele frequencies with already large margins of error due to small and non-random sampling, the diplotype margin of error could potentially be quite large. On the other hand, for well-studied alleles, the margin of error is likely low.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details, including the definitions of each group, can be found at https://www.pharmgkb.org/page/biogeographicalGroups. We strongly recommend that users use either the publication or the PharmGKB link provided to familiarize themselves with the grouping system before using these allele frequencies. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.
+
+Overestimation of allele frequencies. CYP2D6*2 is a 'default' assignment and, unless tested and discriminated for CYP2D6*8, *11, *17, *35,*41 and other variants, will default to a CYP2D6*2 assignment. The frequencies shown here may therefore be over-estimated. CYP2D6*10 is a 'default' assignment and, unless tested and discriminated for, CYP2D6*14 and *36 and other variants, will default to a CYP2D6*10 assignment. The frequencies shown here may therefore be over-estimated. CYP2D6*17 is a 'default' assignment and, unless tested and discriminated for, CYP2D6*40 and *58 will default to a CYP2D6*17 assignment. The frequencies shown here may therefore be over-estimated. CYP2D6*41 has not consistently been determined by its defining SNP (2988G>A) across studies; some platforms still use the -1584C>G SNP to discriminate between CYP2D6*2 and *41. This may lead to an overestimation of the CYP2D6*41 frequency, especially in those of African ancestry.
+
+CNV alleles. Many studies do not specify the exact copy number of duplicated alleles found in their study population and instead report the total frequency of observed CNVs as ""xN"". Where possible, these frequencies have been included in the CNV column for that allele (e.g. *1xN frequencies are included in the *1x2 column, *4xN frequencies are included in the *4x2 column). Users should be aware that this will lead to an overestimation of the frequency of that exact copy number in the population.",ACTIVITY_SCORE,304,,https://cpicpgx.org/gene/cyp2d6/,,Legacy Name/Class,True,True
+COMT,chr22,NG_011526,NP_000745,,,HGNC:2228,1312,ENSG00000093010,PA117,,PHENOTYPE,71,,https://cpicpgx.org/gene/comt/,,,True,True
+CYP2C8,chr10,NG_007972,NP_000761,,,HGNC:2622,1558,ENSG00000138115,PA125,,PHENOTYPE,77,,,,,True,True
+CYP3A4,chr7,NG_000004,NP_059488,,,HGNC:2637,1576,ENSG00000160868,PA130,,PHENOTYPE,77,,,,,True,True
+EPHX1,chr1,NG_009776,NP_000111,,,HGNC:3401,2052,ENSG00000143819,PA27829,,PHENOTYPE,77,,,,,True,True
+GGCX,chr2,NG_011811,NP_000812,,,HGNC:4247,2677,ENSG00000115486,PA28660,,PHENOTYPE,77,,,,,True,True
+GP1BA,chr17,NG_008767,NP_000164,,,HGNC:4439,2811,ENSG00000185245,PA178,,PHENOTYPE,77,,,,,True,True
+GSTP1,chr11,NG_012075,NP_000843,,,HGNC:4638,2950,ENSG00000084207,PA29028,,PHENOTYPE,77,,,,,True,True
+HTR2A,chr13,NG_013011,NP_000612,,,HGNC:5293,3356,ENSG00000102468,PA193,,PHENOTYPE,77,,,,,True,True
+MTHFR,chr1,NG_013351,NP_005948,,,HGNC:7436,4524,ENSG00000177000,PA245,,PHENOTYPE,77,,,,,True,True
+NQO1,chr16,NG_011504,NP_000894,,,HGNC:2874,1728,ENSG00000181019,PA31744,,PHENOTYPE,77,,,,,True,True
+PROC,chr2,NG_016323,NP_000303,,,HGNC:9451,5624,ENSG00000115718,PA33799,,PHENOTYPE,77,,,,,True,True
+PROS1,chr3,NG_009813,NP_000304,,,HGNC:9456,5627,ENSG00000184500,PA33809,,PHENOTYPE,77,,,,,True,True
+SCN1A,chr2,NG_011906,NP_008851,,,HGNC:10585,6323,ENSG00000144285,PA301,,PHENOTYPE,77,,,,,True,True
+SLC6A4,chr17,NG_011747,NP_001036,,,HGNC:11050,6532,ENSG00000108576,PA312,,PHENOTYPE,77,,,,,True,True
+CYP4F2,chr19,NG_007971.2,NP_001073.3,NC_000019.10,NM_000069.2,HGNC:2645,8529,ENSG00000186115,PA27121,"Methods
+
+The allele frequency table was made by searching the PubMed® database (1995 to 2016). Allele frequencies reported in and gnomD browser and phase 3 1000 Genomes were also included (https://gnomad.broadinstitute.org/, http://browser.1000genomes.org/index.html) for alleles that contain single unique variant.
+
+Caveats to estimated allele, diplotype and phenotype frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Estimation of *1 frequency. In general, there are no population studies that test for all known variant alleles. Because *1 is not genotyped directly in many studies, all alleles that are negative for a sequence variation are defaulted to a *1 assignment. Because CYP4F2*1 is not genotyped directly, all alleles that are negative for a sequence variation are defaulted to a CYP4F2*1 assignment. Likewise, sequence variations of alleles that are not tested may default to a CYP4F2*1 assignment and hence contribute to the frequencies reported for this allele. Therefore, the inferred frequency for CYP4F2*1 was calculated as an average from studies describing allele frequencies for the most common alleles found in a particular biogeographical group.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details can be found at https://www.pharmgkb.org/page/biogeographicalGroups. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,242,CYP4F2 diplotype to phenotype translation is not applicable to the warfarin guideline.,https://cpicpgx.org/gene/cyp4f2/,,Legacy Name/Class,False,False
+CYP2C9,chr10,NG_008385.2,NP_000762.2,NC_000010.11,NM_000069.2,HGNC:2623,1559,ENSG00000138109,PA126,"Methods
+
+The allele frequency table was made by searching the PubMed® database (1995 to July 2019). The following criteria were used for CYP2C9: (CYP2C9 or 2C9 or cytochrome P4502C9) AND (genotype OR allele OR frequency OR minor allele OR variant OR ethnic OR race OR racial OR ethnicity OR population) with filter limits set to retrieve ""full-text"" and ""English"" literature. In addition, reports were also identified from citations by others or review articles. Studies were considered for inclusion in the CYP2C9 frequency table if: (1) the ethnicity of the population was clearly indicated, (2) either allele frequencies or genotype frequencies were reported, (3) the method by which the genes were genotyped was indicated, (4) the sample population consisted of at least 50 individuals with a few exceptions (e.g., smaller cohorts that were part of larger studies) and (5) the study represented an original publication (no reviews or meta-analyses). Allele frequencies reported in and gnomD browser and phase 3 1000 Genomes were also included (https://gnomad.broadinstitute.org/, http://browser.1000genomes.org/index.html) for alleles that contain single unique variant.
+
+Diplotype and Phenotype Calculations. Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies.
+
+Caveats to estimated allele, diplotype and phenotype frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Estimation of *1 frequency. In general, there are no population studies that test for all known variant alleles. Because *1 is not genotyped directly in many studies, all alleles that are negative for a sequence variation are defaulted to a *1 assignment. Because CYP2C9*1 is not genotyped directly, all alleles that are negative for a sequence variation are defaulted to a CYP2C9*1 assignment. Likewise, sequence variations of alleles that are not tested may default to a CYP2C9*1 assignment and hence contribute to the frequencies reported for this allele. Therefore, the inferred frequency for CYP2C9*1 was calculated as an average from studies describing allele frequencies for the most common alleles found in a particular biogeographical group.
+
+Diplotype/Phenotype frequency estimates. When calculating diplotype frequencies from these allele frequencies, the margin of error is compounded based on the margin of error on each allele in the diplotype. So, the margin of error will necessarily increase for diplotype frequency estimates compared to allele frequency estimates. For allele frequencies with already large margins of error due to small and non-random sampling, the diplotype margin of error could potentially be quite large. On the other hand, for well-studied alleles, the margin of error is likely low.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details can be found at https://www.pharmgkb.org/page/biogeographicalGroups. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",ACTIVITY_SCORE,309,CYP2C9 diplotype to phenotype translation is not applicable to the warfarin guideline.,https://cpicpgx.org/gene/cyp2c9/,"Methods:
+The PubMed and PharmGKB databases were searched for the following keywords: (CYP2C9 OR cytochrome p450 2c9)AND [genomic identifiers (e.g. dbSNP rs number, star alleles, additional common names)] AND English [Language]. Study inclusion criteria included publications that incorporated analyses for the association between CYP2C9 genotype and drug pharmacokinetic parameters, clinical outcomes, or allele function.",Legacy Name/Class,True,True
+VKORC1,chr16,NG_011564.1,NP_076869.1,NC_000016.10,NM_000540.2,HGNC:23663,79001,ENSG00000167397,PA133787052,"Methods
+
+The allele frequency table was made by searching the PubMed® database (1995 to 2016). Allele frequencies reported in phase 3 1000 Genomes were also included (http://browser.1000genomes.org/index.html).
+
+Caveats to estimated allele, diplotype and phenotype frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details can be found at https://www.pharmgkb.org/page/biogeographicalGroups. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,243,VKORC1 diplotype to phenotype translation is not applicable to the warfarin guideline.,https://cpicpgx.org/gene/vkorc1/,,Common Name,False,False
+CYP2C19,chr10,NG_008384.3,NP_000760.1,NC_000010.11,NM_000069.2,HGNC:2621,1557,ENSG00000165841,PA124,"Methods:
+The CYP2C19 frequency table includes updates of those previously published in CPIC guidelines. Updates to the CYP2C19 frequency tables were made by searching the PubMed® database (1995 to 2015). The following criteria were used for CYP2C19: (CYP2C19 or 2C19 or cytochrome P4502C19) AND (genotype OR allele OR frequency OR minor allele OR variant OR ethnic OR race OR racial OR ethnicity) with filter limits set to retrieve ""full-text"" and ""English"" literature. In addition, reports were also identified from citations by others or review articles. Studies were considered for inclusion in the CYP2C19 frequency table if: (1) the ethnicity of the population was clearly indicated, (2) either allele frequencies or genotype frequencies were reported, (3) the method by which the genes were genotyped was indicated, (4) the sample population consisted of at least 50 individuals with a few exceptions (e.g., smaller cohorts that were part of larger studies) and (5) the study represented an original publication (no reviews or meta-analyses). Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies.
+
+Diplotype and Phenotype Calculations. Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies.
+
+Caveats to estimated allele, diplotype and phenotype frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Estimation of *1 frequency. In general, there are no population studies that test for all known variant alleles. Because *1 is not genotyped directly in many studies, all alleles that are negative for a sequence variation are defaulted to a *1 assignment. The inferred frequency for *1 is estimated as: 100 - (sum of averaged variant allele frequencies). For genes where many alleles are not tested for in any population, and frequency of 'common' alleles is not well documented in many understudied populations (Oceanian, Central/South Asian, Latino), the *1 frequency will deviate even more from true values.
+
+Diplotype/Phenotype frequency estimates. Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies. When calculating diplotype frequencies from these allele frequencies, the margin of error is compounded based on the margin of error on each allele in the diplotype. So, the margin of error will necessarily increase for diplotype frequency estimates compared to allele frequency estimates. For allele frequencies with already large margins of error due to small and non-random sampling, the diplotype margin of error could potentially be quite large. On the other hand, for well-studied alleles, the margin of error is likely low.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details, including the definitions of each group, can be found at https://www.pharmgkb.org/page/biogeographicalGroups. We strongly recommend that users use either the publication or the PharmGKB link provided to familiarize themselves with the grouping system before using these allele frequencies. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,307,,https://cpicpgx.org/gene/cyp2c19/,,Legacy Name/Class,True,True
+G6PD,chrX,NG_009015.2,NP_000101.2,NC_000023.11,NM_001042351.2,HGNC:4057,2539,ENSG00000160211,PA28469,"Methods
+
+The allele frequency table was made by searching the gnomAD database.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details can be found at https://www.pharmgkb.org/page/biogeographicalGroups. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",PHENOTYPE,258,,https://cpicpgx.org/gene/g6pd/,,Legacy Name/Class,False,False
+MT-RNR1,chrM,NG_042193.1,NP_000101.2,NC_012920.1,NM_001042351.2,HGNC:7470,4549,ENSG00000211459,PA31274,"Methods
+
+The allele frequency table was made by searching the PubMed® database (1995 to September 2019). The following criteria were used for MT-RNR1: (Mitochondrial AND (A1555G OR C1494T OR T1095C) AND frequency). In addition, reports were also identified from citations by others or review articles. Studies were considered for inclusion in the MT-RNR1 frequency table if: (1) the ethnicity of the population was clearly indicated, (2) the method by which the genes were genotyped was indicated, (3) the sample population consisted of at least 50 individuals with a few exceptions (e.g., smaller cohorts that were part of larger studies) and (4) the study represented an original publication (no reviews or meta-analyses). Homoplasmic allele frequencies reported in gnomAD (https://gnomad.broadinstitute.org/) were also included .
+Caveats to estimated allele, diplotype and phenotype frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details, including the definitions of each group, can be found at https://www.pharmgkb.org/page/biogeographicalGroups. We strongly recommend that users use either the publication or the PharmGKB link provided to familiarize themselves with the grouping system before using these allele frequencies. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,268,,https://cpicpgx.org/gene/mt-rnr1/,,Common name,False,False
+CYP3A5,chr7,NG_007938.2,NP_000768.1,NC_000007.14,NM_000069.2,HGNC:2638,1577,ENSG00000106258,PA131,"Methods
+
+The allele frequency table was made by searching the PubMed® database (1995 to 2014).
+
+Diplotype and Phenotype Calculations. Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies.
+
+Caveats to estimated allele frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Estimation of *1 frequency. In general, there are no population studies that test for all known variant alleles. Because *1 is not genotyped directly in many studies, all alleles that are negative for a sequence variation are defaulted to a *1 assignment. Because CYP3A5*1 is not genotyped directly, all alleles that are negative for a sequence variation are defaulted to a CYP3A5*1 assignment. Likewise, sequence variations of alleles that are not tested may default to a CYP3A5*1 assignment and hence contribute to the frequencies reported for this allele. Therefore, the inferred frequency for CYP3A5*1 was calculated as an average from studies describing allele frequencies for the most common alleles found in a particular biogeographical group.
+
+Diplotype/Phenotype frequency estimates. Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies. When calculating diplotype frequencies from these allele frequencies, the margin of error is compounded based on the margin of error on each allele in the diplotype. So, the margin of error will necessarily increase for diplotype frequency estimates compared to allele frequency estimates. For allele frequencies with already large margins of error due to small and non-random sampling, the diplotype margin of error could potentially be quite large. On the other hand, for well-studied alleles, the margin of error is likely low.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details, including the definitions of each group, can be found at https://www.pharmgkb.org/page/biogeographicalGroups. We strongly recommend that users use either the publication or the PharmGKB link provided to familiarize themselves with the grouping system before using these allele frequencies. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.
+",PHENOTYPE,303,,https://cpicpgx.org/gene/cyp3a5/,,Legacy Name/Class,True,True
+UGT1A1,chr2,NG_002601.2,NP_000454.1,NC_000002.12,NM_000540.2,HGNC:12530,54658,ENSG00000241635,PA420,"Methods
+
+The allele frequency table was made by searching the PubMed® database (1995 to 2015). Allele frequencies reported in phase 3 1000 Genomes were also included (http://browser.1000genomes.org/index.html).
+
+Caveats to estimated allele, diplotype and phenotype frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Estimation of *1 frequency. In general, there are no population studies that test for all known variant alleles. Because *1 is not genotyped directly in many studies, all alleles that are negative for a sequence variation are defaulted to a *1 assignment. Because UGT1A1*1 is not genotyped directly, all alleles that are negative for a sequence variation are defaulted to a UGT1A1*1 assignment. Likewise, sequence variations of alleles that are not tested may default to a UGT1A1*1 assignment and hence contribute to the frequencies reported for this allele. Therefore, the inferred frequency for UGT1A1*1 was calculated as an average from studies describing allele frequencies for the most common alleles found in a particular biogeographical group.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details can be found at https://www.pharmgkb.org/page/biogeographicalGroups. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,304,,https://cpicpgx.org/gene/ugt1a1/,,Nucleotide changes from the UGT nomenclature page: https://www.pharmacogenomics.pha.ulaval.ca/wp-content/uploads/2015/04/UGT1A1-allele-nomenclature.html,False,False
+CYP2B6,chr19,NG_007929.1,NP_000758.1,NC_000019.10,NM_000069.2,HGNC:2615,1555,ENSG00000197408,PA123,"Methods
+
+The allele frequency table was made by searching the PubMed® database (no start date to May 2018). Studies were considered for inclusion in the CYP2B6 Frequency Table if (1) the ethnicity of the population was clearly indicated; (2) either allele frequencies or genotype frequencies were reported; and (3) the method by which genes were genotyped was indicated. Allele frequencies reported in the gnomAD browser (http://gnomad.broadinstitute.org/ - exomes and genomes) and 1000 Genomes Project phase 3 data on Ensemble browser (https://uswest.ensembl.org/index.html) were also included.
+
+Diplotype and Phenotype Calculations. Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies.
+
+Caveats to estimated allele, diplotype and phenotype frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. Studies were included in the frequency calculation regardless of number. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Estimation of *1 frequency. In general, there are no population studies that test for all known variant alleles. Because *1 is not genotyped directly in many studies, all alleles that are negative for a sequence variation are defaulted to a *1 assignment. The inferred frequency for *1 is estimated as: 1 - (sum of averaged variant allele frequencies). For genes where many alleles are not tested for in any population, and frequency of 'common' alleles is not well documented in many understudied populations (Oceania, Middle eastern, South Asian, Latino), the *1 frequency will deviate even more from true values.
+
+Diplotype/Phenotype frequency estimates. Diplotype and phenotype frequencies were estimated using the equation describing Hardy Weinberg equilibrium based on reported allele frequencies. When calculating diplotype frequencies from these allele frequencies, the margin of error is compounded based on the margin of error on each allele in the diplotype. So, the margin of error will necessarily increase for diplotype frequency estimates compared to allele frequency estimates. For allele frequencies with already large margins of error due to small and non-random sampling, the diplotype margin of error could potentially be quite large. On the other hand, for well-studied alleles, the margin of error is likely low.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details, including the definitions of each group, can be found at https://www.pharmgkb.org/page/biogeographicalGroups. We strongly recommend that users use either the publication or the PharmGKB link provided to familiarize themselves with the grouping system before using these allele frequencies. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,308,,https://cpicpgx.org/gene/cyp2b6/,,Legacy Name/Class,True,True
+DPYD,chr1,NG_008807.2,NP_000101.2,NC_000001.11,NM_000069.2,HGNC:1806,282617,ENSG00000188641,PA145,"Methods:
+The DPYD frequency table was created using data from ExAC (http://exac.broadinstitute.org/) and the 1000 Genomes project (http://www.ensembl.org/Homo_sapiens/Info/Index).
+The average allele frequencies by race were calculated by taking the number with the variant in all studies divided by the total number of individuals tested for the variant in all studies.
+All nucleotide changes are according to reference sequence NM_000110.3 and all protein changes are according to reference sequence NP_000101.2
+Caveats
+If 1000 Genomes and/or ExAC did not return any frequency data for a given variant, cells were left blank
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details can be found at https://www.pharmgkb.org/page/biogeographicalGroups. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.
+
+
+
+
+
+
+
+",ACTIVITY_SCORE,307,"The DPYD phenotype is assigned using a gene activity score (DPYD-AS; based on the DPYD Allele Functionality Table), calculated as the sum of the two DPYD variants with the lowest variant activity value. Briefly, carriers of two no function variants (DPYD-AS: 0) OR one decreased function variant (DPD-AS: 0.5) are classified as DPYD poor metabolizers; carriers of two decreased function variants OR carriers of only one no function variant (DPYD-AS: 1) OR carriers of only one decreased function variant (DPYD-AS: 1.5) are considered DPYD intermediate metabolizers , and those with only normal function variants are classified as DPYD normal metabolizers (DPYD-AS: 2). If two decreased/no function variants are present, each decreased/no function variant is considered to be on a different gene copy. Irrespective of the presence of decreased/no function variants, patients may carry multiple normal function variants. As an individual only carries a maximum of two fully functional DPYD copies, common normal function variants may be located on the same gene copy as other normal function variants or decreased/no function variants.",https://cpicpgx.org/gene/dpyd/,,Legacy Name/Class,False,False
+SLCO1B1,chr12,NG_011745.1,NP_006437.3,NC_000012.12,NM_000540.2,HGNC:10959,10599,ENSG00000134538,PA134865839,"Methods
+
+The allele frequency table was made by searching the PubMed® database (1995 to 2021).
+
+Caveats to estimated allele frequencies:
+
+Sampling. Allele frequencies collected by CPIC for the supplemental tables are based on published literature reports which typically study small groups of people based on a geographic location (e.g. Malaysia, Berlin, Cairo). Almost no studies use genetic markers to estimate ancestry. Manuscripts are often focused on a specific phenotype (e.g. disease) or study only individuals taking a particular drug. Such samples would not be considered a random sample of the general population. Another consideration is that sample size is important, and PGx studies are typically not large. The frequencies collected from these studies are then used to estimate general estimates of entire ethnic population allele frequencies. Therefore, frequencies from larger groups of subjects and frequencies averaged from many sample populations probably result in better estimates.
+
+Biogeographical groups. Biogeographical groups are derived from PMID 30506572. Further details can be found at https://www.pharmgkb.org/page/biogeographicalGroups. These tables group individuals from particular geographic locations into larger biogeographical groups. It is difficult to group populations with certainty, because some populations are often admixed, or at the least, a combination of different ethnicities. Therefore, the margin of error is increased when different subpopulations are grouped together.",PHENOTYPE,302,,https://cpicpgx.org/gene/slco1b1/,,Common name,True,True

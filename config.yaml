@@ -1,7 +1,8 @@
 chromadb: # this is the settings for the vector database, persist_directory and collection_name are configurable
-  persist_directory: /media/disk2/HSW/PGx4Statins-AI-Assistant/chroma-db/persist
-  # collection_name: slco1b1_collection
-  collection_name: test_queries_subset
+  persist_directory: /media/disk2/HSW/Django/LLM/chroma-db
+  collection_name: slco1b1_collection
+  # collection_name: test_queries_subset
+  # collection_name: cpic_data
   # collection_name: empty
 
 data: # this is the settings for the data directory, directory is configurable
@@ -10,6 +11,8 @@ data: # this is the settings for the data directory, directory is configurable
     - /media/disk2/HSW/PGx4Statins-AI-Assistant/data/slco1b1/pdfs
     # - /media/disk2/HSW/PGx4Statins-AI-Assistant/data/test_queries/subsets_csv
     # - /media/disk2/HSW/PGx4Statins-AI-Assistant/data/test_queries/subsets_txt
+    # - /media/disk2/HSW/PGx4Statins-AI-Assistant/data/cpic_data/tables
+    # - /media/disk2/HSW/PGx4Statins-AI-Assistant/data/cpic_data/views
 
 parse_pdf:
   chunk_size: 1000
@@ -24,5 +27,3 @@ ollama:
   chat_model_name: llama3.1
   chat_search_type: mmr   # mmr or similarity
   chat_search_k: 4        # number of best resources to pickup
-
-  
